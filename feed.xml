@@ -1,30 +1,2134 @@
----
-layout: null
----
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>{{ site.title | xml_escape }}</title>
-    <description>{{ site.description | xml_escape }}</description>
-    <link>{{ site.url }}{{ site.baseurl }}/</link>
-    <atom:link href="{{ "/feed.xml" | prepend: site.baseurl | prepend: site.url }}" rel="self" type="application/rss+xml"/>
-    <pubDate>{{ site.time | date_to_rfc822 }}</pubDate>
-    <lastBuildDate>{{ site.time | date_to_rfc822 }}</lastBuildDate>
-    <generator>Jekyll v{{ jekyll.version }}</generator>
-    {% for post in site.posts limit:10 %}
+    <title>अथातो घुमक्कड़ जिज्ञासा</title>
+    <description>Eternal Curiousity Of Traveler's Mind</description>
+    <link>https://ghumakkad.github.io/ghumakkad//</link>
+    <atom:link href="https://ghumakkad.github.io/ghumakkad//feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Sat, 06 Oct 2018 12:41:48 +0000</pubDate>
+    <lastBuildDate>Sat, 06 Oct 2018 12:41:48 +0000</lastBuildDate>
+    <generator>Jekyll v3.8.4</generator>
+    
       <item>
-        <title>{{ post.title | xml_escape }}</title>
-        <description>{{ post.content | xml_escape }}</description>
-        <pubDate>{{ post.date | date_to_rfc822 }}</pubDate>
-        <link>{{ post.url | prepend: site.baseurl | prepend: site.url }}</link>
-        <guid isPermaLink="true">{{ post.url | prepend: site.baseurl | prepend: site.url }}</guid>
-        {% for tag in post.tags %}
-        <category>{{ tag | xml_escape }}</category>
-        {% endfor %}
-        {% for cat in post.categories %}
-        <category>{{ cat | xml_escape }}</category>
-        {% endfor %}
+        <title>Kuari pass Trek</title>
+        <description>&lt;p&gt;I had been to Devariyatal — Chandrashila trek in November ‘16. 
+New year was coming. 
+One of my office colleague, Akash had shown interest to come along on a trek. 
+Another colleague Shweta, was also interested in trekking in Himalayas. 
+Shweta had done a trek with me before but Akash was new to this. 
+I thought of trekking to Kuari pass, which offers a close view of Nanda Devi, Dunagiri and Hathi - Ghoda parbat. 
+I had not been to this trek before. 
+It is also suitable for novice trekkers and many trekking organizations run batches along this route. 
+So, we wouldn’t be alone if we couldn’t find any guide for us.&lt;/p&gt;
+
+&lt;p&gt;We started our journey from Delhi on Wednesday, 28th Dec, 2016 on train.
+Upon reaching Haridwar Railway Station, we took a Uttarakhand Roadways bus to Joshimath. 
+Though trek starts from Auli, we figured that accommodation in Auli would cost us more due to increase in tourist influx around year end. 
+We needed to see if we could get a guide in Joshimath. 
+By evening of Thursday, 29th Dec, 2016, we reached Joshimath.&lt;/p&gt;
+
+&lt;p&gt;After this long journey we didn’t have much time left to get a guide and make arrangements of food on the trek. 
+Our topmost priority was to get a guide which would help us with the trek route. 
+We found one from a local tourist organization. 
+Immediately after that, he helped us get all the forest permits needed for camping and trekking. 
+With the consultation of our guide, we bought and packed all the ration needed for a seemingly 4 day long trek to Kuari pass from Auli.&lt;/p&gt;
+
+&lt;h3 id=&quot;first-day-of-trek&quot;&gt;First day of trek&lt;/h3&gt;
+&lt;figure&gt;
+  &lt;img src=&quot;/assets/images/kuari-pass/first_day_of_trek.jpg&quot; alt=&quot;Start of trek from Auli&quot; /&gt;
+  &lt;figcaption&gt;Start of trek from Auli&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;Next morning we started with our guide Nima Sherpa who was carrying the utensils, stove and kerosene. 
+By the time, we reached Auli in a cab it was 08:30 AM. 
+According to itinerary, we were to camp in Gorson Bugyal on first day of trek. 
+After reaching Gorson Bugyal, Nima kept on walking further and I figured that there is no nearby water source around to camp here.
+I decided not tell others so early and was happy in way that we are saving time and I may get some days to go on another trek around here.&lt;/p&gt;
+
+&lt;p&gt;Gorson Bugyal offers a spectacular view of Nanda Devi. Though it was little cloudy, but I was happy to see Nanda Devi so clear. 
+Gorson Bugyal is too soon to camp for the day in my opinion. As we moved further through the meadow, clouds were all around us and we could no longer see peaks other than Hathi Ghoda and Dunagiri on our left. 
+Sun played hide and seek behind the clouds as we moved towards Chitrakantha forest area.
+After a walk of 6 hours, we were entering into Chitrakantha forest.
+Akash had some sign of tiredness but was elated when told that we didn’t stop at Gorson Bugyal due to nonavailability of water and are reaching Chitrakantha/Tali camping site in few minutes. 
+All this time he had been wondering about the distance travelled and the time to reach Gorson Bugyal.&lt;/p&gt;
+
+&lt;figure&gt;
+  &lt;img src=&quot;/assets/images/kuari-pass/chitrakantha_campsite.jpg&quot; alt=&quot;Camps of Himalayan Snow Runners&quot; /&gt;
+  &lt;figcaption&gt;Camps of Himalayan Snow Runners&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;Camping sites of Chitrakantha forest was already full with the camps of Indiahikes and Himalayan Snow Runners. 
+We found a little space nearby where we could pitch our tents. Nima decided to stay in a cave like place nearby where he had set up the kitchen.&lt;/p&gt;
+
+&lt;figure&gt;
+  &lt;img src=&quot;/assets/images/kuari-pass/kitchen.jpg&quot; alt=&quot;Kitchen&quot; /&gt;
+  &lt;figcaption&gt;Kitchen&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;We had started from Auli after our breakfast and were hungry by the time we reached Chitrkantha around 2:30 PM. Nima quickly made tea for all of
+us and then we went on exloring around. Meanwhile, Nima had started preparing for dinner. 
+When sun was about to set, we crammed around a little bonfire made by Nima discussing our next day plans. 
+Nima was planning to camp in Khullar next day before reaching Kuari pass. 
+Akash had some urgent work in office and was not in favour of reaching Kuari pass in 2 days. 
+Nima proposed an alternative plan to leave our tents pitched and start early morning to Kuari pass with our daypacks to come back before evening to Chitrkantha itself. 
+Everybody agreed to this plan. 
+I was little reluctant because I feared that we may not reach Kuari pass early morning to have a clear view of mountains around. 
+I gave up eventually. 
+I had ample time and didn’t want to rush it. 
+Nima had prepared Dal-Chawal. 
+The utensils were small and dal wasn’t enough for 4 people. 
+Nima insisted us to have all of the dal as he would fetch some more from the kitchen of Himalayan Snow Runners where his friends were working. 
+Our little bonfire was about to die, so we decided to call it a day and moved towards our tents.&lt;/p&gt;
+
+&lt;h3 id=&quot;second-day-of-trek&quot;&gt;Second Day of Trek&lt;/h3&gt;
+&lt;figure&gt;
+  &lt;img src=&quot;/assets/images/kuari-pass/hathi_ghoda.jpg&quot; alt=&quot;Hathi Ghoda Parvat and other peaks&quot; /&gt;
+  &lt;figcaption&gt;Hathi Ghoda Parvat and other peaks&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;We woke up early in the morning and after little breakfasts and prepared a daypack with water and a jacket. 
+Akash decided to brush his teeth and was little behind so I asked Shweta and Nima to move ahead. 
+Few minutes later, I hastened with Akash to catch up with others.&lt;/p&gt;
+
+&lt;figure&gt;
+  &lt;img src=&quot;/assets/images/kuari-pass/khullar_campsite_for_pangarchula.jpg&quot; alt=&quot;Near Khullar camping site, towards Kuari pass&quot; /&gt;
+  &lt;figcaption&gt;Near Khullar camping site, towards Kuari pass&lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;p&gt;Near Khullar camping site, towards Kuari pass&lt;/p&gt;
+
+&lt;p&gt;It was past 7:30 in the morning. We were rushing to reach Kuari pass before it gets cloudy and passed others along the way.&lt;/p&gt;
+
+&lt;figure&gt;
+  &lt;img src=&quot;/assets/images/kuari-pass/second_day_view.jpg&quot; alt=&quot;Second day of trek&quot; /&gt;
+  &lt;figcaption&gt;Second day of trek&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;It was around 10:30 when we passed a glacial stream before the slope of Kuari pass.&lt;/p&gt;
+
+&lt;figure&gt;
+  &lt;img src=&quot;/assets/images/kuari-pass/glacial_stream.jpg&quot; alt=&quot;A glacial stream before the slope of Kuari pass&quot; /&gt;
+  &lt;figcaption&gt;A glacial stream before the slope of Kuari pass&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;The view of the huge valley and the Pangarchulla peak in the vicinity was very enticing. 
+I enquired Nima about the climb of Pangarchulla. 
+He told me to come after the snow. 
+Climb to Pangarchula is easier when there is snow as there are many boulders on the way. 
+The cold breeze had become strong and and cloud had started to cover the sun. 
+Soon we reached the top near Kuari pass to have complete 270deg view of surrounding. 
+I had an app “&lt;a href=&quot;https://www.peakfinder.org/?lat=30.4453&amp;amp;lng=79.5756&amp;amp;azi=47&amp;amp;zoom=4&amp;amp;ele=3805&quot;&gt;PeakFinder&lt;/a&gt;” installed to identify the peaks in view from any location. 
+I was little disappointed as array of clouds always covered the the peaks behind Dunagiri and Hathi Ghora. 
+We stayed there at the top for an hour or so while sun played hide and seek behind the clouds.
+Even for a moment, the warmth of sun in such ice cold breeze was greatly appreciated by us. 
+It seemed that weather was not going to get any clearer and it might snow.&lt;/p&gt;
+
+&lt;figure&gt;
+  &lt;img src=&quot;/assets/images/kuari-pass/pass.jpg&quot; alt=&quot;Kuari pass&quot; /&gt;
+  &lt;figcaption&gt;Kuari pass&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;After a little stay there, we started back. The other group from some trek organization had been resting way behind the glacial stream. 
+While coming back, they met us near the glacial stream. 
+We suggested few of those trekkers to hurry as they might get caught in bad weather while coming back. 
+It looked like this group had many novice trekkers, not mentally prepared enough for adverse conditions which might come.&lt;/p&gt;
+
+&lt;p&gt;Wind was getting stronger and stronger and carried snowflakes along with it. 
+Shweta had developed knee pain while descending and was walking slow. 
+I asked Nima to go ahead and prepare lunch for us. We were walking little slow but reached Chitrakantha around 3 PM. 
+Lunch was served and Akash went ahead to take a nap while I stayed near the fireplace. 
+To pass time I decided to roast the rest of the tomatoes and potatoes and prepared “chokha” with great help of Shweta for all of us to be served
+in dinner.&lt;/p&gt;
+
+&lt;figure&gt;
+  &lt;img src=&quot;/assets/images/kuari-pass/new_year_eve.jpg&quot; alt=&quot;New year eve, dinner prepared&quot; /&gt;
+  &lt;figcaption&gt;New year eve, dinner prepared&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;Anyway we were going back tomorrow. 
+We clicked pictures in the cave while Nima went off with some of his friends to celebrate new year. 
+Two goats were brought from the nearby village for 31st December night. 
+Akash was amused to think whether he could ask in their kitchen to share some of mutton with him. 
+Nima was back around 9 and asked us to have our dinner so that he could be free to be with his friends. 
+I was happy to hear some kind words about “chokha” from Nima.
+We thought of keeping ourselves awake till 12 in night that day but our eyes were getting heavy by 10 PM.&lt;/p&gt;
+
+&lt;h3 id=&quot;third-day-of-trek&quot;&gt;Third Day of Trek&lt;/h3&gt;
+
+&lt;p&gt;It was first day of year 2017, we had started back to Dhak from where we could take a cab to Joshimath. 
+It was 11:30 AM when everybody reached Dhak. 
+After waiting a while when we could not get any transport, I asked Nima to call a cab to pick us up which came after half an hour. 
+There weren’t any buses to Haridwar in afternoon so we decided to stay in Joshimath that night to catch an early bus to Haridwar next morning.&lt;/p&gt;
+
+&lt;p&gt;For more photos, our &lt;a href=&quot;https://goo.gl/photos/BzfZadUGLftwrM8Y6&quot;&gt;Kuari pass album&lt;/a&gt;&lt;/p&gt;
+</description>
+        <pubDate>Sun, 22 Jan 2017 00:00:00 +0000</pubDate>
+        <link>https://ghumakkad.github.io/ghumakkad//2017/01/22/kuari-pass-trek-log/</link>
+        <guid isPermaLink="true">https://ghumakkad.github.io/ghumakkad//2017/01/22/kuari-pass-trek-log/</guid>
+        
+        
+        <category>gorson bugyal</category>
+        
+        <category>khullar</category>
+        
+        <category>hathi ghora</category>
+        
+        <category>chamoli</category>
+        
+        <category>joshimath</category>
+        
+        <category>nanda devi</category>
+        
+        <category>kuari pass</category>
+        
+        <category>pangarchula</category>
+        
+        <category>auli</category>
+        
+        <category>chitrakantha</category>
+        
+        <category>dunagiri</category>
+        
       </item>
-    {% endfor %}
+    
+      <item>
+        <title>Devariyatal Chandrashila Trek Log</title>
+        <description>&lt;p&gt;— layout: post title: Devariyatal - Chandrashila Trek Log date:
+‘2017-01-22T05:43:00.000+05:30’ author: Prashant C Chaturvedi tags: -
+chopta - sari - solo trekking - devariyatal - himalayas - rohini bugyal&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;bhurjgali - tungnath - uttarakhand - chandrashila - rudraprayag -
+backpacking modified_time: ‘2017-01-22T05:49:48.499+05:30’ blogger_id:
+tag:blogger.com,1999:blog-7230910114786000845.post-7577656705032928744
+blogger_orig_url:
+http://mountaineeringguide.blogspot.com/2017/01/devariyatal-chandrashila-trek-log.html
+—&lt;/li&gt;
+&lt;/ul&gt;
+&lt;div dir=&quot;ltr&quot; style=&quot;text-align: left;&quot; trbidi=&quot;on&quot;&gt;
+
+&lt;div class=&quot;separator&quot; style=&quot;clear: both; text-align: center;&quot;&gt;
+
+&lt;/div&gt;
+
+&lt;div class=&quot;section-inner sectionLayout--insetColumn&quot; style=&quot;background-color: white; box-sizing: border-box; color: rgba(0, 0, 0, 0.8); font-family: -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Roboto, Oxygen, Ubuntu, Cantarell, &amp;quot;Open Sans&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, sans-serif; font-size: 18px; margin: 0px auto; max-width: 740px; padding-left: 20px; padding-right: 20px; position: relative; width: 740px;&quot;&gt;
+
+\
+&lt;div class=&quot;aspectRatioPlaceholder is-locked&quot; style=&quot;margin: 0px auto; max-height: 525px; max-width: 700px; position: relative; width: 700px;&quot;&gt;
+
+&lt;div class=&quot;aspectRatioPlaceholder-fill&quot; style=&quot;padding-bottom: 525px;&quot;&gt;
+
+\
+
+&lt;/div&gt;
+
+&lt;div class=&quot;progressiveMedia js-progressiveMedia graf-image is-canvasLoaded is-imageLoaded&quot; data-action-value=&quot;1*TmgloK8kR3ZqvlXZa54fKQ.jpeg&quot; data-action=&quot;zoom&quot; data-height=&quot;2448&quot; data-image-id=&quot;1*TmgloK8kR3ZqvlXZa54fKQ.jpeg&quot; data-scroll=&quot;native&quot; data-width=&quot;3264&quot; style=&quot;background: rgba(0, 0, 0, 0); box-sizing: border-box; cursor: zoom-in; height: 525px; left: 0px; margin: auto; max-width: 100%; position: absolute; top: 0px; transition: background 0.2s; width: 700px;&quot;&gt;
+
+![](https://cdn-images-1.medium.com/max/1600/1*TmgloK8kR3ZqvlXZa54fKQ.jpeg){.progressiveMedia-image
+.js-progressiveMedia-image}
+
+&lt;/div&gt;
+
+&lt;/div&gt;
+
+\
+&lt;div id=&quot;bb48&quot; class=&quot;graf graf--p graf-after--figure&quot; name=&quot;bb48&quot; style=&quot;--baseline-multiplier: 0.179; font-family: medium-content-serif-font, Georgia, Cambria, &amp;quot;Times New Roman&amp;quot;, Times, serif; font-size: 21px; letter-spacing: -0.003em; line-height: 1.58; margin-top: 38px;&quot;&gt;
+
+After my last trek to Hampta Pass, I couldn’t get any leave from office
+due to work and had lost precious trek months of August, September and
+October. It was towards end of November, when I finally got a chance to
+plan a trek.\
+One of my office colleague, Shweta had been asking to go on a trek. She
+was eager to see what a trek would be like. I was little skeptical,
+since she had no prior experience of trek.
+
+&lt;/div&gt;
+
+\
+&lt;div class=&quot;aspectRatioPlaceholder is-locked&quot; style=&quot;margin: 0px auto; max-height: 700px; max-width: 525px; position: relative; width: 525px;&quot;&gt;
+
+&lt;div class=&quot;aspectRatioPlaceholder-fill&quot; style=&quot;padding-bottom: 699.812px;&quot;&gt;
+
+&lt;/div&gt;
+
+&lt;div class=&quot;progressiveMedia js-progressiveMedia graf-image is-canvasLoaded is-imageLoaded&quot; data-action-value=&quot;1*fy97oybtNXCkvujB2BymcA.jpeg&quot; data-action=&quot;zoom&quot; data-height=&quot;3000&quot; data-image-id=&quot;1*fy97oybtNXCkvujB2BymcA.jpeg&quot; data-scroll=&quot;native&quot; data-width=&quot;2250&quot; style=&quot;background: rgba(0, 0, 0, 0); box-sizing: border-box; cursor: zoom-in; height: 699.812px; left: 0px; margin: auto; max-width: 100%; position: absolute; top: 0px; transition: background 0.2s; width: 525px;&quot;&gt;
+
+![](https://cdn-images-1.medium.com/max/1200/1*fy97oybtNXCkvujB2BymcA.jpeg){.progressiveMedia-image
+.js-progressiveMedia-image}
+
+&lt;/div&gt;
+
+&lt;/div&gt;
+
+\
+&lt;div id=&quot;8750&quot; class=&quot;graf graf--p graf-after--figure&quot; name=&quot;8750&quot; style=&quot;--baseline-multiplier: 0.179; font-family: medium-content-serif-font, Georgia, Cambria, &amp;quot;Times New Roman&amp;quot;, Times, serif; font-size: 21px; letter-spacing: -0.003em; line-height: 1.58; margin-top: 38px;&quot;&gt;
+
+I had not been to Tungnath before, so I chose to trek to Chandrashila
+starting from Devariyatal via Rohini Bugyal. It was also suitable trek
+in a way that it is not difficult for new trekkers.
+
+&lt;/div&gt;
+
+&lt;div id=&quot;d5e0&quot; class=&quot;graf graf--p graf-after--p&quot; name=&quot;d5e0&quot; style=&quot;--baseline-multiplier: 0.179; font-family: medium-content-serif-font, Georgia, Cambria, &amp;quot;Times New Roman&amp;quot;, Times, serif; font-size: 21px; letter-spacing: -0.003em; line-height: 1.58; margin-top: 29px;&quot;&gt;
+
+&lt;span class=&quot;markup--strong markup--p-strong&quot; style=&quot;font-weight: 700;&quot;&gt;About Tungnath&lt;/span&gt;
+
+&lt;/div&gt;
+
+&amp;gt; Tungnath is the highest Shiva temple in the world and is one of the
+&amp;gt; five and the highest Panch Kedar temples located in the mountain range
+&amp;gt; of Tunganath in Rudraprayag district, in the Indian state of
+&amp;gt; Uttarakhand. The Tunganath (literal meaning: Lord of the peaks)
+&amp;gt; mountains form the Mandakini and Alaknanda river valleys. Located at
+&amp;gt; an altitude of 3,680 m (12,073 ft), and just below the peak of
+&amp;gt; Chandrashila, Tungnath temple is the highest Hindu shrine dedicated to
+&amp;gt; Lord Shiva. The temple is believed to be 1000 years old and is the
+&amp;gt; third (Tritiya Kedar) in the pecking order of the Panch Kedars. It has
+&amp;gt; a rich legend linked to the Pandavas, heroes of the Mahabharata epic.
+
+&lt;div id=&quot;cf84&quot; class=&quot;graf graf--p graf-after--blockquote&quot; name=&quot;cf84&quot; style=&quot;--baseline-multiplier: 0.179; font-family: medium-content-serif-font, Georgia, Cambria, &amp;quot;Times New Roman&amp;quot;, Times, serif; font-size: 21px; letter-spacing: -0.003em; line-height: 1.58; margin-top: 29px;&quot;&gt;
+
+We started from New Delhi to Haridwar on Friday, 25th Nov’16 via train
+and we reached Haridwar at 4 in the morning. The bus stand was near by
+so we walked towards Bus stand soon after having tea at Railway station
+to catch a bus to Joshimath, Chamoli. After 6 hours of journey, we
+reached Rudraprayag. From there we took a cab to Sari village (Starting
+point of trek) as there aren’t frequent transport options towards
+Ukhimath road. Sari is located near Ukhimath in Rudraprayag district.
+
+&lt;/div&gt;
+
+&lt;div id=&quot;b88c&quot; class=&quot;graf graf--p graf-after--p&quot; name=&quot;b88c&quot; style=&quot;--baseline-multiplier: 0.179; font-family: medium-content-serif-font, Georgia, Cambria, &amp;quot;Times New Roman&amp;quot;, Times, serif; font-size: 21px; letter-spacing: -0.003em; line-height: 1.58; margin-top: 29px;&quot;&gt;
+
+&lt;span class=&quot;markup--strong markup--p-strong&quot; style=&quot;font-weight: 700;&quot;&gt;First Day of Trek&lt;/span&gt;
+
+&lt;/div&gt;
+
+\
+&lt;div class=&quot;aspectRatioPlaceholder is-locked&quot; style=&quot;margin: 0px auto; max-height: 525px; max-width: 700px; position: relative; width: 700px;&quot;&gt;
+
+&lt;div class=&quot;aspectRatioPlaceholder-fill&quot; style=&quot;padding-bottom: 525px;&quot;&gt;
+
+&lt;/div&gt;
+
+&lt;div class=&quot;progressiveMedia js-progressiveMedia graf-image is-canvasLoaded is-imageLoaded&quot; data-action-value=&quot;1*TsUe6mjFJTL4FuH9-ylr6Q.jpeg&quot; data-action=&quot;zoom&quot; data-height=&quot;3480&quot; data-image-id=&quot;1*TsUe6mjFJTL4FuH9-ylr6Q.jpeg&quot; data-scroll=&quot;native&quot; data-width=&quot;4640&quot; style=&quot;background: rgba(0, 0, 0, 0); box-sizing: border-box; cursor: zoom-in; height: 525px; left: 0px; margin: auto; max-width: 100%; position: absolute; top: 0px; transition: background 0.2s; width: 700px;&quot;&gt;
+
+![](https://cdn-images-1.medium.com/max/1600/1*TsUe6mjFJTL4FuH9-ylr6Q.jpeg){.progressiveMedia-image
+.js-progressiveMedia-image}
+
+&lt;/div&gt;
+
+&lt;/div&gt;
+
+First day of trek towards Devariyatal from Sari
+\
+&lt;div id=&quot;bf87&quot; class=&quot;graf graf--p graf-after--figure&quot; name=&quot;bf87&quot; style=&quot;--baseline-multiplier: 0.179; font-family: medium-content-serif-font, Georgia, Cambria, &amp;quot;Times New Roman&amp;quot;, Times, serif; font-size: 21px; letter-spacing: -0.003em; line-height: 1.58; margin-top: 38px;&quot;&gt;
+
+We reached the village Sari around 2 PM. We started off to Devariyatal
+immediately. Trek to Devariyatal is roughly 3 km climb from this
+village. In little more than an hour, we reached Devariyatal . There
+weren’t many people camping that day. In fact, there were only two tents
+pitched except ours. The lake Devariyatal is beauty of it’s own.
+
+&lt;/div&gt;
+
+\
+&lt;div class=&quot;aspectRatioPlaceholder is-locked&quot; style=&quot;margin: 0px auto; max-height: 525px; max-width: 700px; position: relative; width: 700px;&quot;&gt;
+
+&lt;div class=&quot;aspectRatioPlaceholder-fill&quot; style=&quot;padding-bottom: 525px;&quot;&gt;
+
+&lt;/div&gt;
+
+&lt;div class=&quot;progressiveMedia js-progressiveMedia graf-image is-canvasLoaded is-imageLoaded&quot; data-action-value=&quot;1*o2ec2jbxRpdaG0FDhJ_XJg.jpeg&quot; data-action=&quot;zoom&quot; data-height=&quot;3480&quot; data-image-id=&quot;1*o2ec2jbxRpdaG0FDhJ_XJg.jpeg&quot; data-scroll=&quot;native&quot; data-width=&quot;4640&quot; style=&quot;background: rgba(0, 0, 0, 0); box-sizing: border-box; cursor: zoom-in; height: 525px; left: 0px; margin: auto; max-width: 100%; position: absolute; top: 0px; transition: background 0.2s; width: 700px;&quot;&gt;
+
+![](https://cdn-images-1.medium.com/max/1600/1*o2ec2jbxRpdaG0FDhJ_XJg.jpeg){.progressiveMedia-image
+.js-progressiveMedia-image}
+
+&lt;/div&gt;
+
+&lt;/div&gt;
+
+\
+&lt;div id=&quot;f993&quot; class=&quot;graf graf--p graf-after--figure&quot; name=&quot;f993&quot; style=&quot;--baseline-multiplier: 0.179; font-family: medium-content-serif-font, Georgia, Cambria, &amp;quot;Times New Roman&amp;quot;, Times, serif; font-size: 21px; letter-spacing: -0.003em; line-height: 1.58; margin-top: 38px;&quot;&gt;
+
+A clear view of peak like Mt. Chaukhambha, and reflections of
+surrounding trees in it’s calm water could hardly be matched by any
+other camping site. It is also unmatched in terms of it’s distance from
+nearest civilization with Sari village being just 2 km downhill. We put
+our bags and tents nearby the lake and decided to take stroll along the
+boundary of lake. The sun was about to set, and the surrounding peaks
+were getting a golden hue.
+
+&lt;/div&gt;
+
+\
+&lt;div class=&quot;aspectRatioPlaceholder is-locked&quot; style=&quot;margin: 0px auto; max-height: 525px; max-width: 700px; position: relative; width: 700px;&quot;&gt;
+
+&lt;div class=&quot;aspectRatioPlaceholder-fill&quot; style=&quot;padding-bottom: 525px;&quot;&gt;
+
+&lt;/div&gt;
+
+&lt;div class=&quot;progressiveMedia js-progressiveMedia graf-image is-canvasLoaded is-imageLoaded&quot; data-action-value=&quot;1*jmq_Qkv50vRJwF-UzmZCBw.jpeg&quot; data-action=&quot;zoom&quot; data-height=&quot;3480&quot; data-image-id=&quot;1*jmq_Qkv50vRJwF-UzmZCBw.jpeg&quot; data-scroll=&quot;native&quot; data-width=&quot;4640&quot; style=&quot;background: rgba(0, 0, 0, 0); box-sizing: border-box; cursor: zoom-in; height: 525px; left: 0px; margin: auto; max-width: 100%; position: absolute; top: 0px; transition: background 0.2s; width: 700px;&quot;&gt;
+
+![](https://cdn-images-1.medium.com/max/1600/1*jmq_Qkv50vRJwF-UzmZCBw.jpeg){.progressiveMedia-image
+.js-progressiveMedia-image}
+
+&lt;/div&gt;
+
+&lt;/div&gt;
+
+\
+&lt;div id=&quot;c99d&quot; class=&quot;graf graf--p graf-after--figure&quot; name=&quot;c99d&quot; style=&quot;--baseline-multiplier: 0.179; font-family: medium-content-serif-font, Georgia, Cambria, &amp;quot;Times New Roman&amp;quot;, Times, serif; font-size: 21px; letter-spacing: -0.003em; line-height: 1.58; margin-top: 38px;&quot;&gt;
+
+With every moment of setting sun, mountains were getting heavenly.
+
+&lt;/div&gt;
+
+\
+&lt;div class=&quot;aspectRatioPlaceholder is-locked&quot; style=&quot;margin: 0px auto; max-height: 525px; max-width: 700px; position: relative; width: 700px;&quot;&gt;
+
+&lt;div class=&quot;aspectRatioPlaceholder-fill&quot; style=&quot;padding-bottom: 525px;&quot;&gt;
+
+&lt;/div&gt;
+
+&lt;div class=&quot;progressiveMedia js-progressiveMedia graf-image is-canvasLoaded is-imageLoaded&quot; data-action-value=&quot;1*KjzqMR1m_OJ4mANzQT0jSw.jpeg&quot; data-action=&quot;zoom&quot; data-height=&quot;3480&quot; data-image-id=&quot;1*KjzqMR1m_OJ4mANzQT0jSw.jpeg&quot; data-scroll=&quot;native&quot; data-width=&quot;4640&quot; style=&quot;background: rgba(0, 0, 0, 0); box-sizing: border-box; cursor: zoom-in; height: 525px; left: 0px; margin: auto; max-width: 100%; position: absolute; top: 0px; transition: background 0.2s; width: 700px;&quot;&gt;
+
+![](https://cdn-images-1.medium.com/max/1600/1*KjzqMR1m_OJ4mANzQT0jSw.jpeg){.progressiveMedia-image
+.js-progressiveMedia-image}
+
+&lt;/div&gt;
+
+&lt;/div&gt;
+
+With every moment of setting sun, mountains were getting heavenly.
+\
+&lt;div id=&quot;6b11&quot; class=&quot;graf graf--p graf-after--figure&quot; name=&quot;6b11&quot; style=&quot;--baseline-multiplier: 0.179; font-family: medium-content-serif-font, Georgia, Cambria, &amp;quot;Times New Roman&amp;quot;, Times, serif; font-size: 21px; letter-spacing: -0.003em; line-height: 1.58; margin-top: 38px;&quot;&gt;
+
+We rushed to a place to get a best possible view. We couldn’t have
+enough of it. It felt like as if it has been a long time since I had
+been away from mountains. Shweta also was very happy to be here. In her
+words, this place can make a person breathe a new life in themselves.
+
+&lt;/div&gt;
+
+\
+&lt;div class=&quot;aspectRatioPlaceholder is-locked&quot; style=&quot;margin: 0px auto; max-height: 467px; max-width: 700px; position: relative; width: 700px;&quot;&gt;
+
+&lt;div class=&quot;aspectRatioPlaceholder-fill&quot; style=&quot;padding-bottom: 466.891px;&quot;&gt;
+
+&lt;/div&gt;
+
+&lt;div class=&quot;progressiveMedia js-progressiveMedia graf-image is-canvasLoaded is-imageLoaded&quot; data-action-value=&quot;1*7IApQIyDzIUqRloRZEVnJw.jpeg&quot; data-action=&quot;zoom&quot; data-height=&quot;3265&quot; data-image-id=&quot;1*7IApQIyDzIUqRloRZEVnJw.jpeg&quot; data-scroll=&quot;native&quot; data-width=&quot;4898&quot; style=&quot;background: rgba(0, 0, 0, 0); box-sizing: border-box; cursor: zoom-in; height: 466.891px; left: 0px; margin: auto; max-width: 100%; position: absolute; top: 0px; transition: background 0.2s; width: 700px;&quot;&gt;
+
+![](https://cdn-images-1.medium.com/max/1600/1*7IApQIyDzIUqRloRZEVnJw.jpeg){.progressiveMedia-image
+.js-progressiveMedia-image}
+
+&lt;/div&gt;
+
+&lt;/div&gt;
+
+\
+&lt;div id=&quot;669a&quot; class=&quot;graf graf--p graf-after--figure&quot; name=&quot;669a&quot; style=&quot;--baseline-multiplier: 0.179; font-family: medium-content-serif-font, Georgia, Cambria, &amp;quot;Times New Roman&amp;quot;, Times, serif; font-size: 21px; letter-spacing: -0.003em; line-height: 1.58; margin-top: 38px;&quot;&gt;
+
+Before dark, we pitched our tents. The sky was soon filled with stars
+where we sat under in appreciation. After some time, we went to a nearby
+shop for dinner. There while having dinner, we asked about the route to
+Chandrashila via Rohini Bugyal from the shopkeeper. He told us to take a
+guide as there was very less or no water along the route and there was
+nobody going through that route these days. I had never taken a guide
+before but this time was different. I needed to be more responsible than
+before. I was not sure, how easy this was going to be for somebody new
+to trekking. We may have to keep on trekking if we couldn’t find water
+along the way till we find any. Shweta was ready to accept these
+difficulties. After talking to others in the shop, it was clear to us
+that water sources along the way had dried up and we may face
+difficulties because of that. Everybody except us, were going to
+Tungnath from Chopta which was too mainstream for me. While having
+dinner, I asked if I could get a guide for the rest of the trek. The
+shopkeeper told us that he knew someone in the village, who would take
+INR 1000 per day and we also have to rent a tent and sleeping bag for
+him. We decided to think over it in night and went back to our tents.
+
+&lt;/div&gt;
+
+&lt;div id=&quot;4dc6&quot; class=&quot;graf graf--p graf-after--p&quot; name=&quot;4dc6&quot; style=&quot;--baseline-multiplier: 0.179; font-family: medium-content-serif-font, Georgia, Cambria, &amp;quot;Times New Roman&amp;quot;, Times, serif; font-size: 21px; letter-spacing: -0.003em; line-height: 1.58; margin-top: 29px;&quot;&gt;
+
+&lt;span class=&quot;markup--strong markup--p-strong&quot; style=&quot;font-weight: 700;&quot;&gt;Second day of Trek&lt;/span&gt;
+
+&lt;/div&gt;
+
+\
+&lt;div class=&quot;aspectRatioPlaceholder is-locked&quot; style=&quot;margin: 0px auto; max-height: 467px; max-width: 700px; position: relative; width: 700px;&quot;&gt;
+
+&lt;div class=&quot;aspectRatioPlaceholder-fill&quot; style=&quot;padding-bottom: 466.891px;&quot;&gt;
+
+&lt;/div&gt;
+
+&lt;div class=&quot;progressiveMedia js-progressiveMedia graf-image is-canvasLoaded is-imageLoaded&quot; data-action-value=&quot;1*XQgPSNOhDTa-uEOSJbGpJQ.jpeg&quot; data-action=&quot;zoom&quot; data-height=&quot;3265&quot; data-image-id=&quot;1*XQgPSNOhDTa-uEOSJbGpJQ.jpeg&quot; data-scroll=&quot;native&quot; data-width=&quot;4898&quot; style=&quot;background: rgba(0, 0, 0, 0); box-sizing: border-box; cursor: zoom-in; height: 466.891px; left: 0px; margin: auto; max-width: 100%; position: absolute; top: 0px; transition: background 0.2s; width: 700px;&quot;&gt;
+
+![](https://cdn-images-1.medium.com/max/1600/1*XQgPSNOhDTa-uEOSJbGpJQ.jpeg){.progressiveMedia-image
+.js-progressiveMedia-image}
+
+&lt;/div&gt;
+
+&lt;/div&gt;
+
+Chaukhambha, early morning at Devariyatal
+\
+&lt;div id=&quot;c57e&quot; class=&quot;graf graf--p graf-after--figure&quot; name=&quot;c57e&quot; style=&quot;--baseline-multiplier: 0.179; font-family: medium-content-serif-font, Georgia, Cambria, &amp;quot;Times New Roman&amp;quot;, Times, serif; font-size: 21px; letter-spacing: -0.003em; line-height: 1.58; margin-top: 38px;&quot;&gt;
+
+We woke up early and packed our bags. There was a hut of forest guard
+nearby who gave us the required camping permits. We were ready by 7 AM.
+What mattered to me the most was to complete the trek without any
+unnecessary difficulties. While having breakfast I asked the shopkeeper
+to arrange for the guide he was talking about last night. Meanwhile he
+was on his way to Devariyatal from home (Sari village), we arranged for
+his tent and sleeping bag along with some utensils and food items which
+will be required in coming days. Being extra careful with water, we
+bought some extra bottles in case we didn’t find any water on the way.
+Our guide, Umendra Singh Bhatt, turned up almost after an hour and we
+started as soon as he arrived. Our first stop was Rohini Bugyal and the
+trail leading to Rohini Bugyal was not long. It ascends moderately till
+Jhandi Dhar (a ridge with a flag at the top) and passes through a dense
+jungle thereafter.
+
+&lt;/div&gt;
+
+\
+&lt;div class=&quot;aspectRatioPlaceholder is-locked&quot; style=&quot;margin: 0px auto; max-height: 933px; max-width: 700px; position: relative; width: 700px;&quot;&gt;
+
+&lt;div class=&quot;aspectRatioPlaceholder-fill&quot; style=&quot;padding-bottom: 933.094px;&quot;&gt;
+
+&lt;/div&gt;
+
+&lt;div class=&quot;progressiveMedia js-progressiveMedia graf-image is-canvasLoaded is-imageLoaded&quot; data-action-value=&quot;1*AbkG4Ua4fg5joBA3dU_1dQ.jpeg&quot; data-action=&quot;zoom&quot; data-height=&quot;3264&quot; data-image-id=&quot;1*AbkG4Ua4fg5joBA3dU_1dQ.jpeg&quot; data-scroll=&quot;native&quot; data-width=&quot;2448&quot; style=&quot;background: rgba(0, 0, 0, 0); box-sizing: border-box; cursor: zoom-in; height: 933px; left: 0px; margin: auto; max-width: 100%; position: absolute; top: 0px; transition: background 0.2s; width: 700px;&quot;&gt;
+
+![](https://cdn-images-1.medium.com/max/1600/1*AbkG4Ua4fg5joBA3dU_1dQ.jpeg){.progressiveMedia-image
+.js-progressiveMedia-image}
+
+&lt;/div&gt;
+
+&lt;/div&gt;
+
+\
+&lt;div id=&quot;fb9d&quot; class=&quot;graf graf--p graf-after--figure&quot; name=&quot;fb9d&quot; style=&quot;--baseline-multiplier: 0.179; font-family: medium-content-serif-font, Georgia, Cambria, &amp;quot;Times New Roman&amp;quot;, Times, serif; font-size: 21px; letter-spacing: -0.003em; line-height: 1.58; margin-top: 38px;&quot;&gt;
+
+On our right side, we constantly had a view of Sari village. Contrary to
+what was told, we encountered running streams on our way. After Jhandi
+Dhar, the jungle becomes dense and beautiful.
+
+&lt;/div&gt;
+
+\
+&lt;div class=&quot;aspectRatioPlaceholder is-locked&quot; style=&quot;margin: 0px auto; max-height: 394px; max-width: 525px; position: relative; width: 525px;&quot;&gt;
+
+&lt;div class=&quot;aspectRatioPlaceholder-fill&quot; style=&quot;padding-bottom: 393.75px;&quot;&gt;
+
+&lt;/div&gt;
+
+&lt;div class=&quot;progressiveMedia js-progressiveMedia graf-image is-canvasLoaded is-imageLoaded&quot; data-action-value=&quot;1*hVfp9UqxTpA4DIINFsRbOA.jpeg&quot; data-action=&quot;zoom&quot; data-height=&quot;3480&quot; data-image-id=&quot;1*hVfp9UqxTpA4DIINFsRbOA.jpeg&quot; data-scroll=&quot;native&quot; data-width=&quot;4640&quot; style=&quot;background: rgba(0, 0, 0, 0); box-sizing: border-box; cursor: zoom-in; height: 393.75px; left: 0px; margin: auto; max-width: 100%; position: absolute; top: 0px; transition: background 0.2s; width: 525px;&quot;&gt;
+
+![](https://cdn-images-1.medium.com/max/1200/1*hVfp9UqxTpA4DIINFsRbOA.jpeg){.progressiveMedia-image
+.js-progressiveMedia-image}
+
+&lt;/div&gt;
+
+&lt;/div&gt;
+
+&lt;div class=&quot;aspectRatioPlaceholder is-locked&quot; style=&quot;margin: 0px auto; max-height: 350px; max-width: 525px; position: relative; width: 525px;&quot;&gt;
+
+&lt;div class=&quot;aspectRatioPlaceholder-fill&quot; style=&quot;padding-bottom: 350.172px;&quot;&gt;
+
+&lt;/div&gt;
+
+&lt;div class=&quot;progressiveMedia js-progressiveMedia graf-image is-canvasLoaded is-imageLoaded&quot; data-action-value=&quot;1*IEDwUk9J5xaZgh11z0OsNQ.jpeg&quot; data-action=&quot;zoom&quot; data-height=&quot;3265&quot; data-image-id=&quot;1*IEDwUk9J5xaZgh11z0OsNQ.jpeg&quot; data-scroll=&quot;native&quot; data-width=&quot;4898&quot; style=&quot;background: rgba(0, 0, 0, 0); box-sizing: border-box; cursor: zoom-in; height: 350px; left: 0px; margin: auto; max-width: 100%; position: absolute; top: 0px; transition: background 0.2s; width: 525px;&quot;&gt;
+
+![](https://cdn-images-1.medium.com/max/1200/1*IEDwUk9J5xaZgh11z0OsNQ.jpeg){.progressiveMedia-image
+.js-progressiveMedia-image}
+
+&lt;/div&gt;
+
+&lt;/div&gt;
+
+\
+&lt;div id=&quot;2fd0&quot; class=&quot;graf graf--p graf-after--figure&quot; name=&quot;2fd0&quot; style=&quot;--baseline-multiplier: 0.179; font-family: medium-content-serif-font, Georgia, Cambria, &amp;quot;Times New Roman&amp;quot;, Times, serif; font-size: 21px; letter-spacing: -0.003em; line-height: 1.58; margin-top: 38px;&quot;&gt;
+
+Every now and then I couldn’t stop myself from halting and clicking
+pictures on the way. We easily reached Rohini Bugyal in 4–5 hours. We
+decided to halt for the day and the place had few abandoned huts. People
+living there had left the place not more than a month ago. There was a
+small stream of water near the place where we decided to camp. Umendra
+collected some dry woods from nearby place and created a makeshift
+fireplace with some stones and started to prepare tea. After having tea,
+we went around to fetch some more wood for night and cooking.
+
+&lt;/div&gt;
+
+&lt;div id=&quot;76c4&quot; class=&quot;graf graf--p graf-after--p&quot; name=&quot;76c4&quot; style=&quot;--baseline-multiplier: 0.179; font-family: medium-content-serif-font, Georgia, Cambria, &amp;quot;Times New Roman&amp;quot;, Times, serif; font-size: 21px; letter-spacing: -0.003em; line-height: 1.58; margin-top: 29px;&quot;&gt;
+
+I was curious to know about the places around, so soon after having tea
+and maggi, we went for a stroll. From our location the view of Trishul
+peak was blocked by a mountain. Umendra told us that on this mountain,
+there is a lake called Bisuri Tal which is a high altitude glacial lake.
+I think it may’ve been known as Vasuki Tal originally. From Rohini
+Bugyal, a straight trail leads to Bisuri Tal, whereas the trail on the
+right with initial ascent and then steep descent goes towards Akash
+Kamini stream coming from Chandrashila.
+
+&lt;/div&gt;
+
+\
+&lt;div class=&quot;aspectRatioPlaceholder is-locked&quot; style=&quot;margin: 0px auto; max-height: 525px; max-width: 700px; position: relative; width: 700px;&quot;&gt;
+
+&lt;div class=&quot;aspectRatioPlaceholder-fill&quot; style=&quot;padding-bottom: 525px;&quot;&gt;
+
+&lt;/div&gt;
+
+&lt;div class=&quot;progressiveMedia js-progressiveMedia graf-image is-canvasLoaded is-imageLoaded&quot; data-action-value=&quot;1*oWW5eCTRtBBP-L8ln6htkQ.jpeg&quot; data-action=&quot;zoom&quot; data-height=&quot;3480&quot; data-image-id=&quot;1*oWW5eCTRtBBP-L8ln6htkQ.jpeg&quot; data-scroll=&quot;native&quot; data-width=&quot;4640&quot; style=&quot;background: rgba(0, 0, 0, 0); box-sizing: border-box; cursor: zoom-in; height: 525px; left: 0px; margin: auto; max-width: 100%; position: absolute; top: 0px; transition: background 0.2s; width: 700px;&quot;&gt;
+
+![](https://cdn-images-1.medium.com/max/1600/1*oWW5eCTRtBBP-L8ln6htkQ.jpeg){.progressiveMedia-image
+.js-progressiveMedia-image}
+
+&lt;/div&gt;
+
+&lt;/div&gt;
+
+Rohini Buhyal
+\
+&lt;div id=&quot;6d9a&quot; class=&quot;graf graf--p graf-after--figure&quot; name=&quot;6d9a&quot; style=&quot;--baseline-multiplier: 0.179; font-family: medium-content-serif-font, Georgia, Cambria, &amp;quot;Times New Roman&amp;quot;, Times, serif; font-size: 21px; letter-spacing: -0.003em; line-height: 1.58; margin-top: 38px;&quot;&gt;
+
+Usually it takes two more days from Rohini Bugyal to reach Bisuri Tal.
+Bisuri Tal offers a very close view of Trishul peak and it is one of the
+less known treks. If time allowed, I was eager to go on this one as soon
+as we complete the Chandrashila trek. There isn’t much information on
+Bisuri Tal on internet.\
+We roamed around the meadow in the evening and as the sun was about to
+set, the cast it was creating on the mountains was giving such a
+fascinating view that it was literally a treat to watch. When it was
+finally dark, we sat near the fireplace to discuss the next course of
+actions and we decided to start early the next day so as to reach
+Bhurgali early and continue trekking to Chandrashila after leaving our
+heavy rucksacks at the shop whoes owner was Umendra’s friend. With this
+plan, next day was going to be little long. It had more ascent than
+before. Umendra went to sleep early and we sat there talking near the
+fireplace till there was no firewood left. After sometime, with not much
+left to do, we went on towards our tents.
+
+&lt;/div&gt;
+
+&lt;div id=&quot;8807&quot; class=&quot;graf graf--p graf-after--p&quot; name=&quot;8807&quot; style=&quot;--baseline-multiplier: 0.179; font-family: medium-content-serif-font, Georgia, Cambria, &amp;quot;Times New Roman&amp;quot;, Times, serif; font-size: 21px; letter-spacing: -0.003em; line-height: 1.58; margin-top: 29px;&quot;&gt;
+
+&lt;span class=&quot;markup--strong markup--p-strong&quot; style=&quot;font-weight: 700;&quot;&gt;Third day of Trek&lt;/span&gt;
+
+&lt;/div&gt;
+
+\
+&lt;div class=&quot;aspectRatioPlaceholder is-locked&quot; style=&quot;margin: 0px auto; max-height: 700px; max-width: 525px; position: relative; width: 525px;&quot;&gt;
+
+&lt;div class=&quot;aspectRatioPlaceholder-fill&quot; style=&quot;padding-bottom: 699.812px;&quot;&gt;
+
+&lt;/div&gt;
+
+&lt;div class=&quot;progressiveMedia js-progressiveMedia graf-image is-canvasLoaded is-imageLoaded&quot; data-action-value=&quot;1*bbW18ogrF9iyy5DCbuZecg.jpeg&quot; data-action=&quot;zoom&quot; data-height=&quot;4640&quot; data-image-id=&quot;1*bbW18ogrF9iyy5DCbuZecg.jpeg&quot; data-scroll=&quot;native&quot; data-width=&quot;3480&quot; style=&quot;background: rgba(0, 0, 0, 0); box-sizing: border-box; cursor: zoom-in; height: 699.812px; left: 0px; margin: auto; max-width: 100%; position: absolute; top: 0px; transition: background 0.2s; width: 525px;&quot;&gt;
+
+![](https://cdn-images-1.medium.com/max/1200/1*bbW18ogrF9iyy5DCbuZecg.jpeg){.progressiveMedia-image
+.js-progressiveMedia-image}
+
+&lt;/div&gt;
+
+&lt;/div&gt;
+
+\
+&lt;div id=&quot;a0ad&quot; class=&quot;graf graf--p graf-after--figure&quot; name=&quot;a0ad&quot; style=&quot;--baseline-multiplier: 0.179; font-family: medium-content-serif-font, Georgia, Cambria, &amp;quot;Times New Roman&amp;quot;, Times, serif; font-size: 21px; letter-spacing: -0.003em; line-height: 1.58; margin-top: 38px;&quot;&gt;
+
+We got up early around 6 in the morning and packed our tents and bags.
+Umendra had already started preparing tea for all of us. After having
+some tea and biscuit, we left Rohini Bugyal to start our last day of the
+trek. Past Rohini Bugyal, trail descends steeply towards Akash Kamini
+stream. On this descend, Shweta started having problems with her knee
+which made her little slow. But she continued anyway and we soon reached
+the Akashkamini stream. It originates near the Chandrashila peak. After
+walking for around 2 hours we halted near lower Bhurjgali. There were
+few abandoned huts around where we stayed for a while and had some
+maggi. Umendra seemed to be a very good cook. We both agreed, that we
+never had maggi tastier than this. It took nearly three hours for us to
+reach Bhurjgali.
+
+&lt;/div&gt;
+
+\
+&lt;div class=&quot;aspectRatioPlaceholder is-locked&quot; style=&quot;margin: 0px auto; max-height: 467px; max-width: 700px; position: relative; width: 700px;&quot;&gt;
+
+&lt;div class=&quot;aspectRatioPlaceholder-fill&quot; style=&quot;padding-bottom: 466.891px;&quot;&gt;
+
+&lt;/div&gt;
+
+&lt;div class=&quot;progressiveMedia js-progressiveMedia graf-image is-canvasLoaded is-imageLoaded&quot; data-action-value=&quot;1*VhW0XDxXgfJEkXA-VQho6w.jpeg&quot; data-action=&quot;zoom&quot; data-height=&quot;3265&quot; data-image-id=&quot;1*VhW0XDxXgfJEkXA-VQho6w.jpeg&quot; data-scroll=&quot;native&quot; data-width=&quot;4898&quot; style=&quot;background: rgba(0, 0, 0, 0); box-sizing: border-box; cursor: zoom-in; height: 466.891px; left: 0px; margin: auto; max-width: 100%; position: absolute; top: 0px; transition: background 0.2s; width: 700px;&quot;&gt;
+
+![](https://cdn-images-1.medium.com/max/1600/1*VhW0XDxXgfJEkXA-VQho6w.jpeg){.progressiveMedia-image
+.js-progressiveMedia-image}
+
+&lt;/div&gt;
+
+&lt;/div&gt;
+
+Near lower Bhurjgali
+\
+&lt;div id=&quot;bed3&quot; class=&quot;graf graf--p graf-after--figure&quot; name=&quot;bed3&quot; style=&quot;--baseline-multiplier: 0.179; font-family: medium-content-serif-font, Georgia, Cambria, &amp;quot;Times New Roman&amp;quot;, Times, serif; font-size: 21px; letter-spacing: -0.003em; line-height: 1.58; margin-top: 38px;&quot;&gt;
+
+From here onwards, this trail merges to the trail coming from Chopta. In
+fact Chopta was about a km from here. There was a shop nearby where we
+left our rucksacks and had some tea. Soon we left for Tungnath and
+Chandrashila. It is well laid path with carved steps and railings etc.
+What disappointed me most was the amount of garbage on the way. The task
+of collecting garbage on the way became more difficult than any other of
+my treks. Umendra was also helping in collecting the garbage. We were
+discussing, what could Lord Tungnath offer to those who come and throw
+garbage around. In an hour or so, we reached Tungnath, though the temple
+was closed for the season. We offered our prayers and roamed around.
+
+&lt;/div&gt;
+
+\
+&lt;div class=&quot;aspectRatioPlaceholder is-locked&quot; style=&quot;margin: 0px auto; max-height: 350px; max-width: 525px; position: relative; width: 525px;&quot;&gt;
+
+&lt;div class=&quot;aspectRatioPlaceholder-fill&quot; style=&quot;padding-bottom: 350.172px;&quot;&gt;
+
+&lt;/div&gt;
+
+&lt;div class=&quot;progressiveMedia js-progressiveMedia graf-image is-canvasLoaded is-imageLoaded&quot; data-action-value=&quot;1*xEXotDPL75EiKF_9mpQcFg.jpeg&quot; data-action=&quot;zoom&quot; data-height=&quot;3265&quot; data-image-id=&quot;1*xEXotDPL75EiKF_9mpQcFg.jpeg&quot; data-scroll=&quot;native&quot; data-width=&quot;4898&quot; style=&quot;background: rgba(0, 0, 0, 0); box-sizing: border-box; cursor: zoom-in; height: 350px; left: 0px; margin: auto; max-width: 100%; position: absolute; top: 0px; transition: background 0.2s; width: 525px;&quot;&gt;
+
+![](https://cdn-images-1.medium.com/max/1200/1*xEXotDPL75EiKF_9mpQcFg.jpeg){.progressiveMedia-image
+.js-progressiveMedia-image}
+
+&lt;/div&gt;
+
+&lt;/div&gt;
+
+\
+&lt;div id=&quot;4075&quot; class=&quot;graf graf--p graf-after--figure&quot; name=&quot;4075&quot; style=&quot;--baseline-multiplier: 0.179; font-family: medium-content-serif-font, Georgia, Cambria, &amp;quot;Times New Roman&amp;quot;, Times, serif; font-size: 21px; letter-spacing: -0.003em; line-height: 1.58; margin-top: 38px;&quot;&gt;
+
+There we met other people who had come there from Chopta. We stayed
+there for a while and then started ahead for Chandrashila.\
+As there was no snow, so it didn’t take much time to reach Chandrashila.
+There was a small temple up there. As soon as we reached there, all of
+us offered our prayers to the lord and went ahead with watching the
+amazing view of mountains. It had been a long time, that I had visited a
+place which offers such a panoramic view of mountains peaks. We could
+see a complete 180 degree view of majestic peaks of Garhwal. Umendra
+told about the various peaks we can see from there and the places
+around. I had been to the summit of Mt. DKD-II which could also be seen
+from there. Chandrashila also offers a clear view of Mt. Nanda Devi.
+From Jaonli to Nanda Devi, every peak was clear to us.
+
+&lt;/div&gt;
+
+&lt;/div&gt;
+
+&lt;div class=&quot;section-inner sectionLayout--outsetColumn&quot; style=&quot;background-color: white; box-sizing: border-box; color: rgba(0, 0, 0, 0.8); font-family: -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Roboto, Oxygen, Ubuntu, Cantarell, &amp;quot;Open Sans&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, sans-serif; font-size: 18px; margin: 52px auto 0px; max-width: 1000px; position: relative; width: 1000px;&quot;&gt;
+
+\
+&lt;div class=&quot;aspectRatioPlaceholder is-locked&quot; style=&quot;margin: 0px auto; max-height: 224px; max-width: 1000px; position: relative; width: 1000px;&quot;&gt;
+
+&lt;div class=&quot;aspectRatioPlaceholder-fill&quot; style=&quot;padding-bottom: 224px;&quot;&gt;
+
+&lt;/div&gt;
+
+&lt;div class=&quot;progressiveMedia js-progressiveMedia graf-image is-canvasLoaded is-imageLoaded&quot; data-action-value=&quot;1*rC53vnIL-PZwSkItC6VYfA.jpeg&quot; data-action=&quot;zoom&quot; data-height=&quot;1687&quot; data-image-id=&quot;1*rC53vnIL-PZwSkItC6VYfA.jpeg&quot; data-scroll=&quot;native&quot; data-width=&quot;7548&quot; style=&quot;background: rgba(0, 0, 0, 0); box-sizing: border-box; cursor: zoom-in; height: 224px; left: 0px; margin: 0px; max-width: 100%; position: absolute; top: 0px; transition: background 0.2s; width: 1000px;&quot;&gt;
+
+![](https://cdn-images-1.medium.com/max/2000/1*rC53vnIL-PZwSkItC6VYfA.jpeg){.progressiveMedia-image
+.js-progressiveMedia-image}
+
+&lt;/div&gt;
+
+&lt;/div&gt;
+
+A panoramic view from Chandrashila
+
+&lt;/div&gt;
+
+&lt;div class=&quot;section-inner sectionLayout--insetColumn&quot; style=&quot;background-color: white; box-sizing: border-box; color: rgba(0, 0, 0, 0.8); font-family: -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Roboto, Oxygen, Ubuntu, Cantarell, &amp;quot;Open Sans&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, sans-serif; font-size: 18px; margin: 52px auto 0px; max-width: 740px; padding-left: 20px; padding-right: 20px; position: relative; width: 740px;&quot;&gt;
+
+&lt;div id=&quot;b836&quot; class=&quot;graf graf--p graf-after--figure&quot; name=&quot;b836&quot; style=&quot;--baseline-multiplier: 0.179; font-family: medium-content-serif-font, Georgia, Cambria, &amp;quot;Times New Roman&amp;quot;, Times, serif; font-size: 21px; letter-spacing: -0.003em; line-height: 1.58; margin-top: 38px;&quot;&gt;
+
+I was carrying my binoculars which also helped me explore these peaks
+more precisely.
+
+&lt;/div&gt;
+
+\
+&lt;div class=&quot;aspectRatioPlaceholder is-locked&quot; style=&quot;margin: 0px auto; max-height: 394px; max-width: 525px; position: relative; width: 525px;&quot;&gt;
+
+&lt;div class=&quot;aspectRatioPlaceholder-fill&quot; style=&quot;padding-bottom: 393.75px;&quot;&gt;
+
+&lt;/div&gt;
+
+&lt;div class=&quot;progressiveMedia js-progressiveMedia graf-image is-canvasLoaded is-imageLoaded&quot; data-action-value=&quot;1*rSLSbL1XL175UOHvjVuzfw.jpeg&quot; data-action=&quot;zoom&quot; data-height=&quot;2448&quot; data-image-id=&quot;1*rSLSbL1XL175UOHvjVuzfw.jpeg&quot; data-scroll=&quot;native&quot; data-width=&quot;3264&quot; style=&quot;background: rgba(0, 0, 0, 0); box-sizing: border-box; cursor: zoom-in; height: 393.75px; left: 0px; margin: auto; max-width: 100%; position: absolute; top: 0px; transition: background 0.2s; width: 525px;&quot;&gt;
+
+![](https://cdn-images-1.medium.com/max/1200/1*rSLSbL1XL175UOHvjVuzfw.jpeg){.progressiveMedia-image
+.js-progressiveMedia-image}
+
+&lt;/div&gt;
+
+&lt;/div&gt;
+
+\
+&lt;div id=&quot;aa97&quot; class=&quot;graf graf--p graf-after--figure graf--last&quot; name=&quot;aa97&quot; style=&quot;--baseline-multiplier: 0.179; font-family: medium-content-serif-font, Georgia, Cambria, &amp;quot;Times New Roman&amp;quot;, Times, serif; font-size: 21px; letter-spacing: -0.003em; line-height: 1.58; margin-top: 38px;&quot;&gt;
+
+All this time of our stay at Chandrashila, we found ourselves sitting
+and watching the peaks around. When we were content enough, we started
+our descent towards Bhurjgali. After walking for almost an hour, we
+reached Bhurjgali and there we had our lunch and started descending
+towards Chopta. From Chopta we took a cab to Sari village which Umendra
+had already called. After a drive of almost 40–45 minutes, we reached
+Sari, where we stayed for the night before leaving for Haridwar next
+morning.
+
+&lt;/div&gt;
+
+&lt;/div&gt;
+
+&lt;/div&gt;
+</description>
+        <pubDate>Sun, 22 Jan 2017 00:00:00 +0000</pubDate>
+        <link>https://ghumakkad.github.io/ghumakkad//2017/01/22/devariyatal-chandrashila-trek-log/</link>
+        <guid isPermaLink="true">https://ghumakkad.github.io/ghumakkad//2017/01/22/devariyatal-chandrashila-trek-log/</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Mountaineering Institutes In India</title>
+        <description>&lt;p&gt;— layout: post title: Mountaineering Institutes in India date:
+‘2016-10-15T01:44:00.000+05:30’ author: Prashant C Chaturvedi tags:
+modified_time: ‘2016-10-15T01:44:24.431+05:30’ blogger_id:
+tag:blogger.com,1999:blog-7230910114786000845.post-1712946087412171912
+blogger_orig_url:
+http://mountaineeringguide.blogspot.com/2016/10/mountaineering-institutes-in-india.html
+—&lt;/p&gt;
+&lt;div dir=&quot;ltr&quot; style=&quot;text-align: left;&quot; trbidi=&quot;on&quot;&gt;
+
+Although there are many other institutes in India, but these two are the
+most sought ones. IMF (Indian Mountaineering Foundation), which is apex
+national body in this field lists 5 institutes on it's webpage.\
+\
+\
+1.  Himalayan Mountaineering Institute (HM&lt;span id=&quot;goog_1350918857&quot;&gt;&lt;/span&gt;&lt;span id=&quot;goog_1350918858&quot;&gt;&lt;/span&gt;[](https://www.blogger.com/)I),
+    Darjeeling, West Bengal
+2.  [Nehru Institute Of Mountaineering (NIM), Uttarkashi,
+    Uttarakhand](http://www.nimindia.net/)
+3.  Atal Bihari Vajpayee Institute of Mountaineering and Allied Sports
+    (ABVMAS), Manali, Himachal Pradesh
+4.  [Jawahar Institute of Mountaineering (JIM), Pahalgam, Jammu &amp;amp;
+    Kashmir](http://www.pahalgam.com/jimws.html)
+5.  Indian Institute of Skiing and Mountaineering, Gulmarg, Jammu &amp;amp;
+    Kashmir
+
+Other than these 5, there are few more institutes which conducts courses
+in mountaineering.\
+\
+1.  Sonam Gyatso Mountaineering Institute (SGMI), Gangtok, Sikkim
+2.  Nation Institute of Mountaineering and Allied Sports, Dirang, West
+    Kameng, Arunachal Pradesh
+3.  Pt. Nain Singh Rawat Mountaineering Institute, Munsiyari,
+    Uttarakhand (Proposed)
+
+&lt;/div&gt;
+</description>
+        <pubDate>Sat, 15 Oct 2016 00:00:00 +0000</pubDate>
+        <link>https://ghumakkad.github.io/ghumakkad//2016/10/15/mountaineering-institutes-in-india/</link>
+        <guid isPermaLink="true">https://ghumakkad.github.io/ghumakkad//2016/10/15/mountaineering-institutes-in-india/</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Hampta Pass And Chandratal Trek Log</title>
+        <description>&lt;p&gt;— layout: post title: Hampta Pass and Chandratal Trek Log date:
+‘2016-07-18T01:17:00.000+05:30’ author: Prashant C Chaturvedi tags: -
+shiagoru - lahaul valley - spiti - trek - balu ka ghera - kunzum - solo
+trekking - hampta pass - kaza - valley - camping - himalayas - batal -
+manali - chhatru - chandratal - chandra valley modified_time:
+‘2016-08-29T14:59:36.306+05:30’ thumbnail:
+https://4.bp.blogspot.com/-gPqaggsUwf4/V8M85MotdNI/AAAAAAAAaUQ/Q41ZZgRsam0sd3tc1wQKtELBGMINA_UgACLcB/s72-c/IMG_20160715_143813.jpg
+blogger_id:
+tag:blogger.com,1999:blog-7230910114786000845.post-6901414840360669834
+blogger_orig_url:
+http://mountaineeringguide.blogspot.com/2016/07/hampta-pass-and-chandratal-trek-log.html
+—&lt;/p&gt;
+&lt;div dir=&quot;ltr&quot; style=&quot;text-align: left;&quot; trbidi=&quot;on&quot;&gt;
+
+I was exploring some extended weekend treks as my office colleagues also
+wanted to come along on my next trek. After searching and negotiating a
+lot, no agreeable trek couldn't be decided and now that I have to travel
+solo, I finally decided to go for Hampta Pass and Chandratal.. Hampta
+pass trek starts from Manali, Himachal Pradesh. It is a small pass on
+Pir Panjal range of Himalayas, between Lahaul and Kullu valley in
+Himachal Pradesh. Vertical rock walls, water falls, hanging glaciers,
+tiny lakes, peaks rising above 6000 m are main characteristics of this
+trek. I was very excited about this trek because I was finally getting
+another chance to see Chandratal.\
+\
+\
+Kiran was also in town and ready for a weekend trek. We left Delhi on
+Thursday, 14 July so that we had an extra day before next week starts.
+Bus to Manali was running late and we reached there around 11A.M. After
+having heavy dinner around noon, we took a cab for Jobra. It takes an
+hour and forty hairpin bends to arrive at Jobra. It was around 2 PM when
+we reached there. We left immediately, as we had planned to reach Balu
+Ka Ghera on our first day of trek and it was already late. It had rained
+earlier in the day and path was slippery till Chika village.\
+\
+&lt;div class=&quot;separator&quot; style=&quot;clear: both; text-align: center;&quot;&gt;
+
+[![](https://4.bp.blogspot.com/-gPqaggsUwf4/V8M85MotdNI/AAAAAAAAaUQ/Q41ZZgRsam0sd3tc1wQKtELBGMINA_UgACLcB/s320/IMG_20160715_143813.jpg){width=&quot;320&quot;
+height=&quot;240&quot;}](https://4.bp.blogspot.com/-gPqaggsUwf4/V8M85MotdNI/AAAAAAAAaUQ/Q41ZZgRsam0sd3tc1wQKtELBGMINA_UgACLcB/s1600/IMG_20160715_143813.jpg)
+
+&lt;/div&gt;
+
+\
+\
+In few hours of trek, crossing few streams we reached Jwara. Clouds were
+all around us and visibility was very poor.\
+\
+&lt;div class=&quot;separator&quot; style=&quot;clear: both; text-align: center;&quot;&gt;
+
+&lt;/div&gt;
+
+Balu ka ghera was still like an hour far from Jwara. There wasn't much
+daylight left and it could rain anytime. We decided to pitch our tents
+in Jwara. In the backdrop, we had a vertical rocky cliff with a nice
+view of waterfall. There was a shop in Jwara from where we got ourselves
+nice dinner for the night.\
+&lt;div class=&quot;separator&quot; style=&quot;clear: both; text-align: center;&quot;&gt;
+
+[![](https://4.bp.blogspot.com/-gxebeLSGpXM/V8M8zXBtz_I/AAAAAAAAaUI/DxavuqlWFgcFkKuUBbEq9VvVlDet4WqBwCEw/s320/IMG_20160715_165802.jpg){width=&quot;320&quot;
+height=&quot;240&quot;}](https://4.bp.blogspot.com/-gxebeLSGpXM/V8M8zXBtz_I/AAAAAAAAaUI/DxavuqlWFgcFkKuUBbEq9VvVlDet4WqBwCEw/s1600/IMG_20160715_165802.jpg)
+
+&lt;/div&gt;
+
+\
+&lt;div class=&quot;separator&quot; style=&quot;clear: both; text-align: center;&quot;&gt;
+
+[![](https://2.bp.blogspot.com/-wABpF7Lo_AQ/V8M89qwXSDI/AAAAAAAAaUU/UPyeNcs89CgbBMjJf9ZLt6Et84b_tRncACEw/s320/IMG_20160715_174708.jpg){width=&quot;320&quot;
+height=&quot;240&quot;}](https://2.bp.blogspot.com/-wABpF7Lo_AQ/V8M89qwXSDI/AAAAAAAAaUU/UPyeNcs89CgbBMjJf9ZLt6Et84b_tRncACEw/s1600/IMG_20160715_174708.jpg)
+
+&lt;/div&gt;
+
+\
+  ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+  [![](https://4.bp.blogspot.com/-uFIuqO-I6xc/V8M9AKKoOSI/AAAAAAAAaUY/hoO2b5hktOQvoS2tq6orfETJ2_skUgfJACEw/s320/IMG_20160716_065343.jpg){width=&quot;320&quot; height=&quot;240&quot;}](https://4.bp.blogspot.com/-uFIuqO-I6xc/V8M9AKKoOSI/AAAAAAAAaUY/hoO2b5hktOQvoS2tq6orfETJ2_skUgfJACEw/s1600/IMG_20160716_065343.jpg)
+  Campsite at Jwara
+  ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+&lt;div class=&quot;separator&quot; style=&quot;clear: both; text-align: center;&quot;&gt;
+
+&lt;/div&gt;
+
+\
+&lt;div class=&quot;separator&quot; style=&quot;clear: both; text-align: center;&quot;&gt;
+
+&lt;/div&gt;
+
+\
+It was Saturday, June 16th. We started for Balu ka Ghera early morning
+next day. it was all misty from the beginning which was giving the whole
+valley a mystic look.\
+&lt;div class=&quot;separator&quot; style=&quot;clear: both; text-align: center;&quot;&gt;
+
+[![](https://3.bp.blogspot.com/-ivEkuFP-lfk/V8M9Dewmh1I/AAAAAAAAaUc/s8gqJo3gS0kWi6X4hLtlwO4Aa-VUhdm6ACEw/s320/IMG_20160716_081550.jpg){width=&quot;320&quot;
+height=&quot;240&quot;}](https://3.bp.blogspot.com/-ivEkuFP-lfk/V8M9Dewmh1I/AAAAAAAAaUc/s8gqJo3gS0kWi6X4hLtlwO4Aa-VUhdm6ACEw/s1600/IMG_20160716_081550.jpg)
+
+&lt;/div&gt;
+
+\
+It started raining heavily when we reached Balu Ka Ghera. We got 4
+parathas packed from there to have lunch later in the day. After more
+than an hour wait in Balu Ka Ghera, when the rain didn't stop; we
+prepared ourselves to walk in rain.\
+&lt;div class=&quot;separator&quot; style=&quot;clear: both; text-align: center;&quot;&gt;
+
+[![](https://2.bp.blogspot.com/-MqN_g_XMynA/V8M9xJqd88I/AAAAAAAAaVM/QiWMEkwaE0c7wh8IWpYRTda0NYf8qbeJgCEw/s320/PANO_20160716_085455.jpg){width=&quot;320&quot;
+height=&quot;80&quot;}](https://2.bp.blogspot.com/-MqN_g_XMynA/V8M9xJqd88I/AAAAAAAAaVM/QiWMEkwaE0c7wh8IWpYRTda0NYf8qbeJgCEw/s1600/PANO_20160716_085455.jpg)
+
+&lt;/div&gt;
+
+\
+There was a Dutch couple, whom we had met in Jwara. They also arrived
+Balu Ka Ghera when we were about to leave. We started from Balu Ka Ghera
+together. They were thinking of returning back from the pass but we had
+plans to go further. Before the ascent to pass starts, there is a big
+lake where we bid them goodbye and continued our journey.\
+  ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+  [![](https://2.bp.blogspot.com/-TBnTZV-5eSE/V8M9LSy7aoI/AAAAAAAAaUg/bzUehBBuq9wamPaXR_P8cQ8iPmmgNuXjgCEw/s320/IMG_20160716_121149.jpg){width=&quot;320&quot; height=&quot;236&quot;}](https://2.bp.blogspot.com/-TBnTZV-5eSE/V8M9LSy7aoI/AAAAAAAAaUg/bzUehBBuq9wamPaXR_P8cQ8iPmmgNuXjgCEw/s1600/IMG_20160716_121149.jpg)
+  Small lake on the way up to pass
+  ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+\
+In heavy rain, the stream beside us was ferocious which actually
+accompanied us all along the trek in the valley. After crossing the some
+boulders, we reached the glacier. In such low visibility, it was getting
+difficult to find our way forward. Kiran was incessantly asking whether
+we are on the right path or not. I followed the tracks of mules on the
+glacier and reached the plateau. It was real cloudy and it seemed that I
+had lost my way here. We had a pack biscuit there and decided to look
+closely for tracks. It seemed, that we had to go back and follow the
+track more closely. On our left was a vertical rocky cliff.\
+  ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+  [![](https://3.bp.blogspot.com/-_x9cS-Mbl84/V8M9RjM2VsI/AAAAAAAAaUk/VoiSYdfyiUg_vXck_JVzNDR2FS2nDuZegCEw/s320/IMG_20160716_123504.jpg){width=&quot;320&quot; height=&quot;236&quot;}](https://3.bp.blogspot.com/-_x9cS-Mbl84/V8M9RjM2VsI/AAAAAAAAaUk/VoiSYdfyiUg_vXck_JVzNDR2FS2nDuZegCEw/s1600/IMG_20160716_123504.jpg)
+  The valley, clouds ahead on the pass
+  ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+\
+It was there when I heard some sound of mules walking somewhere nearby.
+I rushed towards the noise, though between so dense clouds, it was being
+difficult to figure out. Following the mule sound, I heard voice of a
+man controlling the mules. We shouted and asked whether anybody is
+there. The mules were gone and lost in the clouds by then. After few
+minutes, someone replied to our hello. When we rushed towards the sound,
+it was the same dutch couple with their guide. The lady told me, that
+they decided to cross the pass same day. The lady was was kind enough to
+offer us chocolates. We were just few meters away from the trail, but
+without their help we definitely would've gone in the wrong direction.
+This could've lost us at least few precious hours. We were actually few
+meters away from the trail. It's just that the trail makes an unusual
+bend towards left while going up at the highest point of trek which we
+would have easily figured out in clearer sky.\
+\
+  ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+  [![](https://3.bp.blogspot.com/-Nd2yNO9hQow/V8M9T5oNhtI/AAAAAAAAaVM/eopatrdyjmcBKyfGo9VE2bpb4zeb9VXgwCEw/s320/IMG_20160716_152240.jpg){width=&quot;320&quot; height=&quot;236&quot;}](https://3.bp.blogspot.com/-Nd2yNO9hQow/V8M9T5oNhtI/AAAAAAAAaVM/eopatrdyjmcBKyfGo9VE2bpb4zeb9VXgwCEw/s1600/IMG_20160716_152240.jpg)
+  Towards Shiagoru From Hampta Pass
+  ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+With them, we started our descent to Shiagoru. It's a steep descent
+which was little slippery due to rains. The rain was little slow at this
+part of valley (Lahaul). If it was a normal day, we could've had a nice
+view of Indrasan peak which was right to us while climbing down. We were
+descending to Lahaul Valley. The arrangements were already there for the
+night in Shiagoru for the Dutch couple. We decided to trek further down
+to Chhatru. Kiran had to go back next day for Delhi on Sunday to join
+office. The stream in Shiagoru had grown strong due to continuous rain
+that day. It's a flat area fed from glacier; it wasn't deep but
+certainly was cold. Having crossed the stream with our hands joined, we
+took off for Chhatru. From Shiagoru to Chhatru, it's a long walk but
+easy descent. The sun was about to set when we reached Chhatru roadhead.
+Chhatru is on the way to Kaza from Manali. We pitched our tents, and
+were invited for dinner by trek organizers from Bikat adventures who
+were also camped there.\
+  ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+  [![](https://2.bp.blogspot.com/-Anj6o0ao74c/V8M9Z-ezsqI/AAAAAAAAaVM/NUmd1FD2bSkOCkmGTfxcjiGyeFgopMtjACEw/s320/IMG_20160716_180452.jpg){width=&quot;320&quot; height=&quot;236&quot;}](https://2.bp.blogspot.com/-Anj6o0ao74c/V8M9Z-ezsqI/AAAAAAAAaVM/NUmd1FD2bSkOCkmGTfxcjiGyeFgopMtjACEw/s1600/IMG_20160716_180452.jpg)
+  Before Chhatru
+  ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+\
+  ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+  [![](https://1.bp.blogspot.com/-lm_OSctap-w/V8M9UVds2CI/AAAAAAAAaVM/pbN6sdNGXbIsUqwrYVWQTXWJFpUBpFS5QCEw/s320/IMG_20160717_094059.jpg){width=&quot;240&quot; height=&quot;320&quot;}](https://1.bp.blogspot.com/-lm_OSctap-w/V8M9UVds2CI/AAAAAAAAaVM/pbN6sdNGXbIsUqwrYVWQTXWJFpUBpFS5QCEw/s1600/IMG_20160717_094059.jpg)
+  \
+  ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Early morning, we had a quick breakfast in Chhatru. There were few truck
+drivers having tea. When they were about to leave, I asked them for a
+drop to Batal. I started my journey ahead with them after saying goodbye
+to Kiran who was waiting for a conveyance that he can get to Manali.
+Chhatru to Batal isn't very far, but due to road conditions it was
+already afternoon when I reached Batal. After having lunch in Batal, I
+enquired for the directions to Chandratal. People suggested me to go to
+Kunzum pass and start a near downhill trek from there. I took there
+advice, as it was clear that the road from Batal to Chandratal was only
+preferred for vehicles. Those truck drivers were still there having
+lunch. I joined them again when they left for Kaza.\
+\
+It was raining in Kunzum la, when I reached there. There was no one who
+could tell me the way to Chandratal, though there was a board with
+signboard of Chandratal. I just decided to follow the path behind the
+board. It was well laid trail till I reached a point from where I had a
+view of valley. At this point the trail ended and I had nowhere to go. I
+could see tents far in the valley, but there was a very steep descent. I
+tried to go down that path, but had to to turn back as it was very
+slippery. When many attempts to find a better way to the valley failed I
+had to retrace the path back so as to find some alternative way. I was
+sure that I was on right path to Chandratal. After few meters of
+travelling back, there was a trail sharp left climbing towards the
+nearby hill. I took that and climbed the hill to see around. From there,
+I could see the trail going further inside the valley. Thanking god, I
+trotted down the trail. All along the way, the weather was clear and I
+had a nice view of valley and Chandra river valley.\
+  ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+  [![](https://3.bp.blogspot.com/-tmzze-D7z6c/V8M9fDCvteI/AAAAAAAAaVM/wQdkO9I8u8so0hg5E9KrQpDGYaCVv4ldwCEw/s320/IMG_20160717_172300-PANO.jpg){width=&quot;320&quot; height=&quot;114&quot;}](https://3.bp.blogspot.com/-tmzze-D7z6c/V8M9fDCvteI/AAAAAAAAaVM/wQdkO9I8u8so0hg5E9KrQpDGYaCVv4ldwCEw/s1600/IMG_20160717_172300-PANO.jpg)
+  Chandra Valley
+  ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+\
+Finally, the Chandratal was in sight. I aimed to reach Chandratal with
+some buffer time to explore. It was not allowed to camp there but there
+were many people camping around Chandratal. There was no authority to
+control this. While trekking from Kunjum La to Chandratal, I did not
+find any kiosk or office where one could find any kind camping permits
+etc. The visitors of Chandratal, mostly were with some trek organization
+on four wheelers with exceptions of few bikers.\
+\
+  ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+  [![](https://4.bp.blogspot.com/-mxWGwKN2yiE/V8M9jYnw7II/AAAAAAAAaVM/AbWZejqM2qgqkH0ERMwjSnsYu72YhfKKgCEw/s320/IMG_20160717_183338-PANO.jpg){width=&quot;320&quot; height=&quot;115&quot;}](https://4.bp.blogspot.com/-mxWGwKN2yiE/V8M9jYnw7II/AAAAAAAAaVM/AbWZejqM2qgqkH0ERMwjSnsYu72YhfKKgCEw/s1600/IMG_20160717_183338-PANO.jpg)
+  Chandra Taal
+  ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+\
+Despite that, Chandratal was still very beautiful, clean and peaceful.
+The small stream emanating from Chandratal and a wooden bridge looks
+like a setting from a fairy tale. I sat there around half an hour. When
+sun had set, I turned back towards Batal road looking for a place to
+camp. Most of the good places nearby were completely occupied by private
+organizations which was little disheartening. Anyhow I was able to find
+a place to camp besides some Paragon camping site. Next day returned
+back to Batal. On the way to Batal from Chandratal, I was offered a lift
+by a jeep accompanying bikers. In Batal, I was able get hold of a jeep
+going towards Manali. Buses are not very reliable on this route. The
+driver of the jeep was in his teens and he was determined to reach
+Manali by lunch time. By afternoon, I was in Manali where I had lunch
+and explored the market until it was time for bus to Delhi.\
+\
+\
+\
+
+&lt;/div&gt;
+</description>
+        <pubDate>Mon, 18 Jul 2016 00:00:00 +0000</pubDate>
+        <link>https://ghumakkad.github.io/ghumakkad//2016/07/18/hampta-pass-and-chandratal-trek-log/</link>
+        <guid isPermaLink="true">https://ghumakkad.github.io/ghumakkad//2016/07/18/hampta-pass-and-chandratal-trek-log/</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Indrahar Pass Trek Log</title>
+        <description>&lt;p&gt;— layout: post title: Indrahar Pass Trek Log date:
+‘2016-06-06T23:00:00.000+05:30’ author: Prashant C Chaturvedi tags: -
+snowline - trek - indrahar - solo trekking - lahesh - chamba - minkiani&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;himachal pradesh - laka - chata - dharmshala - kinnaur - weekend -
+cave - mcleodganj - triund modified_time:
+‘2016-08-05T09:08:46.095+05:30’ thumbnail:
+https://2.bp.blogspot.com/-QQ-Cl3horjc/VzljGqEdWbI/AAAAAAAAZA0/j5AJ0xSfAhcb7H8ufOOBNhVPKoKu86O9QCPcB/s72-c/IMG_20160513_151600.jpg
+blogger_id:
+tag:blogger.com,1999:blog-7230910114786000845.post-5524114644946950703
+blogger_orig_url:
+http://mountaineeringguide.blogspot.com/2016/06/indrahar-pass-trek-log.html
+—&lt;/li&gt;
+&lt;/ul&gt;
+&lt;div dir=&quot;ltr&quot; style=&quot;text-align: left;&quot; trbidi=&quot;on&quot;&gt;
+
+In our previous treks we had been travelling light and walking long
+miles a day thus helping us do treks with less leaves from work.
+Planning first trek of 2016, I was thinking of something in Himachal
+Pradesh and then I got my hands on Depi Chaudhary's Himalaya trek maps.
+It's very detailed one and I spent hours studying it. Hoping to combine
+two short duration treks, I thought of Indrahar pass(4350 m) in
+Dhauladhar Range between Kangra and Chamba valleys, and Kugti Pass
+(5050m) in Chamba. Indrahar pass is popular among trekkers but Kugti
+pass is less travelled with altitude of significant 5000+ meters and
+this required some travelling on road as well.\
+\
+\
+[![](https://2.bp.blogspot.com/-QQ-Cl3horjc/VzljGqEdWbI/AAAAAAAAZA0/j5AJ0xSfAhcb7H8ufOOBNhVPKoKu86O9QCPcB/s200/IMG_20160513_151600.jpg){width=&quot;200&quot;
+height=&quot;150&quot;}](https://2.bp.blogspot.com/-QQ-Cl3horjc/VzljGqEdWbI/AAAAAAAAZA0/j5AJ0xSfAhcb7H8ufOOBNhVPKoKu86O9QCPcB/s1600/IMG_20160513_151600.jpg)Alternatively,
+I also thought of doing Minkiani pass from Laka cave after coming down
+from Indrahar pass. Depi Chaudhary's map was showing a route to Minkiani
+pass from Laka cave which is little beyond Snow point cafe but we zeroed
+down on Indrahar pass.\
+\
+My always ready travel buddies Kiran and Akshay were willing to join for
+this trek though Akshay wasn't much updated on the diversions which I
+and Kiran were planning to take.\
+\
+\
+&lt;div style=&quot;text-align: right;&quot;&gt;
+
+&lt;/div&gt;
+
+&lt;div class=&quot;separator&quot; style=&quot;clear: both; text-align: center;&quot;&gt;
+
+[![](https://3.bp.blogspot.com/-Eqo70g0Z9e8/VzljGotQpII/AAAAAAAAZA0/SjscJ8JEU9kNhhblcwa_Cjn2fXUqNcP8QCPcB/s320/IMG_20160513_150239.jpg){width=&quot;320&quot;
+height=&quot;240&quot;}](https://3.bp.blogspot.com/-Eqo70g0Z9e8/VzljGotQpII/AAAAAAAAZA0/SjscJ8JEU9kNhhblcwa_Cjn2fXUqNcP8QCPcB/s1600/IMG_20160513_150239.jpg)
+
+&lt;/div&gt;
+
+With thought to first reach Indrahar pass and later decide what next, we
+left on Thursday, 12th May. Akshay wanted to see Bhagsu waterfall, so we
+started our day with that. We were told about a path leading to Triund
+via Upper Bhagsu village. There was a small puddle where it used to be a
+pond. We started for Triund around 12. It was a steep climb till we
+merged into Triund trek route. It was a hot day and there weren't enough
+trees for shade. We had our lunch in Triund and soon decided to leave
+for Snowline Cafe.\
+\
+\
+Akshay was little reluctant to walk that day and I was slowly giving up
+hope to reach Lahesh cave the same day. I sincerely wished that we reach
+Lahesh cave on the same day after halting for a while at Snowline cafe
+for food but by the time everybody reached Snowline, we decided to camp
+there and leave for Indrahar pass early next morning. We all were
+carrying our separate tents but the night got very windy and Kiran had
+to sleep in Akshay's tent as his tent fell due to wind.\
+&lt;div class=&quot;separator&quot; style=&quot;clear: both; text-align: center;&quot;&gt;
+
+[![](https://3.bp.blogspot.com/-9zywiVKq2ss/V5-DFi4f2xI/AAAAAAAAaFc/o8ouMrNGyjgIgR7xpBLUgh0Abc-GO2RcQCLcB/s320/IMG_20160513_190750.jpg){width=&quot;320&quot;
+height=&quot;240&quot;}](https://3.bp.blogspot.com/-9zywiVKq2ss/V5-DFi4f2xI/AAAAAAAAaFc/o8ouMrNGyjgIgR7xpBLUgh0Abc-GO2RcQCLcB/s1600/IMG_20160513_190750.jpg)
+
+&lt;/div&gt;
+
+\
+In the night we were informed of snow conditions on the trail and were
+advised to take a guide. We were told that an ice axe might be needed to
+carve out steps in a glacier which falls very steep from peak. There was
+small group of people who attempted to reach Indrahar pass a day before
+with a guide but they had to come back from few 100 meters before pass
+due to snow condition and weather. Though, short on money we couldn't
+have been able to afford guide that day and we started little late
+around 8:30 AM on Friday contrary to what we had planned. There were two
+more people leaving that day from Snowline Cafe for the pass. They even
+had an ice axe and were even planning to cross the pass that day. One of
+them was Ken from Japan. I was hopeful that if we followed them, we
+would be able to get to the top. They left before us. Akshay was not
+willing to continue, though he came along us for a stroll till Laka Cave
+area. Negotiating the Laka glacier took a little time and Akshay didn't
+want to continue, so he decided to walk back from there.\
+  --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+  [![](https://1.bp.blogspot.com/-Hmm_GkB3udI/V5-DhT3o9HI/AAAAAAAAaFg/NLhcIvbFkJA3foq1H-BRYwfqcCL0YY_iwCLcB/s320/IMG_20160514_074347.jpg){width=&quot;320&quot; height=&quot;240&quot;}](https://1.bp.blogspot.com/-Hmm_GkB3udI/V5-DhT3o9HI/AAAAAAAAaFg/NLhcIvbFkJA3foq1H-BRYwfqcCL0YY_iwCLcB/s1600/IMG_20160514_074347.jpg)
+  it look a little time .. though it was fun
+  --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+\
+  --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+  [![](https://4.bp.blogspot.com/-ZMHKtbxu8hQ/V5-Dn7jqkTI/AAAAAAAAaFk/4ogBwotzQbcG9LCkdoX1hzKoMN8IE8hxQCLcB/s320/IMG_20160514_082054.jpg){width=&quot;320&quot; height=&quot;240&quot;}](https://4.bp.blogspot.com/-ZMHKtbxu8hQ/V5-Dn7jqkTI/AAAAAAAAaFk/4ogBwotzQbcG9LCkdoX1hzKoMN8IE8hxQCLcB/s1600/IMG_20160514_082054.jpg)
+  waterfall near lahesh cave
+  --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+\
+[![](https://1.bp.blogspot.com/-T44c8j58m9Y/V5-FWZOslKI/AAAAAAAAaGE/zkr9iSSWXacs76TxxyHJLzkJLKPI6GhygCLcB/s320/IMG_20160514_115146.jpg){width=&quot;320&quot;
+height=&quot;240&quot;}](https://1.bp.blogspot.com/-T44c8j58m9Y/V5-FWZOslKI/AAAAAAAAaGE/zkr9iSSWXacs76TxxyHJLzkJLKPI6GhygCLcB/s1600/IMG_20160514_115146.jpg)We
+followed the trail and cairns on the way. The path was not very clear,
+sometimes I had to look around to be sure that we are on the right
+track. We continued our walk but Ken and his friend were nowhere to be
+seen by now. There were steps carved in glacier. Kiran hesitantly
+crossed it.\
+\
+Slowly and steadily, we were making progress. I was finding it difficult
+to follow the track, though I was sure that it was the right path.\
+\
+\
+&lt;div class=&quot;separator&quot; style=&quot;clear: both; text-align: center;&quot;&gt;
+
+&lt;/div&gt;
+
+\
+&lt;div class=&quot;separator&quot; style=&quot;clear: both; text-align: center;&quot;&gt;
+
+[![](https://4.bp.blogspot.com/-Sr7ZfAkCqWs/V5-EQP0TJ8I/AAAAAAAAaFw/QQEZmYfH038aHJSx4xzhmdlhExhncOSXwCLcB/s320/IMG_20160514_103240.jpg){width=&quot;320&quot;
+height=&quot;240&quot;}](https://4.bp.blogspot.com/-Sr7ZfAkCqWs/V5-EQP0TJ8I/AAAAAAAAaFw/QQEZmYfH038aHJSx4xzhmdlhExhncOSXwCLcB/s1600/IMG_20160514_103240.jpg)
+
+&lt;/div&gt;
+
+\
+The top seemed very close. I saw a severed head of what looked like a
+goat and blood patches on the trek. I couldn't think of any reason of
+ what killed it that way. Kiran was uneasy after seeing that and was
+feeling tired so he asked me go ahead without him. It was past noon.\
+Weather seemed to coming in heavily. Suddenly it was all dark and
+cloudy. It was difficult to see what lies ahead. Kiran was far behind
+and I was not able to find trail further. Markers were pointing towards
+a glacier which was very steep. It wasn't very wide but there were no
+footsteps. Suddenly it started to hail. and I feared of it getting worse
+as there was no place for me to hide so I decided to turn back and be
+content with the progress made on the trek.\
+\
+\
+\
+&lt;div class=&quot;separator&quot; style=&quot;clear: both; text-align: center;&quot;&gt;
+
+&lt;/div&gt;
+
+[![](https://3.bp.blogspot.com/-ErMA2aerkPk/V5-FMC0Mi2I/AAAAAAAAaGI/6nhydNVSK6U2t_iV6YzQQjx04Qj2DvrYACEw/s320/IMG_20160514_114635.jpg){width=&quot;320&quot;
+height=&quot;240&quot;}](https://3.bp.blogspot.com/-ErMA2aerkPk/V5-FMC0Mi2I/AAAAAAAAaGI/6nhydNVSK6U2t_iV6YzQQjx04Qj2DvrYACEw/s1600/IMG_20160514_114635.jpg)\
+With time, the hailing slowed down but there wasn't much time to change
+the decision for that day. Few hours after we reached Snowline Cafe, Ken
+and his friends also came back and they managed to reach the top. I sat
+there and pondered what went wrong. Why did I turn back when I knew
+there wasn't much left till the top, I was almost there. While talking
+to the cafe owner, he suggested that had we started little early, we
+could've got company of local Gaddi people, who crossed that pass
+frequently with their goats and sheeps.\
+\
+\
+\
+\
+\
+\
+  ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+  [![](https://1.bp.blogspot.com/-v4rACpDul08/V5-FH1cAfVI/AAAAAAAAaGI/f_r8-5x69rYID_QgNw9xtfdrCnn2LHqHQCEw/s320/IMG_20160514_113013.jpg){width=&quot;320&quot; height=&quot;240&quot;}](https://1.bp.blogspot.com/-v4rACpDul08/V5-FH1cAfVI/AAAAAAAAaGI/f_r8-5x69rYID_QgNw9xtfdrCnn2LHqHQCEw/s1600/IMG_20160514_113013.jpg)
+  At center is the severed head of goat
+  ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Recollecting all what I have seen on the way, I asked the shop owner at
+cafe about the severed head of goat. He told me that Gaddi's kill the
+goat which walk slowly because if they are left behind, these goats may
+die with hunger.\
+\
+\
+\
+We returned back from Snowline next day on Saturday to McLeodganj. [Here
+is our shared photo album](https://goo.gl/photos/BKgE4Gx6LAX5YYnc9).\
+\
+**\
+\
+\
+\
+Next Attempt:**\
+\
+It had been two weeks since my last unsuccessful attempt to complete the
+trek, the thought of not able to complete that trek was constantly
+bothering me. With a constant feeling of &quot; I shouldn't have given up so
+easily &quot;, I knew I won't be able to plan any other trek unless I
+complete this one so I decided to make another attempt to reach the top
+atleast. It was Friday, 3rd of June when I left alone for McLeodganj. My
+only camera; my mobile gave in due to charging problems. I didn't even
+carry my tent this time and decided to stay in caves only. There was
+another cave on the other side near Chatta where I would be staying, if
+I were to cross the pass.\
+\
+With all the thoughts and will, I started off for Lahesh cave on
+Saturday Morning. Rested for a while at snowline cafe, I left for Lahesh
+cave after having lunch. I was in luck as there few gaddis who were to
+cross that pass tomorrow. Next morning, I heard calls of those shepherds
+while I was getting ready and I tagged along with them. Those sheeps
+were really slow while walking. I was following them and sometimes tried
+to help them controlling the sheeps. When I reached the point from where
+I turned back last time; I had to go ahead of these sheeps as they were
+nearly came to a halt. Few local people were coming down from the top
+where they had gone to offer prayers. They also offered me prasad.
+Walking further more for around half an hour I was at the top. The lead
+shepherd was sitting there and enjoying the view of Chamba valley.
+Breathing lively and cherishing what beautiful the view was, there is
+another thought going in back of my mind and I was wondering what would
+be the view of the other side from the top. Heavenly it was, much more
+than what I imagined. The steep descent from pass goes to a vast flat
+plateau covered with snow. From there one can see Pir panjal range and
+Mani Mahesh peak. Few minutes later another group joined us. We all
+stayed around for an hour and roamed around to see the view of valley
+from different spots. After an hour, clouds started rising from the
+valley and with rising clouds, we too started back. And in a short
+while, it started hailing and raining heavily. We continued our descent
+slowly and cautiously as the path was now slippery due to rain. And then
+we heard the sound of loud thunder and saw frequent lighting around. It
+continued all along the way and rain got heavier.We had to take shelter
+and Lahesh cave was nearest to our rescue. After an hour it stopped
+raining and we again started walking down to Snowline cafe. I was having
+lunch over there when it started raining again, actually this time it
+was pouring. When it slowed down, I too started my journey back slowly
+towards Mcleodganj. It was already dark when I reached the town and I
+had to no other option than to stay over night in Mcleodganj due to
+non-availability of bus. I was happy that I reached the pass which gave
+me many sleepless nights because I left it incomplete last time. I still
+wished to cross the pass to see what lies on the other side; but I was
+travelling too light for that.
+
+&lt;/div&gt;
+</description>
+        <pubDate>Mon, 06 Jun 2016 00:00:00 +0000</pubDate>
+        <link>https://ghumakkad.github.io/ghumakkad//2016/06/06/indrahar-pass-trek-log/</link>
+        <guid isPermaLink="true">https://ghumakkad.github.io/ghumakkad//2016/06/06/indrahar-pass-trek-log/</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Craft Beer</title>
+        <description>&lt;p&gt;Etsy squid occupy pop-up. Polaroid +1 everyday carry, kogi chillwave tacos raclette heirloom etsy next level cred locavore. Blog street art DIY, pug crucifix asymmetrical chicharrones. Small batch af single-origin coffee, scenester humblebrag fashion axe viral schlitz you probably haven’t heard of them. Kickstarter synth poutine brunch hoodie. Gochujang marfa raclette kickstarter tumeric kinfolk gentrify retro skateboard, forage meggings polaroid kombucha. Tilde mlkshk fam meggings.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Actually YOLO marfa tofu shabby chic snackwave. Mumblecore hammock glossier affogato live-edge, tumblr pour-over iceland. Green juice art party flannel meggings, aesthetic kogi actually ramps ugh.&lt;/li&gt;
+  &lt;li&gt;Church-key crucifix messenger bag health goth&lt;/li&gt;
+  &lt;li&gt;Try-hard artisan direct trade&lt;/li&gt;
+  &lt;li&gt;Cold-pressed selfies&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Actually YOLO marfa tofu shabby chic snackwave. Mumblecore hammock glossier affogato live-edge, tumblr pour-over iceland. Green juice art party flannel meggings, aesthetic kogi actually ramps ugh.&lt;/li&gt;
+  &lt;li&gt;Church-key crucifix messenger bag health goth&lt;/li&gt;
+  &lt;li&gt;Try-hard artisan direct trade&lt;/li&gt;
+  &lt;li&gt;Cold-pressed selfies&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h3&gt;Subway tile&lt;/h3&gt;
+&lt;p&gt;Knausgaard readymade williamsburg tote bag taxidermy, DIY meditation copper mug. Farm-to-table &lt;a href=&quot;#&quot;&gt;street art&lt;/a&gt; fixie, chambray vice literally four loko vaporware. Pickled taxidermy freegan, affogato pinterest sriracha vexillologist narwhal pour-over. Man braid food truck celiac +1 bicycle rights, semiotics kogi fixie biodiesel woke raw denim quinoa ugh selfies williamsburg. Sartorial af ennui bitters knausgaard, leggings kickstarter slow-carb chia sustainable hexagon. Prism 3 wolf moon occupy ramps wayfarers tumblr narwhal 90’s. Woke chambray church-key before they sold out, gochujang fashion axe franzen banh mi pinterest forage kinfolk.&lt;/p&gt;
+
+&lt;figure&gt;
+  &lt;img src=&quot;https://picsum.photos/2000/1200?image=1003&quot; alt=&quot;Placeholder&quot; /&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;Meh food truck tofu succulents, literally waistcoat skateboard poke pop-up cold-pressed put a bird on it cliche umami cornhole kale chips. Man braid 8-bit irony selvage, butcher blog everyday carry. Af meggings tacos ugh la croix skateboard. Biodiesel paleo prism kombucha seitan drinking vinegar. Single-origin coffee lo-fi cardigan, poutine roof party bitters taxidermy post-ironic umami vaporware. Austin edison bulb leggings cliche. Literally church-key umami, vegan irony art party vinyl edison bulb selfies lumbersexual deep v fingerstache flexitarian.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  Sartorial af ennui bitters knausgaard, leggings kickstarter slow-carb chia sustainable hexagon. Prism 3 wolf moon occupy ramps wayfarers tumblr narwhal 90's.
+  &lt;cite&gt;Man braid&lt;/cite&gt;
+&lt;/blockquote&gt;
+
+&lt;h4&gt;Subway tile&lt;/h4&gt;
+&lt;p&gt;Slow-carb cornhole crucifix thundercats intelligentsia. Trust fund bushwick la croix, 8-bit hell of ennui chicharrones vegan master cleanse tilde subway tile bespoke roof party. Next level celiac bushwick coloring book subway tile. Lyft knausgaard four loko, twee sustainable narwhal letterpress PBR&amp;amp;B kombucha paleo mixtape helvetica. Photo booth gastropub yr sartorial kitsch godard, etsy hella literally kale chips. Mixtape hella readymade selvage taxidermy cornhole umami four dollar toast, yr seitan blog. Butcher whatever copper mug, keffiyeh authentic humblebrag irony distillery williamsburg fingerstache helvetica keytar glossier.&lt;/p&gt;
+
+&lt;figure&gt;
+  &lt;img src=&quot;https://picsum.photos/2000/1200?image=1003&quot; alt=&quot;Placeholder&quot; /&gt;
+  &lt;figcaption&gt;Gentrify cray pug authentic, cliche listicle actually subway tile woke semiotics af.&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;Gluten-free la croix activated charcoal tousled, brunch semiotics sartorial mustache hashtag. Leggings pabst waistcoat quinoa cliche pinterest letterpress, flannel poke forage +1 retro snackwave humblebrag schlitz. Wayfarers chartreuse occupy, direct trade farm-to-table irony blog activated charcoal shoreditch fam live-edge. Intelligentsia scenester gochujang gentrify portland offal. Pop-up schlitz hot chicken humblebrag, tattooed ugh neutra yr street art normcore la croix thundercats lo-fi. Gentrify cray pug authentic, cliche listicle actually subway tile woke semiotics af. Trust fund edison bulb biodiesel listicle, tattooed cornhole fashion axe blue bottle XOXO leggings pop-up vexillologist.&lt;/p&gt;
+
+&lt;p&gt;Pinterest cold-pressed selfies man bun twee williamsburg irony, art party snackwave tumeric knausgaard marfa polaroid chambray. PBR&amp;amp;B semiotics selvage brooklyn hexagon cray. Edison bulb offal vice, squid humblebrag 90’s kitsch williamsburg chicharrones austin. Poke 3 wolf moon selfies banh mi farm-to-table raclette. +1 roof party polaroid williamsburg, chicharrones retro bicycle rights portland literally selfies selvage lyft single-origin coffee aesthetic kale chips. Blog yr la croix four loko beard. Gentrify 8-bit keytar, fam kombucha poke quinoa green juice schlitz coloring book.&lt;/p&gt;
+</description>
+        <pubDate>Fri, 19 Feb 2016 00:00:00 +0000</pubDate>
+        <link>https://ghumakkad.github.io/ghumakkad//2016/02/19/craft-beer/</link>
+        <guid isPermaLink="true">https://ghumakkad.github.io/ghumakkad//2016/02/19/craft-beer/</guid>
+        
+        
+        <category>Juice</category>
+        
+      </item>
+    
+      <item>
+        <title>Har Ki Doon Trek Log</title>
+        <description>&lt;p&gt;— layout: post title: Har ki Doon Trek Log date:
+‘2015-12-30T01:56:00.000+05:30’ author: Prashant C Chaturvedi tags: -
+trek - winter trek - NIM - taluka - swargarohini - ruinsaira - osla -
+har ki doon - puani garaat - sankri - tons - borasu - uttarkashi -
+uttarakhand - seema - kedarkantha - juandhar - kalkatiyadhar - rupin
+modified_time: ‘2016-08-02T02:09:41.054+05:30’ thumbnail:
+https://1.bp.blogspot.com/-EjwaoE4cRrY/Vov_rdRhyCI/AAAAAAAAXqI/8vHj3LOfkyMPChfUwz2LMtJGumxufoxogCPcB/s72-c/IMG_20151229_151233.jpg
+blogger_id:
+tag:blogger.com,1999:blog-7230910114786000845.post-8797560719759545199
+blogger_orig_url:
+http://mountaineeringguide.blogspot.com/2015/12/har-ki-doon-trek-log.html
+—&lt;/p&gt;
+&lt;div dir=&quot;ltr&quot; style=&quot;text-align: left;&quot; trbidi=&quot;on&quot;&gt;
+
+Less than a week was left of year 2015 and holidays were lined up. In
+search of a winter trek, I had Kauri pass and Har ki doon in my mind. A
+month ago Kiran and I had just been to to Hemkund Sahib and Valley of
+Flowers. Dalima was also willing to join us in our next trek. She needed
+an esacape from busy city life. Har ki doon is well known most one of
+most popular winter treks in Uttarkashi region. During same time YHAI
+had been taking many batches for Kedarkantha trek. Trek to Kedarkantha
+also stars from Sankri, Uttarakhand.\
+\
+We started on Saturday night, 26 Dec for Dehradun. We couldn't find any
+any conveyance for Sankri from there so we moved to Rishikesh. We took a
+bus around 5 AM for Sankri. It was long ride of around 11 hours. Sun was
+about to set when we reached Sankri. It is a small and quiet place and
+accommodations were already full of trekkers in this season. After some
+search we were able to find a place to stay. Nearby, there was a small
+shop where we had dinner and chit chat with other trekker who were
+staying nearby. After some last time purchase, we also arranged for a
+jeep to Taluka from where we were to start our trek.\
+&lt;div class=&quot;separator&quot; style=&quot;clear: both; text-align: center;&quot;&gt;
+
+[![](https://1.bp.blogspot.com/-EjwaoE4cRrY/Vov_rdRhyCI/AAAAAAAAXqI/8vHj3LOfkyMPChfUwz2LMtJGumxufoxogCPcB/s320/IMG_20151229_151233.jpg){width=&quot;320&quot;
+height=&quot;236&quot;}](https://1.bp.blogspot.com/-EjwaoE4cRrY/Vov_rdRhyCI/AAAAAAAAXqI/8vHj3LOfkyMPChfUwz2LMtJGumxufoxogCPcB/s1600/IMG_20151229_151233.jpg)
+
+&lt;/div&gt;
+
+\
+It was around 8 AM, when we reached Taluka. It was a cold morning. We
+started off after some light breakfast. Most of the trails goes along
+the river Rupin. The gentle sound of river all along the first day trek
+is very comforting and refreshing. The trail is also very beautiful.
+River is very approachable from most of the first day trail.\
+\
+\
+\
+\
+\
+[![](https://3.bp.blogspot.com/-FWqFFo9-ZJM/Vov_rZYp8KI/AAAAAAAAXqI/WwRc4hAsDLoyUqj1EtvJi5qg46Wu5FIWQCPcB/s320/IMG_20151227_130629.jpg){width=&quot;320&quot;
+height=&quot;240&quot;}](https://3.bp.blogspot.com/-FWqFFo9-ZJM/Vov_rZYp8KI/AAAAAAAAXqI/WwRc4hAsDLoyUqj1EtvJi5qg46Wu5FIWQCPcB/s1600/IMG_20151227_130629.jpg)It
+was around 4 PM when we reached Osla village. It was a steep climb after
+crossing the bridge. The village was very picturesque. From the river
+bed it seems as if people have made nests in the mountains. All houses
+of same color and made of wood which mixes with background.\
+\
+We haven't had anything to eat till now. Dalima's knee was giving her a
+tough time. Children of the village flocked around us asking different
+questions. I got some maggi and biscuits from a shop in the village. the
+local people seemed very helpful and nice. A man from village offered to
+prepare it for us while we talked to the children. There aren't many men
+in the village. Those with whom I talked, were very keen on having us as
+their guest. We had tents but we did need food. We decided to have
+dinner with the old man who prepared maggi for us and pitched our tent
+outside his home. There was another family insisting to stay in their
+home. It was cold out there and Dalima stayed with them. It was very
+peculiar to see how these houses are made of wood and housed a hearth
+made of mud in the room. Just above the hearth roof open to make room
+for smoke. There is a place to store wood and hay below the house.
+Dalima's knee problem had aggravated and she decided to take some rest
+next day. The house owner was happy to have her as guest. Children were
+very curious excited around her and constantly chatting.  We enquired
+about the logistics which we need to take and arrangements for food
+during the rest of the trek. We promised Dalima to be back as soon as we
+can.\
+\
+\
+On tuesday, We started off early in the morning and wrapping up our
+tents. Crossing Kalkatiyadhar campsite, we reached Har ki doon in
+afternoon.\
+&lt;div class=&quot;separator&quot; style=&quot;clear: both; text-align: center;&quot;&gt;
+
+[![](https://4.bp.blogspot.com/-9N017d5Ua-k/Vov_rbkZEmI/AAAAAAAAXqI/AMJhgOMFE6odXmbfeUf8KVL_F-bmHp_mwCPcB/s640/PANO_20151228_122828.jpg){width=&quot;640&quot;
+height=&quot;209&quot;}](https://4.bp.blogspot.com/-9N017d5Ua-k/Vov_rbkZEmI/AAAAAAAAXqI/AMJhgOMFE6odXmbfeUf8KVL_F-bmHp_mwCPcB/s1600/PANO_20151228_122828.jpg)
+
+&lt;/div&gt;
+
+\
+It was a sunny day and there weren't much trees on the trail. The trail
+just before the Har ki doon was enchanting and covered with snow with
+beautiful little streams joining Tons river and trees around. Har ki
+doon valley is a big amphitheatre which lies in the valley of majestic
+Swargarohini peak. It is an inexplicable experience to see such a close
+view of Swargarohini peak. This trail is believed to be taken by
+Pandavas who attempted to go to heaven with their bodies. Kiran had some
+phaphda which we had with pickles. We took water and essential stuff in
+our daypack and went exploring towards Juandhar glacier in the valley. I
+couldn't take my eyes off from the Swargarohini peak and was immersed in
+the thoughts of how Pandavas who attempted to climb the peak in
+Mahabharata era. The first ascent of Swargarohini was done by team of
+NIM(Nehru Institute Of Mountaineering) instructors in 1990, Uttarkashi
+from where I once did my AMC.\
+&lt;div class=&quot;separator&quot; style=&quot;clear: both; text-align: center;&quot;&gt;
+
+[![](https://4.bp.blogspot.com/-7xeWUY11uPU/Vov_rWNP0YI/AAAAAAAAXqI/u47DRjj-GWgS-OXWHAIEmhv3lUeWlKcFACPcB/s640/IMG_20151228_150142-PANO.jpg){width=&quot;640&quot;
+height=&quot;362&quot;}](https://4.bp.blogspot.com/-7xeWUY11uPU/Vov_rWNP0YI/AAAAAAAAXqI/u47DRjj-GWgS-OXWHAIEmhv3lUeWlKcFACPcB/s1600/IMG_20151228_150142-PANO.jpg)
+
+&lt;/div&gt;
+
+\
+We walked inside the valley until sun started to set.\
+&lt;div class=&quot;separator&quot; style=&quot;clear: both; text-align: center;&quot;&gt;
+
+[![](https://3.bp.blogspot.com/-axajRVN2t7s/Vov_rQhjsoI/AAAAAAAAXqI/oY3o_Pai440uFOf4mN58L0bRCq6YiMa-ACPcB/s640/PANO_20151228_171805.jpg){width=&quot;640&quot;
+height=&quot;212&quot;}](https://3.bp.blogspot.com/-axajRVN2t7s/Vov_rQhjsoI/AAAAAAAAXqI/oY3o_Pai440uFOf4mN58L0bRCq6YiMa-ACPcB/s1600/PANO_20151228_171805.jpg)
+
+&lt;/div&gt;
+
+\
+\
+We had to come back to pitch our tent to make arrangements of dinner and
+pitch our tents. We pitched our tents beside the forest rest house there
+and requested for dinner to the caretaker of the rest house. We watched
+the setting sun sitting on the big boulder near campsite. It was very
+cold and windy in the night. We spent most of the time in the kitchen
+before going to sleep. We talked about what lies further on the trail
+and treks in the area. I promised myself to cross the Borasu pass next
+time which lies further on the trail and take a diversion to Ruinsaira
+tal which is around 14 km from Osla village.\
+&lt;div class=&quot;separator&quot; style=&quot;clear: both; text-align: center;&quot;&gt;
+
+[![](https://3.bp.blogspot.com/-D7Oui6CMogE/Vov_reyqxxI/AAAAAAAAXqI/ii1RkjFkN_INPtWTuVzcOsaHqfRSuAGqQCPcB/s400/IMG_20151228_171945.jpg){width=&quot;400&quot;
+height=&quot;295&quot;}](https://3.bp.blogspot.com/-D7Oui6CMogE/Vov_reyqxxI/AAAAAAAAXqI/ii1RkjFkN_INPtWTuVzcOsaHqfRSuAGqQCPcB/s1600/IMG_20151228_171945.jpg)
+
+&lt;/div&gt;
+
+\
+\
+It was already 7 when we woke up next morning. We wrapped our tents and
+left at once after having tea. We started our retreat around 8. It was
+an easy descent and we walked on scout's pace. Dalima was eagerly
+waiting for us in the village where we had lunch around 11. After paying
+all the dues, we left for Taluka around 12. It was not long when we
+reached Taluka.\
+\
+We still had two spare days left and we could've attempted for
+Kedarkantha trek as well. New year parties with friends in Delhi are
+also cool; we thought and left for Delhi next morning.\
+\
+[Here is the link to our shared
+album.](https://goo.gl/photos/xyArwdXxLzjtvKWDA) 
+
+&lt;/div&gt;
+</description>
+        <pubDate>Wed, 30 Dec 2015 00:00:00 +0000</pubDate>
+        <link>https://ghumakkad.github.io/ghumakkad//2015/12/30/har-ki-doon-trek-log/</link>
+        <guid isPermaLink="true">https://ghumakkad.github.io/ghumakkad//2015/12/30/har-ki-doon-trek-log/</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Valley Of Flowers And Hemkund Sahib Trek</title>
+        <description>&lt;p&gt;— layout: post title: Valley of Flowers and Hemkund Sahib Trek Log
+date: ‘2015-11-18T01:17:00.000+05:30’ author: Prashant C Chaturvedi
+tags: - govind ghat - trek - ghangharia - valley of flowers - chamoli -
+joshimath - pushpawati - bhyundar - hemkund - backpacking - bhyundar
+ganga modified_time: ‘2016-04-29T14:55:56.948+05:30’ thumbnail:
+https://2.bp.blogspot.com/-nS1_GjYo32U/VkuH-kPy-iI/AAAAAAAAWuw/mVV6w-6NEvw/s72-c/paved%2Btrail.jpg
+blogger_id:
+tag:blogger.com,1999:blog-7230910114786000845.post-4203663962891506929
+blogger_orig_url:
+http://mountaineeringguide.blogspot.com/2015/11/valley-of-flowers-and-hemkund-sahib-trek.html
+—&lt;/p&gt;
+&lt;div dir=&quot;ltr&quot; style=&quot;text-align: left;&quot; trbidi=&quot;on&quot;&gt;
+
+Having completed a quick trek to Roopkund in Dussehara vacations, I
+hoped to do another in Deepawali. I had no plans of going home from
+Noida in vacations. Kiran was also in Gurgaon itself. This time if we
+took one day leave from office, we could have 5 days to do something. I
+proposed going to Joshimath and doing some of treks among Kauri
+Pass(Curzon Trail), Hemkund Sahib and Valley Of flowers over there.
+Though Valley of flowers and Hemkund Sahib were already closed by then
+for the winter season. Since we were only two, we decided to minimize
+the expense using bus travel instead cab.\
+\
+There were very few buses on the route due to Deepawali that day.  We
+managed our way to Joshimath by changing buses and eventually booking a
+cab from Karnaprayag. It was night when we arrived Joshimath. To start
+trekking for Valley Of Flowers &amp;amp; Hemkund Sahib early morning, it would
+have been better if we stayed in Govind ghat that night. The cab driver
+was asking for a lot for Govind ghat so we had to stay in Joshimath and
+went to Govind ghat next morning.\
+\
+  ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+  [![](https://2.bp.blogspot.com/-nS1_GjYo32U/VkuH-kPy-iI/AAAAAAAAWuw/mVV6w-6NEvw/s400/paved%2Btrail.jpg){width=&quot;400&quot; height=&quot;295&quot;}](http://2.bp.blogspot.com/-nS1_GjYo32U/VkuH-kPy-iI/AAAAAAAAWuw/mVV6w-6NEvw/s1600/paved%2Btrail.jpg)
+  Trail
+  ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+\
+After asking about the route, we left Govind ghat around 8 in morning.
+Govind ghat is situated at the confluence of rivers Alaknanda and
+Lakshman Ganga. The route going through Bhyundar valley is well paved
+and goes through a dense forest with Bhyundar Ganga on the right side.
+After 3-4 hours walk we reached Bhyundar village.\
+\
+\
+\
+\
+\
+  -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+  \
+  \
+  [![](https://4.bp.blogspot.com/-S5RlSv3Kj0w/VkuKb1QC02I/AAAAAAAAWvI/LS2GalHS5hE/s400/the%2Btrail%2Bthrough%2Bjungle.jpg){width=&quot;400&quot; height=&quot;295&quot;}](http://4.bp.blogspot.com/-S5RlSv3Kj0w/VkuKb1QC02I/AAAAAAAAWvI/LS2GalHS5hE/s1600/the%2Btrail%2Bthrough%2Bjungle.jpg)
+
+  Along Bhyundar village to Ghangharia
+  -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+\
+\
+\
+\
+There was no one in the village except one shop and 3-4 labours working
+on a home. Having our lunch we enquired upon further trail ahead. The
+shopkeeper told us that there is absolutely no one beyond this point in
+Ghangharia or Hemkund Sahib and everything is closed. He also warned us
+about the bears and leopards in the area and gave us 2 crackers and some
+kerosene to light up fire in night.\
+After getting few chapatis packed with pickle, soon we left for
+Ghangharia. On our way, two dogs tagged along us after getting lured by
+Kiran with biscuits.\
+\
+\
+\
+  -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+  [![](https://4.bp.blogspot.com/-WH0dEY93da0/VkuQ5gV9F1I/AAAAAAAAWwM/YbQjRlB112E/s400/hathi%2Bparbat%2Bfrom%2Bbhyundar%2Bvillage.jpg){width=&quot;400&quot; height=&quot;295&quot;}](http://4.bp.blogspot.com/-WH0dEY93da0/VkuQ5gV9F1I/AAAAAAAAWwM/YbQjRlB112E/s1600/hathi%2Bparbat%2Bfrom%2Bbhyundar%2Bvillage.jpg)
+
+  Hathi Parbat as seen from Bhyundar Village,\
+  A trail to Kakbhushundi lake starts from here towards this mountain
+  -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+\
+\
+\
+&lt;div style=&quot;text-align: left;&quot;&gt;
+
+&lt;/div&gt;
+
+\
+&lt;div class=&quot;separator&quot; style=&quot;clear: both; text-align: center;&quot;&gt;
+
+[![](https://1.bp.blogspot.com/-_Dj_vhWW9nk/VkuQA2N81TI/AAAAAAAAWwE/iuy4v-RiK34/s320/there%2Bwas%2Bno%2Bone%2Bin%2Bghangharia.jpg){width=&quot;320&quot;
+height=&quot;236&quot;}](http://1.bp.blogspot.com/-_Dj_vhWW9nk/VkuQA2N81TI/AAAAAAAAWwE/iuy4v-RiK34/s1600/there%2Bwas%2Bno%2Bone%2Bin%2Bghangharia.jpg)
+
+&lt;/div&gt;
+
+\
+Walking through the dense forest, it was past 2 P.M. when we reached
+Ghangharia.\
+&lt;div style=&quot;text-align: left;&quot;&gt;
+
+&lt;/div&gt;
+
+This is a significant place along this trek with lots of houses along
+the both sides of street; but everything was closed. It gave the whole
+place an eerie appearance. After hiding our bags in the gallery of a
+rest house, we left for Valley of Flowers.\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+  -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+  [![](https://2.bp.blogspot.com/-CBq3BLEbP-8/VkuLtX1g-eI/AAAAAAAAWvU/TdOTMTwgh9s/s320/towards%2Bvof%252C%2Bthe%2Bpushpawato%2Bgorge.jpg){width=&quot;320&quot; height=&quot;236&quot;}](http://2.bp.blogspot.com/-CBq3BLEbP-8/VkuLtX1g-eI/AAAAAAAAWvU/TdOTMTwgh9s/s1600/towards%2Bvof%252C%2Bthe%2Bpushpawato%2Bgorge.jpg)
+
+  Towards Valley Of Flowers From Ghangharia,\
+  The Pushpawati river gorge
+  -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+\
+The trek goes through the dense forest on left side and Pushpawati river
+gorge on the right. The Pushpawati river joins Bhuyandar Ganga near
+Ghangharia to form Lakshman Ganga.\
+\
+\
+The dogs chased grey langurs herds whenever they see them. Climbing our
+way after crossing Pushpawati river, and walking through the dense
+forests with some snow along the trail; we reached Valley of Flowers.\
+\
+\
+\
+\
+\
+\
+\
+\
+  -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+  [![](https://3.bp.blogspot.com/-0NSzoYz5RBo/VkuMKem8-qI/AAAAAAAAWvc/6Y5vkoIqkWA/s320/vof.jpg){width=&quot;320&quot; height=&quot;236&quot;}](http://3.bp.blogspot.com/-0NSzoYz5RBo/VkuMKem8-qI/AAAAAAAAWvc/6Y5vkoIqkWA/s1600/vof.jpg)
+  Valley of Flowers in mid November
+  -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+\
+The flora in the valley was completely dried except few green patches
+here and there. We roamed inside the valley enjoying the view and
+clicking pictures.\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+[![](https://1.bp.blogspot.com/-pM4vaJ9PiSg/VkuMbhnNxuI/AAAAAAAAWvk/1DbERO0YfUc/s320/the%2Bgrave.jpg){width=&quot;320&quot;
+height=&quot;235&quot;}](http://1.bp.blogspot.com/-pM4vaJ9PiSg/VkuMbhnNxuI/AAAAAAAAWvk/1DbERO0YfUc/s1600/the%2Bgrave.jpg)\
+After some walk inside the valley, we rested near the grave of Joan
+Margaret Legge (1885 - 1939) who died while collecting samples here. The
+sun was about to set, so we turned back towards Ghangharia. It was
+completely dark when we reached there.\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+We picked some woods from the street and lit up a fire with the help of
+kerosene. Sitting there, the dogs occasionally barked and ran along the
+street. Kiran feared that something is around and tried to look towards
+the way these dogs ran with torch. We only had 6 chapatis to eat. I
+suggested to eat next morning for breakfast as we needed enough energy
+to climb Hemkund Sahib. Kiran agreed to it and suggested to share our
+chapatis with the dogs dutifully protecting us in the night. After few
+hours of warming ourselves with fire, we decided to get some sleep. I
+kept the fire burning and pitched our tents in the gallery of the rest
+house. Dogs kept barking and running all night.\
+\
+  -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+  [![](https://2.bp.blogspot.com/-f2HaLV38M6E/VkuM9amyuAI/AAAAAAAAWvs/dyKRjdCjuJE/s320/foot%2Bprint.jpg){width=&quot;236&quot; height=&quot;320&quot;}](http://2.bp.blogspot.com/-f2HaLV38M6E/VkuM9amyuAI/AAAAAAAAWvs/dyKRjdCjuJE/s1600/foot%2Bprint.jpg)
+  The footsteps
+  -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+After sharing our breakfast with dogs, we started for Hemkund Sahib. It
+is a continuous 6 km climb till the top. After 3 kms, treeline ends and
+the path was snowy. The bridge on the way was disassembled so we found
+an alternate route nearby to go further. After the bridge there are
+stairs and there also is an alternate way. The stairs were steep and
+completely covered with snow but the alternate path is longer and not so
+steep. There was snow everywhere. After crossing the nullah, when I
+started on the stairs, I noticed foot steps of some big animal which
+walked before us on that path. Kiran found the path slippery and decided
+to take the alternate route. I climbed the stairs cautiously, wondering
+if some bear is waiting for me above. Later, I was assured that this
+could not be the case as the dogs went ahead and waited for me at the
+end of stairs. Kiran continued negotiating the snow, while I reached the
+gurudwara. After few mins, Kiran reached there and meanwhile I roamed
+around the serene Homkund lake taking pictures with my mobile which
+still retained it's juice in airplane mode. With the gentle breeze, the
+crystal clear rippling water of the lake was making sounds. We sat there
+on a stone by the lake for few minutes and watched around. The dogs were
+lying on the snow basking in the sun. Kiran wondered if they were very
+tired and are sleeping.\
+\
+  -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+  [![](https://4.bp.blogspot.com/-W_nyZELcT4M/VkuNMInfmYI/AAAAAAAAWv0/6y1hVXkKJQ8/s640/homkund%2Blake.jpg){width=&quot;640&quot; height=&quot;473&quot;}](http://4.bp.blogspot.com/-W_nyZELcT4M/VkuNMInfmYI/AAAAAAAAWv0/6y1hVXkKJQ8/s1600/homkund%2Blake.jpg)
+  The Homkund Lake
+  -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+\
+Around 11 AM, started trekking back for Govind ghat. It was a long way
+ahead and we both were hungry. We picked our bags up from Ghangharia
+from where we stayed last night and continued the descent. We talked
+about having big lunch at Bhyundar. The shopkeeper was waiting for us;
+when we we reached there in noon. After lunch and little rest in
+Bhyundar, we returned the kerosene and the crackers which we didn't use.
+It was necessary to reach Govind Ghat by evening, if we wanted to have
+dinner and stay in Joshimath. Around 6 PM, when we reached Govind Ghat
+it was dark. With some luck, we managed to catch a jeep coming from
+Badrinath.\
+\
+We still had a day left after these two trek days. Kauri pass was at
+least 28 km one way which I didn't think could be managed in the
+remaining time. Next day we ended our trip after visiting Badrinath
+temple and stayed overnight in Joshimath.\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+
+&lt;/div&gt;
+</description>
+        <pubDate>Wed, 18 Nov 2015 00:00:00 +0000</pubDate>
+        <link>https://ghumakkad.github.io/ghumakkad//2015/11/18/valley-of-flowers-and-hemkund-sahib-trek/</link>
+        <guid isPermaLink="true">https://ghumakkad.github.io/ghumakkad//2015/11/18/valley-of-flowers-and-hemkund-sahib-trek/</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Roopkund Trek</title>
+        <description>&lt;p&gt;— layout: post title: Roopkund Trek Log date:
+‘2015-11-17T20:26:00.002+05:30’ author: Prashant C Chaturvedi tags: -
+nanda ghunti - trek - bugyal - bedini - roopkund - junargali - trisul -
+chamoli - pataharnachuni - gharoli patal - lohajung - wan
+modified_time: ‘2015-11-17T21:19:50.714+05:30’ thumbnail:
+http://4.bp.blogspot.com/-q6gN_wTZX3k/VktIHArUJiI/AAAAAAAAWts/Jk_GQwRmJYo/s72-c/bedini.jpg
+blogger_id:
+tag:blogger.com,1999:blog-7230910114786000845.post-5659534707086750151
+blogger_orig_url:
+http://mountaineeringguide.blogspot.com/2015/11/roopkund-trek.html —&lt;/p&gt;
+&lt;div dir=&quot;ltr&quot; style=&quot;text-align: left;&quot; trbidi=&quot;on&quot;&gt;
+
+One of my friend asked me if I had any plans for Dussehara vacations.
+For one day leave, we were getting 4 days in our hand. He was planning
+for Roopkund trek as much as it can be done in two days which we would
+left with after taking out the travel time from Delhi. A day before, he
+got little sick and there were three of us for the trek. Kiran was from
+Bombay and Silva was from Brazil. We hadn't met before. Kiran was full
+of enthusiasm and wanted to complete this trek at any cost. I was
+supportive of this opinion and we chalked out our trek plan to make it
+possible. Silva had done a trek to Tungnath with Kiran and my friend
+Akshay few week back.\
+\
+We left on Wednesday evening; the cab picked me up around 10:30 in
+night. After a whole night and day drive, next day we reached village
+Wan around 5 p.m. To make most of our lost time, we needed to cover some
+of trek that day. In few minutes, after arranging for our driver's
+accomodation; we left for the trek. We did get few advices for not
+leaving for trek at such time, but we went on.\
+\
+\
+Out morales were pretty boost up. Calling ourselves bad mofos; we went
+past the wan village down to the bridge on river Neelganga. By then it
+was completely dark. Holding our torches, we started to climb. Our aim
+was to reach Bedini around 11 in night. Even though, we were advised
+against it in the village, we thought that it is better to utilize this
+time in trek than to stay. It was around 10 p.m.; when we reached first
+camping site Gharoli Patal. Bedini was still 3 km. We had still enough
+juice left to reach Bedini that night. But after staying few mins for
+tea there; we decided to camp there only. It was very cold and windy.\
+\
+\
+  ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+  [![](http://4.bp.blogspot.com/-q6gN_wTZX3k/VktIHArUJiI/AAAAAAAAWts/Jk_GQwRmJYo/s320/bedini.jpg){width=&quot;320&quot; height=&quot;180&quot;}](http://4.bp.blogspot.com/-q6gN_wTZX3k/VktIHArUJiI/AAAAAAAAWts/Jk_GQwRmJYo/s1600/bedini.jpg)
+  A view from Bedini Bugyal
+  ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Next morning around 6, we left for Bhojbasa after having maggi for
+breakfast. We were happy that stopping at Gharoli Patal, previous night
+didn't cost us much time when we reached Bedini. After half an hour of
+admiring the beauty of vast meadows, and few clicks; we left for our
+next stop.\
+\
+\
+\
+\
+\
+\
+\
+&lt;div class=&quot;separator&quot; style=&quot;clear: both; text-align: center;&quot;&gt;
+
+[![](http://3.bp.blogspot.com/-uZ5Ry-xug5E/VktJcb9CkVI/AAAAAAAAWt8/s4YZ-zNNrgw/s320/near%2Bpathar%2Bnachuni.jpg){width=&quot;320&quot;
+height=&quot;126&quot;}](http://3.bp.blogspot.com/-uZ5Ry-xug5E/VktJcb9CkVI/AAAAAAAAWt8/s4YZ-zNNrgw/s1600/near%2Bpathar%2Bnachuni.jpg)
+
+&lt;/div&gt;
+
+  ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+  [![](http://1.bp.blogspot.com/-C-QR8SQGnRE/VktI4NYlwzI/AAAAAAAAWt4/9dEaK9sN9pY/s320/on%2Bway%2Bto%2Bpathar%2Bnachuni.jpg){width=&quot;320&quot; height=&quot;132&quot;}](http://1.bp.blogspot.com/-C-QR8SQGnRE/VktI4NYlwzI/AAAAAAAAWt4/9dEaK9sN9pY/s1600/on%2Bway%2Bto%2Bpathar%2Bnachuni.jpg)
+  On the way to Patharnachuni
+  ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+It was around 2 PM when we reached Patharnachuni where we had our lunch.
+Soon after, we left for our final stop, Bhojbasa. One the steep ascent
+to Kalu Vinayak, Silva was walking a bit slow. After few wait and move
+ahead; Kiran and me discussed if he could walk with Silva and I'll come
+back to carry the bag from Bhojbasa. I tried walking fast and reached
+Bojbasa early where I left the bag and rushed back towards Kalu Vinayak.
+Kiran and Silva were resting at Kalu Vinayak, which they had already
+climbed. Silva was feeling better now and didn't let me carry his bag.
+We came back from Kalu Vinayak together.\
+\
+\
+\
+\
+\
+We all managed to reach Bhojbasa well before evening. Silva was having
+some headaches, I suggested him to have more tea and drink as much water
+as he can. We did a little walk around the campsite for acclimatization
+and had tea. We pitched our tents inside the forest hut. Although a lot
+colder, it was less windy than Bedini here.\
+\
+\
+  --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+  [![](http://3.bp.blogspot.com/-oXZhzIdT25I/VktKckPnxjI/AAAAAAAAWuI/EJ18ufGZqJY/s320/shila%2Bsamudra%2Bfrom%2Bjunargali.jpg){width=&quot;320&quot; height=&quot;180&quot;}](http://3.bp.blogspot.com/-oXZhzIdT25I/VktKckPnxjI/AAAAAAAAWuI/EJ18ufGZqJY/s1600/shila%2Bsamudra%2Bfrom%2Bjunargali.jpg)
+  Beyond Junargali
+  --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Next morning after having tea, we left for Roopkund around 6. We packed
+our tents and left our bag there in the hut. It was very cold and windy
+on the way. Some ice started to appear inside water bottle. After one
+and a half hour walk, we reached Roopkund. Silva was little behind. It
+was his first experince of such altitude and cold. There was some
+firewood left from previous fire; which I lit and warmed ourselves while
+waiting for Silva. Some dry sticks dry grass was around which I
+collected. When Silva was about to reach Roopkund; we left for
+Junargali. After few minutes of climb, we reached Junargali. Silva still
+was behind Roopkund. He would stop after few steps to catch a breath. It
+was windy was clear in Junargali with magnificent view of Mt.
+Trisul(7120m) and Nandaghunti(6309m).\
+\
+  ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+  [![](http://2.bp.blogspot.com/-fz0_gwCp3fU/VktLFfIrbDI/AAAAAAAAWuQ/6rygKh2Kie8/s320/junargali.jpg){width=&quot;236&quot; height=&quot;320&quot;}](http://2.bp.blogspot.com/-fz0_gwCp3fU/VktLFfIrbDI/AAAAAAAAWuQ/6rygKh2Kie8/s1600/junargali.jpg)
+  Jorawar Gali Pass
+  ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+A thought came to my mind for going ahead from there to Homkund. The
+door like structure with bell hanging by it looked very inviting. We
+didn't have that much time. We needed to move back as soon as we can if
+wanted to make it back to Wan village by night. After few minutes, Silva
+was in Roopkund. I asked Silva if really wanted to climb up to Junargali
+to which he said Yes. We waited for him there. Collecting litter there
+left by previous trekkers, we waited there on the stairs towards Shila
+Samudra.\
+\
+After about an hour or so stay at Junargali, we started our way back to
+Bhojbasa. It was already 12 when we left there. After some tea and
+noodles, we left Bhojbasa around noon. There was another group of three
+people who was also on had similar plans as us. There also wanted to go
+back to Wan on that day itself. I was planning to go via Ali Bugyal; but
+it seemed, that it was too late for that. When we reached Pattahrnachuni
+in an hour or so, Silva was walking good. We decied against taking Ali
+Bugyal route, we needed at least 2-3 more hours than our usual. It was
+now sunset time when we reached Gharoli Patal. After taking a lot of
+shortcuts on descents; my legs were tired. I was exhausted and had very
+less control on my legs. It was now dark when I reached Neelganga
+bridge. I was out of water and thirsty till that time. I waited with
+other group for Kiran and Silva. After few mins they arrived. Silva had
+got blisters in his foot. We started our last patch of trek to Wan
+village. When we reached the village from Neelganga bridge, it seemed
+that we lost our way which we took before. After asking for directions
+and wasting around 2 hours, we managed to reach roadside around 9:30
+p.m. where our cab driver was waiting for us.\
+\
+We took little more than two trek days for this trek from Wan village to
+Roopkund. In retrospect, I think that if we had one more day, one day
+stay at Ali Bugyal would have been perfect finishing of the trek while
+coming back.
+
+&lt;/div&gt;
+</description>
+        <pubDate>Tue, 17 Nov 2015 00:00:00 +0000</pubDate>
+        <link>https://ghumakkad.github.io/ghumakkad//2015/11/17/roopkund-trek/</link>
+        <guid isPermaLink="true">https://ghumakkad.github.io/ghumakkad//2015/11/17/roopkund-trek/</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Hmi Darjeeling Vs Nim Uttarkashi</title>
+        <description>&lt;p&gt;— layout: post title: HMI, Darjeeling vs. NIM, Uttarkashi date:
+‘2014-10-22T18:14:00.002+05:30’ author: Prashant C Chaturvedi tags: -
+Darjeeling - basic mountaineering course - BMC - NIM - HMI vs NIM - West
+bengal - HMI - advance mountaineering course - uttarkashi - uttarakhand&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;nim vs hmi - AMC modified_time: ‘2015-01-30T12:45:01.244+05:30’
+blogger_id:
+tag:blogger.com,1999:blog-7230910114786000845.post-1230277780553063312
+blogger_orig_url:
+http://mountaineeringguide.blogspot.com/2014/10/hmi-darjeeling-vs-nim-uttarkashi.html
+—&lt;/li&gt;
+&lt;/ul&gt;
+&lt;div dir=&quot;ltr&quot; style=&quot;text-align: left;&quot; trbidi=&quot;on&quot;&gt;
+
+This is one of those questions which comes to mind when going for a
+mountaineering course in India.\
+Having done my [BMC from
+HMI](http://mountaineeringguide.blogspot.in/2009/04/basic-mountaineering-course-himalayan.html) and [AMC
+from
+NIM](http://mountaineeringguide.blogspot.in/2014/10/advance-mountaineering-course-nehru.html),
+I got some idea about the training in these two institutes. Here is what
+I thought of HMI and NIM in terms of :\
+\
+-   **Organization**
+
+Both HMI and NIM are run by Ministry of Defence, GOI in collaboration
+with respective state governments. So, in terms and objective and
+philosophy and in training programs both are same. In my personal
+opinion, the past principals and the present principal (Col. Ajay
+Kothiyal) of NIM  seem more active and devoted to the institute. NIM
+played major role in rescue and rehabilitation work in the time 2013
+Uttarakhand disaster. This was also widely covered in media.\
+-   **Rock Climbing area**
+
+The biggest asset of NIM is that it has a vast rock climbing area in
+Tekhla. In this area, there are variety of rock features of varying
+degree of difficulty. Trainees have plenty of time to practice rock
+climbing techniques on these features. In HMI, there weren't much rock
+faces to climb. For rock climbing, it has Tenzing Rock and Gombu Rock in
+the outskirts of Darjeeling. They try to compensate this later in the
+course with the big boulders available around the base camp. So rest of
+the training in rock craft happens in Base camp area of HMI which is in
+Chaurikhang, Sikkim.\
+\
+HMI's artificial wall seem definitely bigger than those in NIM and
+everything else is more or less same. Maybe because HMI installed these
+walls after NIM.\
+-   **Glacier for training of ice climbing techniques**
+
+The Rathong glacier, training area of HMI has lot more ice walls to
+practice than the Dokrani glacier of NIM. Both the glaciers are receding
+very fast and trainees need to walk to the training area everyday which
+takes some time and energy. Dokrani glacier of NIM, has lot of moraine
+covering the ice walls and around the snout of the glacier where most of
+the training happens there isn't much blue ice. I saw plenty of smoking
+blue ice in Rathong glacier. It has big fields of blue ice around the
+training area. Although advance courses in NIM goes to a different
+training area upwards in the glacier for 2 days for their advance ice
+craft which has sufficient ice walls and relatively cleaner ice.
+Overall, in terms of ice walls available on which we get to train, HMI
+has lot better than NIM. Maybe in future, NIM may think of to change the
+base camp to get better area for ice craft. It would be more appropriate
+for NIM, to move the base camp to the place where they have their
+advance base camp.\
+\
+-   **Technical Equipments and Training**
+
+It was unanimously established among my course-mates of AMC who did
+their BMC from HMI that NIM provides more and advance technical
+equipments than HMI. In case of HMI advance techniques or use of advance
+equipments are mostly demonstrated by instructors but in NIM you'll get
+a chance to practice with/on them.\
+-   **Trek to Base Camp**
+
+It is a fact that, to reach the base camp; the trek in HMI is tougher
+than that in NIM. In both institutes, it takes 3 days to reach base
+camp. The trek in HMI goes on relatively higher altitude than NIM and
+are longer on everyday. Situated on higher altitude than NIM, the base
+camp of HMI offers more splendid view of surrounding peaks.\
+-   **Accomodation**
+
+The hostel of HMI and NIM are both well maintained and have all the
+required facilities. If you are pursuing basic course, you get to stay
+in barrack made of metal sheets and wood in HMI. It's all tent in NIM
+for both basic and advance courses outside the campus.\
+-   **Location of Institute**
+
+In my opinion, roaming in and around Darjeeling has better experience
+than Uttarkashi. So, location wise, HMI wins and it also has bigger area
+with a zoo in it's campus.\
+\
+\
+[]()\
+\
+&lt;span class=&quot;Apple-style-span&quot; style=&quot;background-color: #fefdfa; color: #333333; font-family: georgia; font-size: 13px; line-height: 18.2000007629395px;&quot;&gt;&lt;span class=&quot;Apple-style-span&quot; style=&quot;line-height: 18px;&quot;&gt;**HMI Contact
+Info:**&lt;/span&gt;&lt;/span&gt;\
+\
+&lt;span class=&quot;Apple-style-span&quot; style=&quot;background-color: #fefdfa; color: #333333; font-family: georgia; font-size: 13px; line-height: 18.2000007629395px;&quot;&gt;&lt;span class=&quot;Apple-style-span&quot; style=&quot;line-height: 18px;&quot;&gt;POSTAL ADDRESS\
+\
+PRINCIPAL\
+Himalayan Mountaineering Institute\
+Jawahar Parvat\
+Darjeeling-734 101 (WB), India\
+\
+TRAINING OFFICE: 0354 2254087/2254299\
+PRINCIPAL : 91 354 2254083\
+FAX No:91 354 2253760\
+Email: hmi\_darj@rediffmail.com/hmidarj@gmail.com\
+Website: [www.hmi-darjeeling.com](http://www.hmi-darjeeling.com/){.ot-anchor
+.aaTEdf}﻿&lt;/span&gt;&lt;/span&gt;\
+&lt;span class=&quot;Apple-style-span&quot; style=&quot;background-color: #fefdfa; color: #333333; font-family: georgia; font-size: 13px; line-height: 18.2000007629395px;&quot;&gt;&lt;span class=&quot;Apple-style-span&quot; style=&quot;line-height: 18px;&quot;&gt;\
+&lt;/span&gt;&lt;/span&gt;**NIM Contact Info**\
+**\
+**&lt;span style=&quot;background-color: #fefdfa; color: #333333; font-family: Arial, Tahoma, Helvetica, FreeSans, sans-serif; font-size: 13px; line-height: 18.2000007629395px;&quot;&gt;POSTAL
+ADDRESS&lt;/span&gt;\
+&lt;span style=&quot;background-color: #fefdfa; color: #333333; font-family: Arial, Tahoma, Helvetica, FreeSans, sans-serif; font-size: 13px; line-height: 18.2000007629395px;&quot;&gt;PRINCIPAL,&lt;/span&gt;\
+&lt;span style=&quot;background-color: #fefdfa; color: #333333; font-family: Arial, Tahoma, Helvetica, FreeSans, sans-serif; font-size: 13px; line-height: 18.2000007629395px;&quot;&gt;Nehru
+Institute Of Mountaineering&lt;/span&gt;\
+&lt;span style=&quot;background-color: #fefdfa; color: #333333; font-family: Arial, Tahoma, Helvetica, FreeSans, sans-serif; font-size: 13px; line-height: 18.2000007629395px;&quot;&gt;Uttarkashi
+- 249193,&lt;/span&gt;\
+&lt;span style=&quot;background-color: #fefdfa; color: #333333; font-family: Arial, Tahoma, Helvetica, FreeSans, sans-serif; font-size: 13px; line-height: 18.2000007629395px;&quot;&gt;Uttarakhand
+(India)&lt;/span&gt;\
+\
+&lt;span style=&quot;background-color: #fefdfa; color: #333333; font-family: Arial, Tahoma, Helvetica, FreeSans, sans-serif; font-size: 13px; line-height: 18.2000007629395px;&quot;&gt;Tel: +911374
+- 222123, 224663, 223580&lt;/span&gt;\
+&lt;span style=&quot;background-color: #fefdfa; color: #333333; font-family: Arial, Tahoma, Helvetica, FreeSans, sans-serif; font-size: 13px; line-height: 18.2000007629395px;&quot;&gt;Fax: +911374
+- 222344&lt;/span&gt;\
+&lt;span style=&quot;background-color: #fefdfa; color: #333333; font-family: Arial, Tahoma, Helvetica, FreeSans, sans-serif; font-size: 13px; line-height: 18.2000007629395px;&quot;&gt;Email:
+nimutk2004@gmail.com&lt;/span&gt;\
+&lt;span style=&quot;background-color: #fefdfa; color: #333333; font-family: Arial, Tahoma, Helvetica, FreeSans, sans-serif; font-size: 13px; line-height: 18.2000007629395px;&quot;&gt;Website: &lt;/span&gt;[&lt;span style=&quot;color: #333333; font-family: Arial, Tahoma, Helvetica, FreeSans, sans-serif; font-size: x-small;&quot;&gt;&lt;span style=&quot;line-height: 18.2000007629395px;&quot;&gt;http://www.nimindia.net/&lt;/span&gt;&lt;/span&gt;](http://www.nimindia.net/)\
+\
+\
+
+\
+&lt;div&gt;
+
+\
+
+&lt;/div&gt;
+
+&lt;div&gt;
+
+\
+
+&lt;/div&gt;
+
+&lt;/div&gt;
+</description>
+        <pubDate>Wed, 22 Oct 2014 00:00:00 +0000</pubDate>
+        <link>https://ghumakkad.github.io/ghumakkad//2014/10/22/hmi-darjeeling-vs-nim-uttarkashi/</link>
+        <guid isPermaLink="true">https://ghumakkad.github.io/ghumakkad//2014/10/22/hmi-darjeeling-vs-nim-uttarkashi/</guid>
+        
+        
+      </item>
+    
   </channel>
 </rss>
