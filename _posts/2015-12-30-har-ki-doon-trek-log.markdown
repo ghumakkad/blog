@@ -1,0 +1,154 @@
+--- layout: post title: Har ki Doon Trek Log date:
+'2015-12-30T01:56:00.000+05:30' author: Prashant C Chaturvedi tags: -
+trek - winter trek - NIM - taluka - swargarohini - ruinsaira - osla -
+har ki doon - puani garaat - sankri - tons - borasu - uttarkashi -
+uttarakhand - seema - kedarkantha - juandhar - kalkatiyadhar - rupin
+modified\_time: '2016-08-02T02:09:41.054+05:30' thumbnail:
+https://1.bp.blogspot.com/-EjwaoE4cRrY/Vov\_rdRhyCI/AAAAAAAAXqI/8vHj3LOfkyMPChfUwz2LMtJGumxufoxogCPcB/s72-c/IMG\_20151229\_151233.jpg
+blogger\_id:
+tag:blogger.com,1999:blog-7230910114786000845.post-8797560719759545199
+blogger\_orig\_url:
+http://mountaineeringguide.blogspot.com/2015/12/har-ki-doon-trek-log.html
+---
+<div dir="ltr" style="text-align: left;" trbidi="on">
+
+Less than a week was left of year 2015 and holidays were lined up. In
+search of a winter trek, I had Kauri pass and Har ki doon in my mind. A
+month ago Kiran and I had just been to to Hemkund Sahib and Valley of
+Flowers. Dalima was also willing to join us in our next trek. She needed
+an esacape from busy city life. Har ki doon is well known most one of
+most popular winter treks in Uttarkashi region. During same time YHAI
+had been taking many batches for Kedarkantha trek. Trek to Kedarkantha
+also stars from Sankri, Uttarakhand.\
+\
+We started on Saturday night, 26 Dec for Dehradun. We couldn't find any
+any conveyance for Sankri from there so we moved to Rishikesh. We took a
+bus around 5 AM for Sankri. It was long ride of around 11 hours. Sun was
+about to set when we reached Sankri. It is a small and quiet place and
+accommodations were already full of trekkers in this season. After some
+search we were able to find a place to stay. Nearby, there was a small
+shop where we had dinner and chit chat with other trekker who were
+staying nearby. After some last time purchase, we also arranged for a
+jeep to Taluka from where we were to start our trek.\
+<div class="separator" style="clear: both; text-align: center;">
+
+[![](https://1.bp.blogspot.com/-EjwaoE4cRrY/Vov_rdRhyCI/AAAAAAAAXqI/8vHj3LOfkyMPChfUwz2LMtJGumxufoxogCPcB/s320/IMG_20151229_151233.jpg){width="320"
+height="236"}](https://1.bp.blogspot.com/-EjwaoE4cRrY/Vov_rdRhyCI/AAAAAAAAXqI/8vHj3LOfkyMPChfUwz2LMtJGumxufoxogCPcB/s1600/IMG_20151229_151233.jpg)
+
+</div>
+
+\
+It was around 8 AM, when we reached Taluka. It was a cold morning. We
+started off after some light breakfast. Most of the trails goes along
+the river Rupin. The gentle sound of river all along the first day trek
+is very comforting and refreshing. The trail is also very beautiful.
+River is very approachable from most of the first day trail.\
+\
+\
+\
+\
+\
+[![](https://3.bp.blogspot.com/-FWqFFo9-ZJM/Vov_rZYp8KI/AAAAAAAAXqI/WwRc4hAsDLoyUqj1EtvJi5qg46Wu5FIWQCPcB/s320/IMG_20151227_130629.jpg){width="320"
+height="240"}](https://3.bp.blogspot.com/-FWqFFo9-ZJM/Vov_rZYp8KI/AAAAAAAAXqI/WwRc4hAsDLoyUqj1EtvJi5qg46Wu5FIWQCPcB/s1600/IMG_20151227_130629.jpg)It
+was around 4 PM when we reached Osla village. It was a steep climb after
+crossing the bridge. The village was very picturesque. From the river
+bed it seems as if people have made nests in the mountains. All houses
+of same color and made of wood which mixes with background.\
+\
+We haven't had anything to eat till now. Dalima's knee was giving her a
+tough time. Children of the village flocked around us asking different
+questions. I got some maggi and biscuits from a shop in the village. the
+local people seemed very helpful and nice. A man from village offered to
+prepare it for us while we talked to the children. There aren't many men
+in the village. Those with whom I talked, were very keen on having us as
+their guest. We had tents but we did need food. We decided to have
+dinner with the old man who prepared maggi for us and pitched our tent
+outside his home. There was another family insisting to stay in their
+home. It was cold out there and Dalima stayed with them. It was very
+peculiar to see how these houses are made of wood and housed a hearth
+made of mud in the room. Just above the hearth roof open to make room
+for smoke. There is a place to store wood and hay below the house.
+Dalima's knee problem had aggravated and she decided to take some rest
+next day. The house owner was happy to have her as guest. Children were
+very curious excited around her and constantly chatting.  We enquired
+about the logistics which we need to take and arrangements for food
+during the rest of the trek. We promised Dalima to be back as soon as we
+can.\
+\
+\
+On tuesday, We started off early in the morning and wrapping up our
+tents. Crossing Kalkatiyadhar campsite, we reached Har ki doon in
+afternoon.\
+<div class="separator" style="clear: both; text-align: center;">
+
+[![](https://4.bp.blogspot.com/-9N017d5Ua-k/Vov_rbkZEmI/AAAAAAAAXqI/AMJhgOMFE6odXmbfeUf8KVL_F-bmHp_mwCPcB/s640/PANO_20151228_122828.jpg){width="640"
+height="209"}](https://4.bp.blogspot.com/-9N017d5Ua-k/Vov_rbkZEmI/AAAAAAAAXqI/AMJhgOMFE6odXmbfeUf8KVL_F-bmHp_mwCPcB/s1600/PANO_20151228_122828.jpg)
+
+</div>
+
+\
+It was a sunny day and there weren't much trees on the trail. The trail
+just before the Har ki doon was enchanting and covered with snow with
+beautiful little streams joining Tons river and trees around. Har ki
+doon valley is a big amphitheatre which lies in the valley of majestic
+Swargarohini peak. It is an inexplicable experience to see such a close
+view of Swargarohini peak. This trail is believed to be taken by
+Pandavas who attempted to go to heaven with their bodies. Kiran had some
+phaphda which we had with pickles. We took water and essential stuff in
+our daypack and went exploring towards Juandhar glacier in the valley. I
+couldn't take my eyes off from the Swargarohini peak and was immersed in
+the thoughts of how Pandavas who attempted to climb the peak in
+Mahabharata era. The first ascent of Swargarohini was done by team of
+NIM(Nehru Institute Of Mountaineering) instructors in 1990, Uttarkashi
+from where I once did my AMC.\
+<div class="separator" style="clear: both; text-align: center;">
+
+[![](https://4.bp.blogspot.com/-7xeWUY11uPU/Vov_rWNP0YI/AAAAAAAAXqI/u47DRjj-GWgS-OXWHAIEmhv3lUeWlKcFACPcB/s640/IMG_20151228_150142-PANO.jpg){width="640"
+height="362"}](https://4.bp.blogspot.com/-7xeWUY11uPU/Vov_rWNP0YI/AAAAAAAAXqI/u47DRjj-GWgS-OXWHAIEmhv3lUeWlKcFACPcB/s1600/IMG_20151228_150142-PANO.jpg)
+
+</div>
+
+\
+We walked inside the valley until sun started to set.\
+<div class="separator" style="clear: both; text-align: center;">
+
+[![](https://3.bp.blogspot.com/-axajRVN2t7s/Vov_rQhjsoI/AAAAAAAAXqI/oY3o_Pai440uFOf4mN58L0bRCq6YiMa-ACPcB/s640/PANO_20151228_171805.jpg){width="640"
+height="212"}](https://3.bp.blogspot.com/-axajRVN2t7s/Vov_rQhjsoI/AAAAAAAAXqI/oY3o_Pai440uFOf4mN58L0bRCq6YiMa-ACPcB/s1600/PANO_20151228_171805.jpg)
+
+</div>
+
+\
+\
+We had to come back to pitch our tent to make arrangements of dinner and
+pitch our tents. We pitched our tents beside the forest rest house there
+and requested for dinner to the caretaker of the rest house. We watched
+the setting sun sitting on the big boulder near campsite. It was very
+cold and windy in the night. We spent most of the time in the kitchen
+before going to sleep. We talked about what lies further on the trail
+and treks in the area. I promised myself to cross the Borasu pass next
+time which lies further on the trail and take a diversion to Ruinsaira
+tal which is around 14 km from Osla village.\
+<div class="separator" style="clear: both; text-align: center;">
+
+[![](https://3.bp.blogspot.com/-D7Oui6CMogE/Vov_reyqxxI/AAAAAAAAXqI/ii1RkjFkN_INPtWTuVzcOsaHqfRSuAGqQCPcB/s400/IMG_20151228_171945.jpg){width="400"
+height="295"}](https://3.bp.blogspot.com/-D7Oui6CMogE/Vov_reyqxxI/AAAAAAAAXqI/ii1RkjFkN_INPtWTuVzcOsaHqfRSuAGqQCPcB/s1600/IMG_20151228_171945.jpg)
+
+</div>
+
+\
+\
+It was already 7 when we woke up next morning. We wrapped our tents and
+left at once after having tea. We started our retreat around 8. It was
+an easy descent and we walked on scout's pace. Dalima was eagerly
+waiting for us in the village where we had lunch around 11. After paying
+all the dues, we left for Taluka around 12. It was not long when we
+reached Taluka.\
+\
+We still had two spare days left and we could've attempted for
+Kedarkantha trek as well. New year parties with friends in Delhi are
+also cool; we thought and left for Delhi next morning.\
+\
+[Here is the link to our shared
+album.](https://goo.gl/photos/xyArwdXxLzjtvKWDA) 
+
+</div>
