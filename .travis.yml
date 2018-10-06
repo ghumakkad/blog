@@ -2,7 +2,8 @@ language: ruby
 rvm:
 - 2.3.7
 sudo: false
-script: bundle exec rake deploy
+script:
+  - bash ./scripts/deploy-to-gh-pages.sh
 exclude:
 - vendor
 deploy:
@@ -12,3 +13,6 @@ deploy:
   keep-history: true
   on:
     branch: master
+env:
+  global:
+    - GITHUB_REPO: "ghumakkad/web"
