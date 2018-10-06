@@ -5,6 +5,10 @@ sudo: false
 script: bundle exec rake deploy
 exclude:
 - vendor
-env:
-  global:
-  - secure: Zr3ztyavwmhp8AcKDcIWaesRFsYJSecM9EBtFcLADgB/1Pxfhj5iXI8EGg1qxkRCRS4QZ++gxGoC0WLe7lNoiiW5mIBRoUsgPr0mpduZzPpG41pG5ql/+RVVGp0FtYxFqrcJ5E1LrL3PSokE80tdWlQklie8EdIfXkxYzN5Xl2dPGcVVNwCa16rqSKkpGXvHUOj0FuWVd8cZJpWIN3zq891/QKxX9mknYniIYpZ7BL9gi8o8Ruq1t9VXhW2o3222PtH3w92pSmE1KGJai7brSPYcQrtlsoJ5HgVp2vCGanaDKU9942nvK5FE1vanj7gY2IC18c8RnTOGyV6OWF1dG5AMMKMfTBf2pzdib+8kjakoIV4vcZ2781v420T5aVn7TXJ/pcpyYKlxC4nGK2gZNbVR8WvZ6lsRthE4Bz3LAMa8jj/+s/AKIpQC3GnFatLwiqXGSsaPMhRAvAZfwa0nBgwPXT+cpUWEFFiR0kBo/+LNDLut2NRYZ6tj20x/hLW3anqQZsvrP9lvl90h5wQ1Xs02FNVlF45p9j11p3qJmsTo6Og8CddnxSn6rPtILzzXOt6NZLOv/qIIkVzDfYy3r8GYnYL6Nr7oIY8s8+C/d1gv0oBoSLoFiHQ2QoA8TW6rNcMuNOhicscS5MlNBW2gpLdMqW0FpofC0OSaiRMUgYQ=
+deploy:
+  provider: pages
+  skip-cleanup: true
+  github-token: $GITHUB_TOKEN  # Set in the settings page of your repository, as a secure variable
+  keep-history: true
+  on:
+    branch: master
