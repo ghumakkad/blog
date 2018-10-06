@@ -16,6 +16,3 @@ deploy:
   local-dir: dist
   on:
     branch: master
-env:
-  global:
-    - GITHUB_REPO: "ghumakkad/web"
