@@ -1,1 +1,1 @@
-Sitemap: https://ghumakkad.github.io/ghumakkad//sitemap.xml
+Sitemap: https://ghumakkad.github.io//web/sitemap.xml
