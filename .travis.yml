@@ -3,6 +3,7 @@ rvm:
 - 2.3.7
 sudo: false
 script:
+  - echo "Running scripts"
   - bash ./scripts/deploy-to-gh-pages.sh
 exclude:
 - vendor
@@ -11,6 +12,8 @@ deploy:
   skip-cleanup: true
   github-token: $GITHUB_TOKEN  # Set in the settings page of your repository, as a secure variable
   keep-history: true
+  target-branch: gh-pages
+  local-dir: dist
   on:
     branch: master
 env:
