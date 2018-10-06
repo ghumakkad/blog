@@ -10,11 +10,11 @@ git config --global user.email "pccfrmvns@gmail.com"
 git config --global user.name "Prashant C Chaturvedi"
 
 # build (CHANGE THIS)
-bundle exec rake deploy --trace
+bundle exec rake --trace
 
 # deploy
 cd public
 git init
 git add .
 git commit -m "Deploy Ghumakkad Webapp to Github Pages"
-git push --force --quiet "https://${GITHUB_TOKEN}@$github.com/${GITHUB_REPO}.git" master:gh-pages > /dev/null 2>&1
+git push --force --quiet --trace "https://${GITHUB_TOKEN}@$github.com/${GITHUB_REPO}.git" master:gh-pages > /dev/null 2>&1
