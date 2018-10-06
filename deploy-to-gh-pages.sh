@@ -10,7 +10,7 @@ git config --global user.email "pccfrmvns@gmail.com"
 git config --global user.name "Prashant C Chaturvedi"
 
 # build (CHANGE THIS)
-make
+bundle exec rake deploy
 
 # deploy
 cd public
