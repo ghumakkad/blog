@@ -9,4 +9,4 @@ git config --global user.email "pccfrmvns@gmail.com"
 git config --global user.name "Prashant C Chaturvedi"
 
 # build
-bundle exec rake deploy --trace
+bundle exec rake deploy
