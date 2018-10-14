@@ -1,0 +1,12 @@
+language: ruby
+rvm:
+- 2.3.7
+sudo: false
+script:
+- echo "Running scripts"
+- bash ./scripts/deploy-to-gh-pages.sh
+exclude:
+- vendor
+env:
+  global:
+    secure: oI2iGiOxQ1WrrbFmAor6tpvJ7txGIW8zDiH4zVNOXku0WLzhtuO0X0+cnRfQ8el+TGrKAR8C1+xs10/J1vUALl/RkZmZvoM4OIg+PCC5YSYpf8e9BSJuHzYtvx3PqsMeIR2Fen3fvPVvRjMJ/OsUs/kWZoNAnLBqAfIlrIJf/gCdCFdp1Z99+7bSn0yLkWQWAL6CNQSzOx1IXFpsDD7zO/BDW/JFPh8sLBYk3H0M7ME8PZSTPue8GP7trfBUZPmL/5K8O7WnTbs3Spx35cPMSMIfvdaPZojDZv/tvqcHG5ytj5ShevjIj+ZYHpGGr5438a3x51JVjsFfLGMSXuQiMpvgmKe/GLz+J3e6PGTpVjSc9v7j/IkIvH5Bru8FQ7yx41KJP4A7cs/5znpCC6kuIhQliDAl0CxF9UZCLX2pqZiiwIkPOBj7msoiiotBuCt9IOb5EGicxyVQF9mFL/DBUzyoyTP/NSpmeslDUGwxBQgeMiBQ3bAkr7XVngwjeM2+qFohi5hlpPzjyq1+5d2EMGYTbTvkQYHcjwTH+IK3gJ3Mv2DOoJVFpYuNOY6YgJSn7hEy4U9fgFQ1YHRrN67942AupDzqh8txsvhW6RRMApwKhicc616yLYG2qi0QWUDFBSs53z8hpF2IFbKfOd1hbRKqfT1JwDZWu82oE5OymC0=

@@ -1,0 +1,144 @@
+--- 
+layout: post 
+title: Roopkund Trek 
+date: 2015-11-17 
+author: Prashant C Chaturvedi 
+categories:
+  - trek
+  - self
+tags: 
+- nanda ghunti 
+- bedini 
+- roopkund 
+- junargali 
+- trishul 
+- chamoli 
+- pataharnachuni 
+- gharoli patal 
+- lohajung 
+- wan
+description: Roopkund Trek
+image: https://c2.staticflickr.com/2/1977/30355259117_0b22424982_o.jpg
+image-sm: https://c2.staticflickr.com/2/1969/30355257707_427b50f134_o.jpg
+---
+
+One of my friend asked me if I had any plans for Dussehara vacations.
+For one day leave, we were getting 4 days in our hand. He was planning
+for Roopkund trek as much as it can be done in two days which we would
+left with after taking out the travel time from Delhi. A day before, he
+got little sick and there were three of us for the trek. Kiran was from
+Bombay and Silva was from Brazil. We hadn't met before. Kiran was full
+of enthusiasm and wanted to complete this trek at any cost. I was
+supportive of this opinion and we chalked out our trek plan to make it
+possible. Silva had done a trek to Tungnath with Kiran and my friend
+Akshay few week back.
+
+We left on Wednesday evening; the cab picked me up around 10:30 in
+night. After a whole night and day drive, next day we reached village
+Wan around 5 p.m. To make most of our lost time, we needed to cover some
+of trek that day. In few minutes, after arranging for our driver's
+accomodation; we left for the trek. We did get few advices for not
+leaving for trek at such time, but we went on.
+
+
+Out morales were pretty boost up. Calling ourselves bad mofos; we went
+past the wan village down to the bridge on river Neelganga. By then it
+was completely dark. Holding our torches, we started to climb. Our aim
+was to reach Bedini around 11 in night. Even though, we were advised
+against it in the village, we thought that it is better to utilize this
+time in trek than to stay. It was around 10 p.m.; when we reached first
+camping site Gharoli Patal. Bedini was still 3 km. We had still enough
+juice left to reach Bedini that night. But after staying few mins for
+tea there; we decided to camp there only. It was very cold and windy.
+
+<figure>
+  <img src="https://c2.staticflickr.com/2/1972/44571862604_02c22b0ffb_o.jpg" alt="A view from Bedini Bugyal"/>
+  <figcaption>A view from Bedini Bugyal</figcaption>
+</figure>
+
+Next morning around 6, we left for Bhojbasa after having maggi for
+breakfast. We were happy that stopping at Gharoli Patal, previous night
+didn't cost us much time when we reached Bedini. After half an hour of
+admiring the beauty of vast meadows, and few clicks; we left for our
+next stop.
+
+<figure>
+  <img src="https://c2.staticflickr.com/2/1956/30355258427_8553d501d3_o.jpg" alt="On the way to Patharnachuni"/>
+  <figcaption>On the way to Patharnachuni</figcaption>
+</figure>
+
+<figure>
+  <img src="https://c2.staticflickr.com/2/1936/44571860264_683a71889a_o.jpg" alt="On the way to Patharnachuni"/>
+</figure>
+
+It was around 2 PM when we reached Patharnachuni where we had our lunch.
+Soon after, we left for our final stop, Bhojbasa. One the steep ascent
+to Kalu Vinayak, Silva was walking a bit slow. After few wait and move
+ahead; Kiran and me discussed if he could walk with Silva and I'll come
+back to carry the bag from Bhojbasa. I tried walking fast and reached
+Bojbasa early where I left the bag and rushed back towards Kalu Vinayak.
+Kiran and Silva were resting at Kalu Vinayak, which they had already
+climbed. Silva was feeling better now and didn't let me carry his bag.
+We came back from Kalu Vinayak together.
+
+We all managed to reach Bhojbasa well before evening. Silva was having
+some headaches, I suggested him to have more tea and drink as much water
+as he can. We did a little walk around the campsite for acclimatization
+and had tea. We pitched our tents inside the forest hut. Although a lot
+colder, it was less windy than Bedini here.
+
+<figure>
+  <img src="https://c2.staticflickr.com/2/1920/44571862004_9149484e92_o.jpg" alt="Beyond Junargali"/>
+  <figcaption>Beyond Junargali</figcaption>
+</figure>
+
+Next morning after having tea, we left for Roopkund around 6. We packed
+our tents and left our bag there in the hut. It was very cold and windy
+on the way. Some ice started to appear inside water bottle. After one
+and a half hour walk, we reached Roopkund. Silva was little behind. It
+was his first experince of such altitude and cold. There was some
+firewood left from previous fire; which I lit and warmed ourselves while
+waiting for Silva. Some dry sticks dry grass was around which I
+collected. When Silva was about to reach Roopkund; we left for
+Junargali. After few minutes of climb, we reached Junargali. Silva still
+was behind Roopkund. He would stop after few steps to catch a breath. It
+was windy was clear in Junargali with magnificent view of Mt.
+Trisul(7120m) and Nandaghunti(6309m).
+
+<figure>
+  <img src="https://c2.staticflickr.com/2/1975/45244744532_f78f0de022_o.jpg" alt="Jorawar Gali Pass"/>
+  <figcaption>Jorawar Gali Pass</figcaption>
+</figure>
+
+A thought came to my mind for going ahead from there to Homkund. The
+door like structure with bell hanging by it looked very inviting. We
+didn't have that much time. We needed to move back as soon as we can if
+wanted to make it back to Wan village by night. After few minutes, Silva
+was in Roopkund. I asked Silva if really wanted to climb up to Junargali
+to which he said Yes. We waited for him there. Collecting litter there
+left by previous trekkers, we waited there on the stairs towards Shila
+Samudra.
+
+After about an hour or so stay at Junargali, we started our way back to
+Bhojbasa. It was already 12 when we left there. After some tea and
+noodles, we left Bhojbasa around noon. There was another group of three
+people who was also on had similar plans as us. There also wanted to go
+back to Wan on that day itself. I was planning to go via Ali Bugyal; but
+it seemed, that it was too late for that. When we reached Pattahrnachuni
+in an hour or so, Silva was walking good. We decied against taking Ali
+Bugyal route, we needed at least 2-3 more hours than our usual. It was
+now sunset time when we reached Gharoli Patal. After taking a lot of
+shortcuts on descents; my legs were tired. I was exhausted and had very
+less control on my legs. It was now dark when I reached Neelganga
+bridge. I was out of water and thirsty till that time. I waited with
+other group for Kiran and Silva. After few mins they arrived. Silva had
+got blisters in his foot. We started our last patch of trek to Wan
+village. When we reached the village from Neelganga bridge, it seemed
+that we lost our way which we took before. After asking for directions
+and wasting around 2 hours, we managed to reach roadside around 9:30
+p.m. where our cab driver was waiting for us.
+
+We took little more than two trek days for this trek from Wan village to
+Roopkund. In retrospect, I think that if we had one more day, one day
+stay at Ali Bugyal would have been perfect finishing of the trek while
+coming back.
