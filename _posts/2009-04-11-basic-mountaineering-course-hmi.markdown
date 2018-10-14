@@ -16,10 +16,9 @@ image: https://c2.staticflickr.com/2/1963/43478114460_91c1e50103_o.jpg
 image-sm: https://c2.staticflickr.com/2/1915/45243442372_e627418ee2_o.jpg
 ---
 
-[Himalayan Moutaineering Institute](http://www.hmi-darjeeling.com/) is one of the premier institutes in the field of mountaineering in India. 
-This is also the first mountaineering institute established in India. 
-It was setup in 1954 by the first prime minister Pandit Jawahar Lal Neharu on proposal of Tenjing Norgay ( One of the First Everest Summiteer with Sir Edmund Hillary on 29th May 1953.) 
-After the successful summit of the peak he wished to establish an institute to train the budding mountaineers which was accepted by the prime minister.The institute is located on Jawahar Parbat, Darjeeling, West Bengal. Apart from this there are also other institutes which are famous which includes [Nehru Institute of mountaineering](http://www.nimindia.net/), Uttar Kashi, Uttarakhand and [Atal Bihari Vajpayee institute Of Mountaineering and Allied Sports](http://www.adventurehimalaya.org/index.asp) , Manali, Himachal Pradesh.
+[Himalayan Moutaineering Institute](http://www.hmi-darjeeling.com/) is one of the premier and first established institutes in the field of mountaineering in India. 
+It was setup in 1954 by our first prime minister Pandit Jawahar Lal Neharu on proposal of Tenjing Norgay ( One of the First Everest Summiteer with Sir Edmund Hillary on 29th May 1953.) 
+After the successful summit of the peak, he wished to establish an institute to train the budding mountaineers which was accepted by the prime minister.The institute is located on Jawahar Parbat, Darjeeling, West Bengal. Apart from this there are also other institutes which are famous which includes [Nehru Institute of mountaineering](http://www.nimindia.net/), Uttar Kashi, Uttarakhand and [Atal Bihari Vajpayee institute Of Mountaineering and Allied Sports](http://www.adventurehimalaya.org/index.asp) , Manali, Himachal Pradesh.
 
 <figure>
   <img src="https://c2.staticflickr.com/2/1915/45243442372_e627418ee2_o.jpg" alt="Motto, HMI, Darjeeling"/>
@@ -27,10 +26,12 @@ After the successful summit of the peak he wished to establish an institute to t
 </figure>
 
 H.M.I. offers Basic, Advance and Methods Of Instruction Course in the field of Mountaineering. 
-These courses are held in the month of October, November, December, March, April and May. Being heavily subsidized, the fee charged is very nominal INR 4000 for Indian citizens and SAARC countries. 
-It is USD 700 for foreign nationals. The fees includes the accommodation, fooding.
+These courses are held in the month of October, November, December, March, April and May. 
+Duration for this basic course is 4 weeks. 
+Being heavily subsidized, the fee charged is very nominal INR 4000 for Indian citizens and SAARC countries. 
+It is USD 700 for foreign nationals. 
+The fees includes the accommodation and fooding.
 Institute also provides you the equipments and the warm clothes for all courses. 
-Duration for this basic course is 4 weeks.
 
 ### Basic Mountaineering Course
 
@@ -49,22 +50,22 @@ I did my BMC in March '09. The course was divided into four phases :
 
 I arrived at HMI, Darjeeling (avg. altitude 7000 ft.) on 3rd of March '09, and was allotted a room which was constructed in the Swiss style and can accommodate 8 students. 
 In the evening we were made aware of the rules and regulations of the institute. 
-Our training was to be started from the next day with morning PT. We had to do the jogging in ascents and descents of Darjeeling for about 5 km and this will be our daily routine for the Phase I. 
-After Yoga and PT, students will have their breakfast and then we had classes of Rock Climbing (both practical and theory at the rock faces: Tenzing Rock, Gombu Rock, New Face) and sometimes on the artificial walls (Indoor and outdoor).
+Our training was to be started from the next day with morning PT. We had to do the jogging in ascents and descents of Darjeeling for about 5 km and this will be our daily routine from now onwards for the Phase I. 
+After Yoga and PT, students were served breakfast and then we had classes of Rock Climbing (both practical and theory at the rock faces: Tenzing Rock, Gombu Rock, New Face) and sometimes on the artificial walls (Indoor and outdoor).
 
 <figure>
   <img src="https://c2.staticflickr.com/2/1949/45243441232_ef1b0e1b66_o.jpg" alt="Tenzing Rock"/>
   <figcaption>Tenzing Rock</figcaption>
 </figure>
 
-Theory classes also includes lectures on Knots, Ropes, Introduction and use of mountaineering equipments, Glaciers, Himalayas, Mountain Hazards.
+Theory classes includes lectures on Knots, Ropes, Introduction and use of mountaineering equipments, Glaciers, Himalayas, Mountain Hazards.
 Equipments like harness set, [carabiners](http://en.wikipedia.org/wiki/Carabiner), rope, warm clothes, rucksack, crampons, snow shoes, [mittens](http://www.thefreedictionary.com/mitten), water bottle, Tiffin box etc. were allotted within few days. 
 Students were randomly divided into different ropes(groups) of 6. Seniors(in my case military personnel) among us were made the rope leaders. 
-My rope instructor was Kushang Sanghe Sherpa. Students were made to practice to trek for 2 -3 days with the load before going to Phase II. 
-On the last day of Phase I, we were allowed to go outside the campus to buy some necessary things etc. like sunglasses, raincoats, etc.
+My rope instructor was Kushang Sanghe Sherpa. We were made to practice trek for 2 -3 days with the load before going to Phase II. 
+On the last day of Phase I, supposedly a shopping day, we were allowed to go outside the campus to buy things like sunglasses, raincoats, etc.
 
 *In my batch there were 66 people in which at least 25 of them were from military (Army, Navy and Air force) and most of remaining were from our
-North eastern part of India or Nepal. I was the only one from North.
+North eastern part of India or Nepal.
 Many of the north eastern people pursue the course so as to get a job in this field.*
 
 
@@ -163,12 +164,9 @@ These were few new equipments which are used in snow and ice craft.
 Live demos of usage of these equipments were given by our instructors in some of the theory classes.  
 This was our routine for the next 15 days.
 
-The water there was ice
-cold and was stored in tanks for washing purposes which freeze in the
-nights. You have to break the thick layer of ice to get the water from
-tank. We were provided with 3 ltrs. of hot drinking water every day
-apart from several other hot drinks to prevent the
-dehydration.
+It was so cold there that the water freezes to ice in the nights. 
+You have to break the thick layer of ice to get the water from tank. 
+We were provided with 3 ltrs. of hot drinking water every day apart from several other hot drinks to prevent the dehydration.
 
 <figure>
   <img src="https://c2.staticflickr.com/2/1976/43478115140_fba721b892_o.jpg" alt="Training on boulders"/>
@@ -198,7 +196,7 @@ On this day we also had our special meal (which is also called badakhana, a mili
 Some slow walkers were told to start back a day before since they may take 3 days to cover the return trek. 
 We were told that they will join us in Yuksom. 
 Trekking back also was not easy as the route was very slippery and we were falling all the way. 
-But we were very happy like we were being freed from jail. 
+As the training was approaching the end, we were very happy like we being freed from jail. 
 The snow ended after Phedang (a place between Dzongari and Bakhim ) 
 The people were filled with energy and they were moving very fast. 
 After being at the altitude of base camp for so many days the return trek felt so easy that some of us were literally running. 
