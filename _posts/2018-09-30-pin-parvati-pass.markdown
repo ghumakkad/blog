@@ -2,7 +2,7 @@
 layout: post
 title: Pin Parvati Pass Trek
 author: Prashant C Chaturvedi
-date: 2018-10-15
+date: 2018-09-30
 categories:
   - organised
   - trek
@@ -60,7 +60,7 @@ Near Tunda Bhuj, on the other side of river many waterfalls emanating from steep
 On those steep faces, shepherds in search of green pastures for their flock were seen passing across the waterfalls which we worndered if anyone would dare to traverse.
 
 <figure>
-  <img src="https://c2.staticflickr.com/2/1909/45274002172_3946f23886_o.jpg" alt="Waterfalls joining Parbati River"/>
+  <img src="https://c2.staticflickr.com/2/1957/45324200671_005b23d62a_o.jpg" alt="Waterfalls joining Parbati River"/>
   <figcaption>Waterfalls joining Parbati River from steep slopes of mountains on our left side.</figcaption>
 </figure>
 
@@ -94,7 +94,7 @@ A rope was fixed on the bridge to prevent any slips.
 
 We were also accompanied by a dog who had been following us from Kheerganga, even after several attempts by Hari and Chetramji, our local guides to leave it behind. During our short stops during the trek, many of us esp. Peter and Pratibha could be seen petting her. It return, she joined us for the nice pictures. It was even given a name "Jackie" and upon realizing the gender, some identified her by "Jacqueline" so that the name "Jackie" can still be relevant as hypocorism. Amusing, how we urban people in India, name our dogs. Names like Sheru and Moti become less and less relevant. Anyway, Jackie a faithful mountain dog whom we thought that she may not be able to cross the Pandu Pul, and this is where we say our goodbye to her, travsersed the slippery boudler like a cakewalk to join us. Everyone was cheerful. 
 
-<a data-flickr-embed="true"  href="https://www.flickr.com/photos/pccofvns/45274005952/in/dateposted-public/" title="Jackie crossing Pandu Pul I"><img src="https://farm2.staticflickr.com/1945/45274005952_b1f22015e5_b.jpg" width="576" height="1024" alt="Jackie crossing Pandu Pul I"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/pccofvns/45274005952/in/dateposted-public/" title="Jackie crossing Pandu Pul I"><img src="https://farm2.staticflickr.com/1945/45274005952_b1f22015e5_s.jpg" width="75" height="75" alt="Jackie crossing Pandu Pul I"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 After crossing the bridge, the valley opens up and is very wide with a more or less flat ground throughout. Glacial streams from both sides of valley join the Parbati river. Odi Thatch(thatch = meadow), a wide flat ground by the side of Parbati River, could've been our campsite if water source was available in vicinity. 
 
