@@ -12,7 +12,7 @@ tags:
   - kaza
   - mudh
 description: Pin Parvati Pass Trek Log
-image: 
+image: https://c2.staticflickr.com/2/1961/45274002712_1df192d218_o.jpg
 image-sm: https://c2.staticflickr.com/2/1947/44600161474_721e51a158_o.jpg
 ---
 
@@ -115,8 +115,8 @@ We continued further for an hour for our next camping site which was small flat 
 On today's trail, valley exapnds further and the Parbati River now on our right side is calmer than before. In fact, we reach a point where the river flows on almost flat bed of the wide valley creating sand banks alongside. It is like any big river in plains with pebbles and sand around. In the sunny weather, we felt as if it was some kind of wonderland. Elated by the sight of valley, we spent some quite moment by the side of river. 
 
 <figure>
-  <img src="https://c2.staticflickr.com/2/1935/45274006722_5ddaa3ef9c_o.jpg" alt=""/>
-  <figcaption></figcaption>
+  <img src="https://c2.staticflickr.com/2/1935/45274006722_5ddaa3ef9c_o.jpg" alt="group photo"/>
+  <figcaption>Onkar, Anshul, me, Ashish, Vijay, Pater, Sanjay Gupta, Chetram, Hari, Kannan Kasturi, Satyajit, Pratibha.</figcaption>
 </figure>
 
 It was a perfect spot for group photo and in fact everyone was posing around. 
