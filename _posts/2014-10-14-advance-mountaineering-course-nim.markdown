@@ -32,7 +32,7 @@ NIM is considered to be one of the best mountaineering institutes in
 Asia which is run by Ministry Of Defense, India and has similar
 organizational structure as HMI, Darjeeling or JIM, Pahalgam.
 
-I arrived Uttarkashi on 12th September 2014, a day before the date of
+I arrived at Uttarkashi on 12th September 2014, a day before the date of
 course commencement. An institute bus was waiting at Uttarkashi bus
 stand in the afternoon. After some name check at temporary reception
 made at Bhandari Hotel, Uttarkashi , a bus full of students left for the
@@ -54,12 +54,12 @@ On the first day of course, there was an early morning P.T. session. All
 39 of us were divided in different groups aka ropes; each 5 or 6 person
 strong. Our rope instructor was Subhash Thakur from Himachal Pradesh.
 After lunch time everybody was issued with personal, technical and
-common equipments. Two climbing ropes were also issued per rope which we
-the rope members will take turns to carry for the remainder of the
+common equipments. Two climbing ropes were also issued per rope (group) which we,
+the rope members, will take turns to carry for the remainder of the
 course. Later that day, there was only theory classes on expedition
 planning and first aid in auditorium. We're told that we need make a
 file for expedition planning and submit it at the end of the course. One
-of the aim of the course is to make leaders in mountaineering so
+of the aim of the course is to make leaders in mountaineering, so
 planning an expedition is something everybody should be aware of. Each
 ropes were given a peak for which they were to plan an expedition and
 prepare a report. Some of the information e.g. rate list of equipments
@@ -87,14 +87,13 @@ I was told that few AMC batches used to camp in Tekhla for five days.
 Beware of leeches here. NIM has vast and beautiful area for rock
 climbing and it is far better than the rock climbing area of HMI in my
 opinion. We used to have our rock climbing lectures, demonstrations and
-practices here whole day. These tekhla days allowed us to learn and
+practices here whole day. These Tekhla days allowed us to learn and
 practice many techniques of rock craft.
 These five days, we used to to start our trek early morning to Tekhla.
-When we reach there we do some stretching exercises and then there was
+When we reach there, we do some stretching exercises and then have our
 breakfast. After breakfast we start our rock climbing lessons with our
-instructors at 9:30 AM. We get lunch at 1 PM in Tekhla itself and
-continued our training till 5 PM. We used to get back to our institute
-by bus in evening.
+instructors. We get lunch in Tekhla itself and continued our training till 5 PM. 
+We used to get back to our institute by bus in evening.
 
 ##### Day 7
 On day 7 after morning P.T. we did some climbing on different indoor and
@@ -116,7 +115,7 @@ that we get it changed if they doesn't fit.
 
 
 ##### Day 9
-This day, we left the NIM campus for first camp in Tela. This day we
+This day, we left the NIM campus for our camp in Tela. This day we
 started our journey by bus from NIM campus early morning after offering
 prayers in the temple of NIM campus to Bukki which is on the way to
 Gangotri. During this bus journey, we could witness the aftermath of
@@ -172,8 +171,8 @@ Wadia Institute, Dehradun for weather monitoring.
 
 This day we had this very long trek from Tel camp to Gujjar Hut
 (altitude 11200 ft.). It counts as toughest day so far. We started
-around 7:30 AM after cleaning Tel campsite and reached Gujjar Hut at
-2:30 PM. From Gujjar hut, we started getting nice view of nearby peaks
+early after cleaning Tel campsite and reached Gujjar Hut in the 
+afternoon. From Gujjar hut, we started getting nice view of nearby peaks
 like Jaonli (6630 meters). The place Gujjar hut was given this name
 because of few huts of Gujjars nearby who stay here in summers. We went
 for our acclimatization walk to nearby lake Khera Tal (Serpent Lake)
@@ -226,7 +225,7 @@ In my opinion, NIM's ice craft area is much less in comparison of HMI.
 It may be the time, when NIM may have to shift the base camp further up
 to Advance Base Camp.
 
-These two days. it was mostly revision of  ice craft taught in basic
+These two days. it was mostly revision of ice craft taught in basic
 course. In the second half on the second day, we were involved in
 checking of tents, which we'll be carrying to advance base camp (ABC) be
 used in high altitude.
@@ -238,9 +237,9 @@ used in high altitude.
   <figcaption>Advance Base Camp without snow</figcaption>
 </figure>
 
-Today, we ferried load from base camp to advance base camp (13500 ft.).
+Today, we ferried load from base camp to advance base camp / ABC (13500 ft.).
 With fairly heavy load the trek was tiring and I was huffing and puffing
-on the way. It like the last flat piece of of very picturesque land in
+on the way. It was like the last flat piece of very picturesque land in
 cirque ahead. The surroundings form an amphitheater of mountains which
 from north-east-south constitutes of Machha ki Dhar, Jaonli, Draupadi ka
 Daanda, Choro ki Dhar and Rakhua Top. We dumped all the load like food
@@ -260,7 +259,7 @@ and further.
 </figure>
 
 We reached ABC at 10:30 AM after leaving and wrapping up tents at base
-camp past 8 AM. After some stretching exercises, we started pitching our
+camp. After some stretching exercises, we started pitching our
 tents. We erected volleyball net and a stone shelter where kitchen staff
 could heat water for us. Everybody was entitled for one hot bottle of
 water every morning and evening for drinking purposes at base camp and
@@ -393,7 +392,7 @@ one side.
   <figcaption>Summit walk</figcaption>
 </figure>
 
-We woke up in hurry after 2 AM and prepared ourselves for summit attempt.
+We woke up in very very early in the morning, like 2 AM and prepared ourselves for summit attempt.
 Chilling wind was blowing as we equipped ourselves with the harness set
 and other technical gear. I kept the breakfast in the bag and left for
 the summit attempt. It was dark and everybody was wearing head torches. 
@@ -439,7 +438,7 @@ snow like quick sand I could see the last rope to the summit.
 
 I reached there around 8:15 AM. Opening the route, Deepak and Subhash
 sir reached there around 7:45 am.We congratulated each other for our
-successfully summit. It was blissful moment. We could the surrounding
+successfully summit. It was blissful moment. We could see the surrounding
 peaks protruding upside from the quilt of clouds. Senior instructor
 Jagmohan Singh Rawat introduced us to the surrounding peaks. We could
 see Shrikanth, Bandarpoonch Range, Kala Nag, Rudragaira, Gangotri Range, 
@@ -451,7 +450,7 @@ part part, we were given few mins break for breakfast. There wasn't any
 break before that. Common equipments like ropes changed hands and we
 started climbing down with happiness on our faces. While we were
 climbing down we could see the basic course guys at our camp 1, who were
-there for there height gain phase. At cam 1, we were congratulated by
+there for there height gain phase. At camp 1, we were congratulated by
 the kitchen staff and Chief Instructor for our successful climb. 
 Everybody was completely exhausted after this arduous climb.After
 reaching I pulled out the packed breakfast and shared it with my
