@@ -16,23 +16,21 @@ image: https://c2.staticflickr.com/2/1937/31418932898_794f786d9f_o.jpg
 image-sm: https://c2.staticflickr.com/2/1940/31418929588_c2f6a62a24_o.jpg
 ---
 
-I was exploring some extended weekend treks as my office colleagues also wanted to come along on my next trek. 
+I was exploring some extended weekend treks as my office colleagues also wanted to come along. 
 After searching and negotiating a lot, no agreeable trek couldn't be decided and now that I have to travel
-solo, I finally decided to go for Hampta Pass and Chandratal.. 
+solo, I finally decided to go for Hampta Pass and Chandratal.
 Hampta pass trek starts from Manali, Himachal Pradesh. 
 It is a small pass on Pir Panjal range of Himalayas, between Lahaul and Kullu valley in Himachal Pradesh. 
-Vertical rock walls, water falls, hanging glaciers, tiny lakes, peaks rising above 6000 m are main characteristics of this
-trek. 
+Vertical rock walls, water falls, hanging glaciers, tiny lakes, peaks rising above 6000 m are main characteristics of this trek. 
 I was very excited about this trek because I was finally getting another chance to see Chandratal.
 
 
 Kiran was also in town and ready for a weekend trek. 
 We left Delhi on Thursday, 14 July so that we had an extra day before next week starts.
 Bus to Manali was running late and we reached there around 11A.M. 
-After having heavy dinner around noon, we took a cab for Jobra. 
-It takes an hour and forty hairpin bends to arrive at Jobra. 
-It was around 2 PM when we reached there. 
-We left immediately, as we had planned to reach Balu Ka Ghera on our first day of trek and it was already late. 
+After having heavy lunch around noon, we took a cab for Jobra. 
+It takes an hour and forty hairpin bends to arrive at Jobra, time would have been 2 PM by then.
+As soon as we arrived we left, as we had planned to reach Balu Ka Ghera on our first day of trek and it was already late. 
 It had rained earlier in the day and path was slippery till Chika village.
 
 <figure>
@@ -40,9 +38,8 @@ It had rained earlier in the day and path was slippery till Chika village.
   <figcaption></figcaption>
 </figure>
 
-
-In few hours of trek, crossing few streams we reached Jwara. 
-Clouds were all around us and visibility was very poor.
+In few hours of trek and after crossing few streams we reached Jwara. 
+Clouds were all around us due to which visibility was very poor.
 
 <figure>
   <img src="https://c2.staticflickr.com/2/1954/45243661482_a07ff1b414_o.jpg" alt=""/>
@@ -65,8 +62,7 @@ There was a shop in Jwara from where we got ourselves nice dinner for the night.
   <figcaption>Campsite at Jwara</figcaption>
 </figure>
 
-It was Saturday, June 16th. We started for Balu ka Ghera early morning
-next day. 
+It was Saturday, June 16th. We started for Balu ka Ghera early morning. 
 
 <figure>
   <img src="https://c2.staticflickr.com/2/1938/30354220177_9b40139bd4_o.jpg" alt="It was all misty from the beginning which was giving the whole
@@ -74,17 +70,16 @@ valley a mystic look."/>
   <figcaption>It was all misty from the beginning which was giving the whole valley a mystic look.</figcaption>
 </figure>
 
-It started raining heavily when we reached Balu Ka Ghera. 
-We got 4 parathas packed from there to have lunch later in the day. 
-After more than an hour wait in Balu Ka Ghera, when the rain didn't stop; we prepared ourselves to walk in rain.
+By the time we reached Balu Ka Ghera, it started raining heavily.
+After more than an hour of wait and meanwhile having lunch (the one we packed from the shop when we camped a night before) in Balu Ka Ghera, when the rain didn't stop; we prepared ourselves to walk in rain.
 
 <figure>
   <img src="https://c2.staticflickr.com/2/1921/45243663902_2eb5e3a18a_o.jpg" alt="Open Valey near Balu ka Ghera"/>
   <figcaption>Panaromic View of Open Valey near Balu ka Ghera</figcaption>
 </figure>
 
-There was a Dutch couple, whom we had met in Jwara. 
-They also arrived Balu Ka Ghera when we were about to leave. 
+After few hours of walk, we arrived at Balu Ka Ghera.
+There was a Dutch couple already there, whom we met in Jwara.
 We started from Balu Ka Ghera together. 
 They were thinking of returning back from the pass but we had plans to go further. 
 Before the ascent to pass starts, there is a big lake where we bid them goodbye and continued our journey.
@@ -95,12 +90,13 @@ Before the ascent to pass starts, there is a big lake where we bid them goodbye 
 </figure>
 
 
-In heavy rain, the stream beside us was ferocious which actually accompanied us all along the trek in the valley. After crossing the some boulders, we reached the glacier. 
-In such low visibility, it was getting difficult to find our way forward. Kiran was incessantly asking whether we are on the right path or not. 
-I followed the tracks of mules on the glacier and reached the plateau. 
-It was real cloudy and it seemed that I had lost my way here. 
-We had a pack of biscuit there and decided to look closely for tracks. 
-It seemed, that we had to go back and follow the track more closely. 
+In heavy rain, the stream beside us was ferocious which actually accompanied us all along the trek in the valley. 
+After crossing some boulders, we were welcomed by the glacier. 
+In such low visibility, it was getting difficult to find our way forward. 
+Kiran was incessantly asking whether we are on the right path or not. 
+We followed the tracks of mules on the glacier and reached the plateau. 
+It was real cloudy and it seemed that we had lost our way there. 
+Trying to look closely for tracks and deciding which we to go, we were munching on the biscuits we had and it seemed, that we had to go back and follow the track more closely. 
 On our left was a vertical rocky cliff.
 
 <figure>
@@ -113,13 +109,11 @@ I rushed towards the noise, though between so dense clouds, it was being difficu
 We shouted and asked whether anybody is there. 
 The mules were gone and lost in the clouds by then. 
 After few minutes, someone replied to our hello. When we rushed towards the sound, it was the same dutch couple with their guide. 
-The lady told me, that they decided to cross the pass same day. 
-The lady was was kind enough to offer us chocolates. 
+The lady told me, that they decided to cross the pass same day.
 We were just few meters away from the trail, but without their help we definitely would've gone in the wrong direction.
 This could've lost us at least few precious hours. 
 We were actually few meters away from the trail. 
-It's just that the trail makes an unusual bend towards left while going up at the highest point of trek which we
-would have easily figured out in clearer sky.
+It's just that the trail makes an unusual bend towards left while going up at the highest point of trek which we would have easily figured out, had the sky been clearer.
 
 <figure>
   <img src="https://c2.staticflickr.com/2/1944/30354221347_cdc869abd1_o.jpg" alt="Towards Shiagoru From Hampta Pass"/>
@@ -127,9 +121,8 @@ would have easily figured out in clearer sky.
 </figure>
 
  
-With them, we started our descent to Shiagoru. 
-It's a steep descent which was little slippery due to rains. 
-The rain was little slow at this part of valley (Lahaul). If it was a normal day, we could've had a nice view of Indrasan peak which was right to us while climbing down. 
+With them, we started our descent to Shiagoru which was steep and little slippery due to rains. 
+The rain was little less in this part of valley (Lahaul). If it was a normal day, we could've had a nice view of Indrasan peak which was right to us while climbing down. 
 We were descending to Lahaul Valley. 
 The arrangements were already there for the night in Shiagoru for the Dutch couple. 
 We decided to trek further down to Chhatru. 
@@ -139,7 +132,7 @@ It's a flat area fed from glacier; it wasn't deep but certainly was cold.
 Having crossed the stream with our hands joined, we took off for Chhatru. 
 From Shiagoru to Chhatru, it's a long walk but easy descent. 
 The sun was about to set when we reached Chhatru roadhead. 
-Chhatru is on the way to Kaza from Manali. We pitched our tents, and were invited for dinner by trek organizers from Bikat adventures who were also camped there.
+Chhatru is on the way to Kaza from Manali. We pitched our tents, and were invited for dinner by trek organizers from Bikat adventures who were also camping there.
 
 <figure>
   <img src="https://c2.staticflickr.com/2/1943/31418932038_7346bfa310_o.jpg" alt="Before Chhatru"/>
@@ -161,7 +154,7 @@ After having lunch in Batal, I enquired for the directions to Chandratal. People
 I took there advice, as it was clear that the road from Batal to Chandratal was only preferred for vehicles. 
 Those truck drivers were still there having lunch. I joined them again when they left for Kaza.
 
-It was raining in Kunzum la, when I reached there. 
+Soon I was in Kunzum la, and it was raining when I reached there. 
 There was no one who could tell me the way to Chandratal, though there was a board with signboard of Chandratal. 
 I just decided to follow the path behind the board. 
 It was well laid trail till I reached a point from where I had a view of valley. 
@@ -190,14 +183,13 @@ The visitors of Chandratal, mostly were with some trek organization on four whee
   <figcaption>Chandra Taal</figcaption>
 </figure>
 
-Despite that, Chandratal was still very beautiful, clean and peaceful.
+Chandratal was still very beautiful, clean and peaceful.
 The small stream emanating from Chandratal and a wooden bridge looks like a setting from a fairy tale. I sat there around half an hour. 
 When sun had set, I turned back towards Batal road looking for a place to camp. 
 Most of the good places nearby were completely occupied by private organizations which was little disheartening. 
-Anyhow I was able to find a place to camp besides some Paragon camping site. 
-Next day returned back to Batal. 
-On the way to Batal from Chandratal, I was offered a lift by a jeep accompanying bikers. 
-In Batal, I was able get hold of a jeep going towards Manali. 
+Anyhow I was able to find a place to camp besides some Paragon camping site marking the end of yet another trek of mine.
+
+Next day was the journey back home day and I started my return walk to Batal. 
+On the way to Batal from Chandratal, I got a lift by a jeep accompanying bikers till Batal and from there I was able get hold of another jeep going towards Manali. 
 Buses are not very reliable on this route. 
-The driver of the jeep was in his teens and he was determined to reach Manali by lunch time. 
 By afternoon, I was in Manali where I had lunch and explored the market until it was time for bus to Delhi.
