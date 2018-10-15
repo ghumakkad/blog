@@ -1,7 +1,7 @@
 --- 
 layout: post 
 title: Devariyatal - Chandrashila Trek
-date: 2067-11-25
+date: 2017-11-25
 author: Prashant C Chaturvedi 
 categories:
   - self
@@ -100,7 +100,7 @@ Shweta was ready to accept these difficulties.
 After talking to others in the shop, it was clear to us that water sources along the way had dried up and we may face difficulties because of that. 
 Everybody except us, were going to Tungnath from Chopta which was too mainstream for me and it never gives me a feeling of fulfillment to take such routes. 
 While having dinner, I asked if I could get a guide for the rest of the trek. 
-The shopkeeper told us that he know someone in the village, who would take INR 1000 per day and we also have to rent a tent and sleeping bag for
+The shopkeeper told us that he knows someone in the village, who would take INR 1000 per day and we also have to rent a tent and sleeping bag for
 him. 
 We decided to think over it in night and went back to our tents.
 
@@ -141,7 +141,7 @@ After Jhandi Dhar, the jungle becomes dense and beautiful.
   <figcaption></figcaption>
 </figure>
 
-The trial was so rewarding and beautiful that every now and then, I just couldn’t stop myself from halting and clicking pictures on the way. 
+The trail was so rewarding and beautiful that every now and then, I just couldn’t stop myself from halting and clicking pictures on the way. 
 We easily reached Rohini Bugyal in 4–5 hours and we decided to halt for the day.
 While roaming around the campsite, we could see that this place had few abandoned huts which were left not more than a month ago. 
 There was a small stream of water near the place where we decided to camp. 
