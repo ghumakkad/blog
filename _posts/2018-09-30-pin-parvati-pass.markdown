@@ -12,7 +12,7 @@ tags:
   - kaza
   - mudh
 description: Pin Parvati Pass Trek Log
-image: https://c2.staticflickr.com/2/1961/45274002712_1df192d218_o.jpg
+image: https://c2.staticflickr.com/2/1935/45274006722_5ddaa3ef9c_o.jpg
 image-sm: https://c2.staticflickr.com/2/1947/44600161474_721e51a158_o.jpg
 ---
 
@@ -116,7 +116,7 @@ On today's trail, valley exapnds further and the Parbati River now on our right 
 
 <figure>
   <img src="https://c2.staticflickr.com/2/1935/45274006722_5ddaa3ef9c_o.jpg" alt="group photo"/>
-  <figcaption>Onkar, Anshul, me, Ashish, Vijay, Pater, Sanjay Gupta, Chetram, Hari, Kannan Kasturi, Satyajit, Pratibha.</figcaption>
+  <figcaption>Omkar, Anshul, me, Ashish aka RawHash, Vijay, Petri Ultich (Peter), Sanjay Gupta, Chetram, Hari, Kannan Kasturi, Satyajit Patnaik, Pratibha Rahi.</figcaption>
 </figure>
 
 It was a perfect spot for group photo and in fact everyone was posing around. 
@@ -140,7 +140,11 @@ Some of us went ahead and some decided to walk barefoot on the riverbed and enjo
 </figure>
 
 
-_The valley closes in front of us with snow laden peaks._
+<figure>
+  <img src="https://c2.staticflickr.com/2/1977/43518884390_8a809352ca_o.jpg" alt="The valley closes in front of us with snow laden peaks."/>
+  <figcaption>The valley closes in front of us with snow laden peaks.</figcaption>
+</figure>
+
 
 So far the weather was with us, but when we were nearing the Mantalai Lake, the starting point of Parbati River, weather suddenly started closing in on us. It turned cloudy and windy which was giving us chills. While waiting for others, we visited the temple by the lake which houses a Shivling in open air surrounded by cairns.
 
