@@ -6,6 +6,7 @@ date: 2009-04-11
 categories:
   - course
   - organised
+  - trek
   - mountaineering
 tags:
   - Darjeeling 

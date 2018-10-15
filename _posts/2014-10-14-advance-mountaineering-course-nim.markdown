@@ -6,6 +6,7 @@ author: Prashant C Chaturvedi
 categories:
   - course
   - organised
+  - trek
   - mountaineering
 tags: 
   - AMC
