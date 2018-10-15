@@ -16,11 +16,11 @@ image: https://c2.staticflickr.com/2/1961/45274002712_1df192d218_o.jpg
 image-sm: https://c2.staticflickr.com/2/1947/44600161474_721e51a158_o.jpg
 ---
 
-It was around midnight when I woke up with the sound of susurration. With the close eyes, I hoped it to be the sound of the glacial stream flowing nearby. I was wide awake, when I heard someone beating on the tent nearby. There was no doubt that it was snowfall. Our plan to cross the Pin Parvati pass tomorrow was in serious jeopardy.
+It was around midnight when I woke up with the sound of susurration. Eyes closed, I hoped it to be the glacial stream flowing nearby. I was wide awake, when I heard someone beating on the tent nearby. There was no doubt that it was snowfall. Our plan to cross the Pin Parvati pass tomorrow was in serious jeopardy.
 
-Since past few years, I had been looking forward to go on Pin Parvati Pass trek. In fact, whenever my friends offerred me come along to Kheerganga or Kasol, I had been politely declining by telling them that I'll walk on that path only when I am going for Pin Parvati Pass. I've always loved crossing the passes because of the trasitions it offer in terms of the culture and sometimes landscapes. It has always felt to me like crossing from one country to another.
+Since past few years, I had been looking forward to go on Pin Parvati Pass trek. In fact, whenever my friends offerred me come along to Kheerganga or Kasol, I had been politely declining by telling them that I'll walk on that trail only when I am going for Pin Parvati Pass. I've always loved crossing the passes because of the trasitions it offer in terms of the culture and sometimes landscapes. It has always felt to me like crossing from one country to another.
 
-Pin Parvati Pass, is one of those treks in Himalayas which offers a variety in landscapes, chance to witness different cultures and good altitude as well. It is supposed to be difficult than any other trek because of the long trail and crevasses near the pass. I had been to Tarsar Marsar Lake just few days ago. I had some leaves left and It was apt time for going on such treks. It's mid September and trekking season in Himalayas was nearing to an end. Very few organizations were running this trek. I chose Bikat because I had been to Bali Pass with them before.
+Pin Parvati Pass, is one of those treks in Himalayas which offers a variety in landscapes, chance to witness different cultures and of course a decent enough altitude. It is supposed to be difficult than any other normal Hiumalayan trek because of the long trail and crevasses near the pass. I had been to Tarsar Marsar Lake just few days ago. I still had some leaves left and it was apt time for going on such a trek. It's mid September and trekking season in Himalayas was nearing to an end. Very few organizations were running this trek. I chose to go with Bikat because I had been to Bali Pass with them before.
 
 #### Start of the trek
 
@@ -34,8 +34,8 @@ Next morning before starting for Kheerganga, the first camping site; we were int
 
 Initial 6 days are supposed to 5-6 hours of walk with not more than 500 meters of altitude gain.
 
-We started from Kalga, with Parbati river on our left. On the other side of the river which recieves more sunlight in the morning, Nathan villgae. There were patches of cannabis plantation on other side of the river. 
-From Kalga, the trail climbs to a temple and small dhaba at Rudra-Nag waterfall, which is named after its resemblance of a water snake. Our guide Hari tells us that local Devi-Devta comes for a bath every year. Beyond Rudra-Nag waterfall, the trail ascends further through thick pine forests to the spiritual site of Kheerganga where Shiva is said to have meditated for 3000 years. The hot springs at Kheerganga are extremely important for Hindu and Sikh pilgrims as well as many others who believe the waters have sacred healing properties. The trail from Kalga to Kheerganga was broken at few places. There are always many people hiking towards Kheerganga. In afternoon, we went for a bath in hot spring after pitching tents.
+We started from Kalga, with Parbati river on our left. On the other side of the river which recieves more sunlight in the morning, Nakthan villgae. There were patches of cannabis plantation on other side of the river. 
+From Kalga, the trail climbs to a temple and small dhaba at Rudra-Nag waterfall, which is named after its resemblance of a snake. Our guide Hari tells us that local _Devi-Devta_(deities) comes for a bath every year. Beyond Rudra-Nag waterfall, the trail ascends further through thick pine forests to the spiritual site of Kheerganga where Shiva is said to have meditated for 3000 years. The hot springs at Kheerganga are extremely important for Hindu and Sikh pilgrims as well as many others who believe the waters have sacred healing properties. The trail from Kalga to Kheerganga was broken at few places. There are always many people hiking towards Kheerganga. In afternoon, we went for a bath in hot spring after pitching tents.
 
 <figure>
   <img src="https://c2.staticflickr.com/2/1955/44600168814_9420f3d3bc_o.jpg" alt="Kheerganga Hot spring"/>
@@ -57,7 +57,7 @@ From Kheerganga to Tunda Bhuj (3285m) the Parvati river cuts a steep-sided gorge
 </figure>
 
 Near Tunda Bhuj, on the other side of river many waterfalls emanating from steep mountains join the river.
-On those steep faces, shepherds in search of green pastures for their flock were seen passing across the waterfalls which we worndered if anyone would dare to traverse.
+On those steep faces, shepherds in search of green pastures for their flock were seen passing across the waterfalls which we wondered if anyone would dare to traverse.
 
 <figure>
   <img src="https://c2.staticflickr.com/2/1957/45324200671_005b23d62a_o.jpg" alt="Waterfalls joining Parbati River"/>
@@ -66,21 +66,21 @@ On those steep faces, shepherds in search of green pastures for their flock were
 
 #### Tunda Bhuj (3285m) to Thakur Kuan (3560m)
 
-Today, the river flow close to the trail and one could hear the sound of it crashing its way through the rocks. The treeline begins to diminish and some patches of bushes are to be seen. Along the trail, some Bhoj(Birch) trees could be seen on the slopes of mountains which gives the name to the Tunda Bhuj campsite. After reaching Thakur Kuan campsite, we went for an acclimatization walk on a nearby hill. 
+Today, the river flow close to the trail and one could hear the sound of it crashing its way through the rocks. The treeline begins to diminish and only some patches of bushes are to be seen. Along the trail, some Bhoj(Birch) trees could also be seen on the slopes of mountains which gives the name to the Tunda Bhuj campsite. After reaching Thakur Kuan campsite, we went for an acclimatization walk on a nearby hill. 
 
 <figure>
   <img src="https://c2.staticflickr.com/2/1962/43507801820_8600d2f355_o.jpg" alt="Thakur Kuan campsite from nearby hill"/>
   <figcaption>Thakur Kuan campsite from nearby hill</figcaption>
 </figure>
 
-There was another shepherd tent nearby with a big flock of sheeps and goats. Upon hearing the answer that we have come from far places to trek in the valley, he shown some surprise on why would someone make such effort and spend money to come this far and what is there to gain. 
+There was another shepherd tent nearby with a big flock of sheeps and goats. In our conversation, when we told that we have come from far places to trek in the valley, he was little surprised on why would someone make such effort and spend money to come this far and what is there to gain for us. 
 Some of us were amused by the expression of faces of sheeps and goats made good use of their mobile cameras.
 
 #### Thakur Kuan (3560m) to Odi Thatch (3879m)
 
-The trail goes across the river just after few minutes of walk. We had two hurdles to cross, a travferse along the steep rock face by the river and a natural bridge on the river. Our trek leader suggested us that we don our helmets as the traversal of the rock face and crossing the bridge could be tricky.
+The trail goes across the river just after few minutes of walk. We had three hurdles to cross, a traverse along the steep rock face by the river and two natural bridges on the river. Our trek leader suggested us that we don our helmets as the traversal of the rock face and crossing the bridge could be tricky.
 
-The bridge called as Pandu Pul, is a huge boulder placed right on the river. Local legend says it was placed by Bheem, one among Pandavas. The river flow beneath the rock through the small passage. 
+The bridges called as Pandu Pul, is a huge boulder placed right on the river. Local legend says it was placed by Bheem, one among Pandavas. The river flow beneath the rock through the small passage. 
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/pccofvns/45274004802/in/dateposted-public/" title="Parbati flow beneath the natuaral bridge"><img src="https://farm2.staticflickr.com/1980/45274004802_77146c3226_b.jpg" width="1024" height="576" alt="Parbati flow beneath the natuaral bridge"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
@@ -96,7 +96,7 @@ We were also accompanied by a dog who had been following us from Kheerganga, eve
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/pccofvns/45274005952/in/dateposted-public/" title="Jackie crossing Pandu Pul I"><img src="https://farm2.staticflickr.com/1945/45274005952_b1f22015e5_s.jpg" width="75" height="75" alt="Jackie crossing Pandu Pul I"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
-After crossing the bridge, the valley opens up and is very wide with a more or less flat ground throughout. Glacial streams from both sides of valley join the Parbati river. Odi Thatch(thatch = meadow), a wide flat ground by the side of Parbati River, could've been our campsite if water source was available in vicinity. 
+After crossing the bridge, the valley opens up and is very wide with a more or less flat ground throughout. Glacial streams from both sides of valley join the Parbati river. Odi Thatch(thatch = meadow), a wide flat ground by the side of Parbati River, could've been our campsite if water source was available in vicinity. Porters had already went ahead of Odi Thatch because of non availibility of water near the campsite. We followed them. 
 
 <figure>
   <img src="https://c2.staticflickr.com/2/1941/43507804690_8e2442cd82_o.jpg" alt="Odi thatch"/>
@@ -112,7 +112,7 @@ We continued further for an hour for our next camping site which was small flat 
 
 #### Odi Thatch (3876 m) to Mantalai (4100m)
 
-On today's trail, valley exapnds further and the Parbati River now on our right side is calmer than before. In fact, we reach a point where the river flows on almost flat bed of the wide valley creating sand banks alongside. It is like any big river in plains with pebbles and sand around. In the sunny weather, we felt as if it was some kind of wonderland. Elated by the sight of valley, we spent some quite moment by the side of river. 
+On today's trail, valley exapnds further and the Parbati River now on our right side is calmer than before. In fact, we reach a point where the river flows on almost flat bed of the wide valley creating sand banks alongside. It is like any big river in plains with pebbles and sand around. In the sunny weather, it felt as if it was some kind of wonderland. Elated by the sight of valley, we spent some quite moment by the side of river. 
 
 <figure>
   <img src="https://c2.staticflickr.com/2/1935/45274006722_5ddaa3ef9c_o.jpg" alt="group photo"/>
@@ -142,7 +142,7 @@ Some of us went ahead and some decided to walk barefoot on the riverbed and enjo
 
 _The valley closes in front of us with snow laden peaks._
 
-So far the weather was with us, but when we were nearing the Mantalai, the starting point of Parbati River, weather suddenly started closing in on us. It turned cloudy and windy which was giving us chills. While waiting for others, we visited the temple by the lake which houses a Shivling in open air surrounded by cairns.
+So far the weather was with us, but when we were nearing the Mantalai Lake, the starting point of Parbati River, weather suddenly started closing in on us. It turned cloudy and windy which was giving us chills. While waiting for others, we visited the temple by the lake which houses a Shivling in open air surrounded by cairns.
 
 <figure>
   <img src="https://c2.staticflickr.com/2/1919/44600167174_acacc28001_o.jpg" alt="Mantalai Temple and lake behind"/>
@@ -159,25 +159,25 @@ When we moved towards the next camping site, further up by the lake, light rain 
 
 #### Mantalai (4100m) to Parbati Base Camp (4940m)
 
-Weather was clear in the morning, and we were all ready for our highest altitude gain(~ 800m) of the trek. We start by climbing the mountaine slope along side the lake. It is a continuous climb and from the top we get the see the panaromic view of lake. It was fascinating to see the different colors of small lake formed in the Mantalai glacier. One would wonder how is it possible that these small lakes are so close to each other but have such difference in color. Some of these lakes seem to have turquoise blue and some were green in color and some had muddy appearance. I wondered about the physics behind that. 
+Weather was clear in the morning, and we were all ready for our highest altitude gain(~ 800m) of the trek. We start by climbing the mountain slope along side the lake. It is a continuous climb and from the top we get the see the panaromic view of lake. It was fascinating to see the different colors of small lake formed in the Mantalai glacier. One would wonder how is it possible that these small lakes are so close to each other but have such difference in color. Some of these ponds seem to have turquoise blue and some were green in color and some had muddy appearance. I wonder about the physics and geology behind that. 
 
 <figure>
   <img src="https://c2.staticflickr.com/2/1955/43507806210_85fb71af65_o.jpg" alt="Glacial lakes formed in the Mantalai"/>
   <figcaption>Glacial lakes formed in the Mantalai</figcaption>
 </figure>
 
-After climbing the mountaintop by the lake, we pushed further through the morains crossing a glacial stream coming from the glacier near the pass. The weather was with us so far. It was bright sunny day when we reached base camp.
+After climbing the mountaintop by the lake, we pushed further through the morains crossing a stream coming from the glacier near the pass. The weather was with us so far. It was bright sunny day when we reached base camp.
 
 <figure>
   <img src="https://c2.staticflickr.com/2/1906/43507806710_5aaea677a5_o.jpg" alt="Parvati Valley side base camp"/>
   <figcaption>Parvati Valley side base camp</figcaption>
 </figure>
 
-The campsite was some rocky patch between the boulders just before the thick tabletop like glacier. I took some time to wash myslef in the glacial stream nearby while the sun was still with us. The peak overlooking the Mantalai lake, was playing hide and seek in clouds and some of us amused by it, were busy capturing it in a timelapse video. Sitting on the a boulder, Ashish was busy creating a 360 degree view of the campsite.
+The campsite was some rocky patch between the boulders just before the thick tabletop like glacier. I took some time to wash myslef in the glacial stream nearby while the sun was still with us. The peak overlooking the Mantalai lake, was playing hide and seek in clouds and some of us amused by it, were busy capturing it in a timelapse video. Sitting on a boulder, Ashish was busy creating a 360 degree view of the campsite.
 
 We were left with only 300m of climb and everything seemed to be in our favor so far.
 
-Around midnight, I woke up with a sound of susurration. I really hoped that sound to be of a stream flowing nearby. Maybe, sound of stream is more clear in the night, I thought. This is when I heard someone beating the tent nearby. My worst fears had come true. It is snowfall! I had been waking every hour since then and the continued snowfall was adding to fears which we might face tomorrow. It would've disappointing to back after coming this far and after so many days. I thought, maybe we'll use the reserve day which we had in our plan esp. for such instances.
+Around midnight, I woke up with a sound of susurration. I really hoped that sound to be of a stream flowing nearby. Maybe, sound of stream is more clear in the night, I thought. This is when I heard someone beating on the tent nearby. My worst fears had come true. It is snowfall! I had been waking every hour since then and the continued snowfall was adding to my fears. In such weather, they might actually decide to turn back and not cross the pass. It would've disappointing to back after coming this far and after so many days of trek. I hoped that they deicde to use the reserve day which we had in our plan if it is not advisable to cross the pass tomorrow.
 
 <figure>
   <img src="https://c2.staticflickr.com/2/1975/45274706342_9996331b44_b.jpg" alt="Base camp in morning"/>
@@ -186,44 +186,50 @@ Around midnight, I woke up with a sound of susurration. I really hoped that soun
 
 #### Parbati Base Camp (4940m) via Pin Parbati Pass (5300m) to Shepherds camp (~ 4300m)
 
-What was all rocky and dry yesterday, was covered with snow in the morning. It didn't seem to stop either. Rohit, Hari and Chetramji decided to march ahead instead of waiting the snow out. I overheard someone saying that we don't have much kerosene oil left with us as well and going back will take long. It is better to cross the pass before snow piles on. My hands were freezing in unpitching the tents and my thin fleece gloves were not helping either. We continued as per the plan. Hari was leading the way prodding along with stick. After few minutes on the snow, when glacier started, he suggested that we rope up as it's become very difficult to identify the crevasses. It would've slowed the whole group if every one was roped up, so three of us (Rohit, Har and me) roped up to move ahead making way for others. Hari was leading the way. It was complete whiteout near the pass. 
+What was all rocky and dry yesterday, was covered with snow in the morning. Snowfall was incessant. Rohit, Hari and Chetramji decided to march ahead instead of waiting the snow out. I overheard someone saying that we don't have much kerosene oil left with us as well and going back will take longer. It is better to cross the pass before snow piles on. My hands were freezing in unpitching the tents and my thin fleece gloves were not helping either. We continued as per the plan. Hari was leading the way prodding along with stick. After few minutes on the snow, when glacier started, he suggested that we rope ourselves up as it's become very difficult to identify the crevasses. It would've slowed the whole group if every one was roped up, so three of us (Rohit, Har and me) roped up to move ahead making way for others. Hari was leading the way. It was complete whiteout below the pass. 
 
 <figure>
   <img src="https://c2.staticflickr.com/2/1971/43507800510_23cdf4ce58_o.jpg" alt="Roped up"/>
   <figcaption></figcaption>
 </figure>
 
-After negotiating first crevasse, Cheeku who was leader of the porter group was called upon by Hari to lead the way. Cheeku was crossing the pass sixth time this year. He knew this terrain as back of his hand and very instrumental in identifying the path and crevasses too. However, some porters who went ahead behind Cheeku did go in the crevasse but were pulled out in time. We were trying our best to negotatite the crevasses with the support of the makeshift arrangement of fixed ropes.
+After negotiating first crevasse, Cheeku who was leader of the porter group was called upon by Hari to lead the way. Cheeku was crossing this pass sixth time this year. He knew this terrain as back of his hand and was very instrumental in identifying the path and crevasses too. However, some porters who went ahead behind Cheeku did go in the crevasse but were pulled out in time. We were trying our best to negotatite the crevasses with the support of the makeshift arrangement of fixed ropes.
 
 <figure>
   <img src="https://c2.staticflickr.com/2/1957/44600162944_55bddf87c0_o.jpg" alt="Porters marching ahead in green and yellow"/>
   <figcaption>Porters marching ahead in green and yellow</figcaption>
 </figure>
 
-While working with the ropes, my thin fleece gloves were complete wet and I had to squeeze the water out of the gloves. It was freezing and I hoped I didn't get the frost bite. Around 11:30, we touched the pass. There wasn't much to see around in this incessant snowfall. 
+While working with the ropes, my thin fleece gloves were complete wet and I had to squeeze the water out of the gloves. It was freezing, and I hoped I didn't get frost bite. Around 11:30, we touched the pass. There wasn't much to see around in this incessant snowfall. 
 
 <figure>
   <img src="https://c2.staticflickr.com/2/1961/45274002712_1df192d218_o.jpg" alt="At Pin Parvati Pass"/>
   <figcaption>At Pin Parvati Pass</figcaption>
 </figure>
 
-We had a long way ahead, we hurried towards the other side of pass in Pin Valley. There are crevasses in the glacier at this side of pass too and were completely hidden by the snowfall. Whenever Cheeku identified a creavasse, a shout goes out to us three to take up positions on both sides of creavsse to fix the rope.
+We had a long way ahead, so we hurried towards the other side of pass in Pin Valley without staying much on the pass. There are many crevasses in the glacier at this side of pass as well and these were now completely hidden by the snowfall. Whenever Cheeku identified a creavasse, a shout goes out to us three to take up positions on both sides of creavsse to fix the rope.
 
-We had already decided to skip the usual camping site (Pin Base camp) and keep going down to reach the next one, a Shepherd's camp. By the time we crossed Pin river, our shoes clothes were completely wet and it was becoming difficult to stand. I didn't even bother to remove the socks to cross the river. It was better to keep walking to keep warm. When we reached the campite, the dinner tent was set up. A stove was put to keep us warm. Snowfall was nowhere to stop. I had hoped that Spiti would be dry at this time of year and weather was defying all the odds. We didn't want to bother with pitching our tents and everyone except few decided to spend the night in dinner tent. Before sleeping, I noticed that my sleeping bag along with everyone others was soaking wet too. I had put it in a dry pack which didn't help. For tomorrow, we had decided to go to Mudh. In night, Rohit came to us and said that he will start early next morning for Mudh and try to arrange a conveyance to pick others midway. I asked Rohit if I can be of any help and can accompany him to which he said yes. 
+We had already decided to skip the usual camping site (Pin Base camp) and keep going down to reach the next one, a Shepherd's camp. By the time we crossed Pin river, our shoes and clothes were completely wet and it was becoming difficult to stand. I didn't even bother to remove the socks to cross the river. It was better to keep walking to keep warm. When we reached the campite, the dinner tent was set up. A stove was put to keep us warm. Snowfall was nowhere to stop. 
+
+I had hoped that Spiti would be dry at this time of year, but weather was defying all the odds. We didn't want to bother with pitching our tents and everyone except few decided to spend the night in dinner tent. In night, Rohit came to us and said that he will start early next morning for Mudh and try to arrange a conveyance to pick others midway. I asked Rohit if I can be of any help and can accompany him to which he said yes. Before sleeping, I noticed that my sleeping bag along with everyone others was soaking wet too. I had put it in a dry pack which didn't help. For tomorrow, we had decided to go to Mudh.
 
 
 
 #### Shepherds Camp (~ 4300m) to Mudh (3800 m)
-As per plan I started with Rohit around 8:30 towards Mudh. There was someone from porter group as well to show us the way. Hari and Chetramji were to follow course with other members after sometime. We needed to hurry to reach Mudh, else vehicle wouldn't reach near the roadhead in time to pick others. The sandy and fragile soil in the mountains of Spiti Valley were frequently showing signs of landslide and sometimes we had to cross active landslides.
+As per plan I started with Rohit around 8:30 towards Mudh. There was someone from porter group as well to show us the way. Hari and Chetramji were to follow the course with other members after sometime. We needed to hurry to reach Mudh, else vehicle wouldn't reach near the roadhead in time to pick others. The sandy and fragile soil in the mountains of Spiti Valley were frequently showing signs of landslide and sometimes we had to cross active landslides.
 
 <figure>
   <img src="https://c2.staticflickr.com/2/1926/43508483600_6f2a0f4c02_o.jpg" alt=""/>
   <figcaption></figcaption>
 </figure>
 
-Our shoes were already wet and clothes were wet again. Around 11:30 we touched the roadhead. This is under construction road in the valley, and Mudh village is way ahead. Some more kilometers ahead from roadhead, there is a _nullah_ (Pagal Nala) which flows over the road and the stream is so ferocious and strong that vehicles coming from Mudh can't cross this stretch. We were supposed to bring the vehicle till this point. We started freezing when we stopped for luch near Pagal Nallah. Ahead on the road of Pagal Nala, there were many small landlides and we wondered if a vehicle could reach here or not. It was long and arduous walk and felt tougher than yesterday. This was a definitely long stretch, more than 25KM and it was again freezing in the afternoon. There was another wide and ferocious stream was waiting for us just before the village. The sheer muddy color and the sound of it sent chills down the spine. Rohit took the lead and we held each others hand to cross the stream.
+Our shoes were already wet and clothes were wet again. Around 11:30 we touched the roadhead. This is under construction road in the valley, and Mudh village is way ahead. Some more kilometers ahead from roadhead, there is a _nullah_ (Pagal Nala) which flows over the road and the stream is so ferocious and strong that vehicles coming from Mudh can't cross this stretch. We were supposed to bring the vehicle till this point. We crossed the Pagal Nala with on a small makeshift footover bridge down the stream. We had reached a landmark. On a normal day, this trek would've successfully ended here. 
 
-We reached Mudh around 3:30 PM. The only phone(BSNL satellite phone) available in the village wasn't working. It had been snowing in the valley since last two days and phone works with solar powered batteries only which are dead by now. We asked the owner of the public telephone, who also owned a home stay (Tara) for help in arranging a vehicle to pick others along the trail. People in village were surprised to listen to our story and even enquired if someone is already dead. Some went on to suggect that we were foolish to cross the pass. The owner of Tara cafe muttered, "agar gadi nhi gayi to wo log to mar jayenge". He rushed to arrange two tractors and a JCB excavator to clear up the road. Rohit was frantically trying to contact Hari over the walkie talkie. He was able to connect to Hari around 5:30 and he told us that everyone is safe. By 6:30, 3 more of trekmates along with some porters have arrived in the village but many were still left way behind. I was told by these guys that the tractor won't be able to come back as there had been recent landslides. The helpful people of village were waiting with tea and hot water on the road. They immediately took these guys in their homes and even offered dry clothes.  It was already dark. I went with the JCB excavator again to see if I can be any help. I was already feeling guilty for not going along with the tractor. Riding the JCB, wading through the raging nullah; we caught up the tractors around a kilometer ahead waiting for help to come. There were two big landslides completely covering the road. While JCB started clearing the road, I walked ahead to see others. The guys on tractor told that everyone else has taken a shortcut to reach the village and must've reached village by now. They were not willing to leave the tractor in fear of landslides which may occur anywhere in the stretch. I waited till the JCB cleared the road and tractors (one without headlight) were shown its way to the village. When I reached village again, everyone had reached already. The dog Jackie, who was following us had also reached in the village running behind the tractor and was safe in the village.
+We started freezing when we stopped for lunch near Pagal Nallah. Ahead on the road of Pagal Nala, there were many small landlides and we wondered if a vehicle could reach here or not. It was long and arduous walk and felt tougher than yesterday. Today was a definitely a long stretch, more than 25KM and it was again freezing in the afternoon. 
+After hours of walking on the road slong with Pin River, Mudh village was finally on the sight. Nevertheless, it took another hour to reach the village.
+There was another wide and ferocious stream was waiting for us just before the village. The sheer muddy color and the sound of it sent chills down the spine. Rohit took the lead and we held each others hand to cross the stream.
+
+We reached Mudh around 3:30 PM. The only phone(BSNL satellite phone) available in the village wasn't working. It had been snowing in the valley since last two days and phone works with solar powered batteries only, which are dead by now. We asked the owner of the public telephone, who also owned a home stay (Tara) for help in arranging a vehicle to pick others along the trail. People in village were surprised to listen to our story and even enquired if someone is already dead. Some went on to suggect that we were foolish to cross the pass. There were others stuck since 2 days waiting go anywhere outside the village. The owner of Tara cafe muttered, "agar gadi nhi gayi to wo log to mar jayenge". He rushed to arrange two tractors and a JCB excavator to clear up the road. Rohit was frantically trying to contact Hari over the walkie talkie. He was able to connect to Hari around 5:30 and Hari told us that everyone is safe. By 6:30, 3 more of trekmates along with some porters have arrived in the village but many were still left way behind. I was told by these guys that the tractor won't be able to come back as there had been recent landslides. The helpful people of village were waiting with tea and hot water on the road. They immediately took these guys in their homes and even offered dry clothes.  It was already dark. I went with the JCB excavator again to see if I can be any help. I was already feeling guilty for not going along with the tractor. Riding the JCB, wading through the raging nullah; we caught up the tractors around a kilometer ahead waiting for help to come. There were two big landslides completely covering the road. While JCB started clearing the road, I walked ahead to see others. The guys on tractor told that everyone else has taken a shortcut to reach the village and must've reached village by now. These guys were not willing to leave the tractor behind on the road in fear of landslides which may occur anywhere in the stretch. I waited till the JCB cleared the road and tractors (one without headlight) were shown its way to the village. When I reached village again, everyone had reached already. The dog Jackie, who was following us had also reached in the village running behind the tractor and was safe in the village.
 
 #### Two Days of waiting in Mudh Village
 
@@ -232,7 +238,7 @@ We reached Mudh around 3:30 PM. The only phone(BSNL satellite phone) available i
   <figcaption>A view from Mudh village after weather clears</figcaption>
 </figure>
 
-The snowfall had never stopped, but Rohit was able to convey the information about our safety next day. We started getting news about the havoc this weather had created. The roads were closed everywhere and we had no other option than to wait till the road to Kaza(district headquarter of Spiti) opens. These two days, we had a good time in the village enjoying what was available for us. After a day, the cafe were serving only their home stay guests as food had become scarce in the village. The weather was now clear after two days in Mudh. Road were getting repaired and we made our way to Kaza. Road to Manali via Rohtang pass was not broken at many places and there was no sign of it getting repaired in near future. The road to Shimla via, Reckong Peo was open next day and we made our way home.
+The snowfall had never stopped, but Rohit was able to convey the information about our safety next day. We started getting news about the havoc this weather had created. The roads were closed everywhere and we had no other option than to wait till the road to Kaza(A popular place in Spiti and headquarter of Spiti subdivision) opens. These two days, we had a good time in the village enjoying what was available for us. After a day, the cafe were serving only their home stay guests as food had become scarce in the village. The weather was now clear after two days in Mudh. Road were getting repaired and we made our way to Kaza. Road to Manali via Rohtang pass was broken at many places and there was no sign of it getting repaired in near future. The road to Shimla via, Reckong Peo was open next day and we made our way home.
 
 
 
