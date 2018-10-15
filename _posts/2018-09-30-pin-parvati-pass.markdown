@@ -20,7 +20,7 @@ It was around midnight when I woke up with the sound of susurration. Eyes closed
 
 Since past few years, I had been looking forward to go on Pin Parvati Pass trek. In fact, whenever my friends offerred me come along to Kheerganga or Kasol, I had been politely declining by telling them that I'll walk on that trail only when I am going for Pin Parvati Pass. I've always loved crossing the passes because of the trasitions it offer in terms of the culture and sometimes landscapes. It has always felt to me like crossing from one country to another.
 
-Pin Parvati Pass, is one of those treks in Himalayas which offers a variety in landscapes, chance to witness different cultures and of course a decent enough altitude. It is supposed to be difficult than any other normal Hiumalayan trek because of the long trail and crevasses near the pass. I had been to Tarsar Marsar Lake just few days ago. I still had some leaves left and it was apt time for going on such a trek. It's mid September and trekking season in Himalayas was nearing to an end. Very few organizations were running this trek. I chose to go with Bikat because I had been to Bali Pass with them before.
+Pin Parvati Pass, is one of those treks in Himalayas which offers a variety in landscapes, chance to witness different cultures and of course a decent enough altitude. It is supposed to be difficult than any other normal Himalayan trek because of the long trail and crevasses near the pass. I had been to Tarsar Marsar Lake just few days ago. I still had some leaves left and it was apt time for going on such a trek. It's mid September and trekking season in Himalayas was nearing to an end. Very few organizations were running this trek. I chose to go with Bikat because I had been to Bali Pass with them before.
 
 #### Start of the trek
 
@@ -243,6 +243,8 @@ We reached Mudh around 3:30 PM. The only phone(BSNL satellite phone) available i
 </figure>
 
 The snowfall had never stopped, but Rohit was able to convey the information about our safety next day. We started getting news about the havoc this weather had created. The roads were closed everywhere and we had no other option than to wait till the road to Kaza(A popular place in Spiti and headquarter of Spiti subdivision) opens. These two days, we had a good time in the village enjoying what was available for us. After a day, the cafe were serving only their home stay guests as food had become scarce in the village. The weather was now clear after two days in Mudh. Road were getting repaired and we made our way to Kaza. Road to Manali via Rohtang pass was broken at many places and there was no sign of it getting repaired in near future. The road to Shimla via, Reckong Peo was open next day and we made our way home.
+
+With this last stretch of my road trip, I was heading back having collected the most memorable and cherishable memories, must say, a long due present to my own self.
 
 
 
