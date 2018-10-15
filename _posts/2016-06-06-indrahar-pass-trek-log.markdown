@@ -1,7 +1,7 @@
 --- 
 layout: post 
 title: Indrahar Pass Trek
-date: 2016-06-06 
+date: 2016-05-12 
 author: Prashant C Chaturvedi 
 categories:
   - trek
@@ -24,12 +24,10 @@ image-sm: https://c2.staticflickr.com/2/1911/45244308512_e9d1a5aa20_o.jpg
 In our previous treks we had been travelling light and walking long miles a day thus helping us do treks with less leaves from work.
 Planning first trek of 2016, I was thinking of something in Himachal Pradesh and then I got my hands on Depi Chaudhary's Himalaya trek maps.
 It's very detailed one and I spent hours studying it. Hoping to combine two short duration treks, I thought of Indrahar pass(4350 m) in Dhauladhar Range between Kangra and Chamba valleys, and Kugti Pass (5050m) in Chamba. 
-Indrahar pass is popular among trekkers but Kugti pass is less travelled with altitude of significant 5000+ meters and
-this required some travelling on road as well.
+Indrahar pass is popular among trekkers but Kugti pass is less travelled with altitude of significant 5000+ meters and this required some travelling by road as well.
 
 I also thought of doing Minkiani pass from Laka cave after coming down from Indrahar pass. 
-Depi Chaudhary's map was showing a route to Minkiani pass from Laka cave which is little beyond Snow point cafe but we zeroed
-down on Indrahar pass.
+Depi Chaudhary's map was showing a route to Minkiani pass from Laka cave which is little beyond Snow point cafe but we zeroed down on Indrahar pass.
 
 <figure>
   <img src="https://c2.staticflickr.com/2/1950/45244309202_ae64aefd4d_o.jpg" alt="Kiran in the back, Akshay in the left and me in the right"/>
@@ -43,13 +41,12 @@ My always ready travel buddies Kiran and Akshay were willing to join for this tr
   <figcaption></figcaption>
 </figure>
 
-With thought to first reach Indrahar pass and later decide what next, we left on Thursday, 12th May. 
+With thought to first reach Indrahar pass and later decide what next, we left Delhi on Thursday, 12th May. 
 Akshay wanted to see Bhagsu waterfall, so we started our day with that. We were told about a path leading to Triund via Upper Bhagsu village. 
 There was a small puddle where it used to be a pond. 
 We started for Triund around 12. It was a steep climb till we merged into Triund trek route. 
 It was a hot day and there weren't enough trees for shade. 
 We had our lunch in Triund and soon decided to leave for Snowline Cafe.
-
 
 Akshay was little reluctant to walk that day and I was slowly giving up hope to reach Lahesh cave the same day. 
 I sincerely wished that we reach Lahesh cave on the same day after halting for a while at Snowline cafe for food but by the time everybody reached Snowline, we decided to camp there and leave for Indrahar pass early next morning. 
@@ -65,8 +62,7 @@ We were told that an ice axe might be needed to carve out steps in a glacier whi
 There was small group of people who attempted to reach Indrahar pass a day before with a guide but they had to come back from few 100 meters before pass due to snow condition and weather. 
 Though, short on money we couldn't have been able to afford guide that day and we started little late around 8:30 AM on Friday contrary to what we had planned. 
 There were two more people leaving that day from Snowline Cafe for the pass. 
-They even had an ice axe and were even planning to cross the pass that day. 
-One of them was Ken from Japan. 
+They even had an ice axe and were even planning to cross the pass that day.
 I was hopeful that if we followed them, we would be able to get to the top. 
 They left before us. Akshay was not willing to continue, though he came along us for a stroll till Laka Cave area. 
 Negotiating the Laka glacier took a little time and Akshay didn't want to continue, so he decided to walk back from there.
@@ -81,8 +77,8 @@ Negotiating the Laka glacier took a little time and Akshay didn't want to contin
   <figcaption>waterfall near lahesh cave</figcaption>
 </figure>
 
-We followed the trail and cairns on the way. The path was not very clear, sometimes I had to look around to be sure that we are on the right track. 
-We continued our walk but Ken and his friend were nowhere to be seen by now.
+We followed the trail and cairns on the way. The path was not very clear, sometimes we had to look around to be sure that we are on the right track. 
+We continued our walk but Ken and his friend (other group we met at snowline) were nowhere to be seen by now.
 
 <figure>
   <img src="https://c2.staticflickr.com/2/1979/44381469845_ef12ddec4a_o.jpg" alt=""/>
@@ -90,11 +86,9 @@ We continued our walk but Ken and his friend were nowhere to be seen by now.
 </figure>
 
 There were steps carved in glacier. 
-Kiran hesitantly crossed it.
+Kiran and I  hesitantly crossed it.
 
-Slowly and steadily, we were making progress. 
-I was finding it difficult to follow the track, though I was sure that it was the right path.
-
+Slowly and steadily, we were making progress, finding it a little difficult to follow the track, though sure that it was the right path.
 
 The top seemed very close. I saw a severed head of what looked like a goat and blood patches on the trek. 
 I couldn't think of any reason of what killed it that way. 
@@ -149,9 +143,8 @@ With all the thoughts and will, I started off for Lahesh cave on Saturday Mornin
 I was in luck as there few gaddis who were to cross that pass tomorrow. Next morning, I heard calls of those shepherds while I was getting ready and I tagged along with them. 
 Those sheeps were really slow while walking. 
 I was following them and sometimes tried to help them controlling the sheeps. 
-When I reached the point from where I turned back last time; I had to go ahead of these sheeps as they were nearly came to a halt. 
-Few local people were coming down from the top where they had gone to offer prayers. 
-They also offered me prasad. 
+When I reached the point from where I turned back last time; I had to go ahead of these sheeps as they nearly came to a halt. 
+Few local people were coming down from the top where they had gone to offer prayers.
 Walking further more for around half an hour I was at the top. 
 The lead shepherd was sitting there and enjoying the view of Chamba valley.
 Breathing lively and cherishing what beautiful the view was, there is another thought going in back of my mind and I was wondering what would be the view of the other side from the top. 
