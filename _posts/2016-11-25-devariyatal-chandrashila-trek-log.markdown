@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Devariyatal - Chandrashila Trek
-date: 2017-11-25
+date: 2016-11-25
 author: Prashant C Chaturvedi
 categories:
   - self
