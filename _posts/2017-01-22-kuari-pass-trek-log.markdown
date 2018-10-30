@@ -10,6 +10,8 @@ tags:
   - chamoli
   - joshimath
   - auli
+  - uttarakhand
+  - trekking
 description: Kuari pass Trek Log
 image: https://c2.staticflickr.com/2/1934/31419828648_8c3ba78713_o.jpg
 image-sm: https://c2.staticflickr.com/2/1911/44571706544_67aa6fd6c5_o.jpg
@@ -67,7 +69,7 @@ We found a little space nearby where we could pitch our tents. Nima decided to s
   <figcaption>Kitchen</figcaption>
 </figure>
 
-We had started from Auli after our breakfast and were hungry by the time we reached Chitrkantha around 2:30 PM. 
+We had started from Auli after our breakfast and were hungry by the time we reached Chitrkantha around 2:30 PM.
 Nima quickly made tea for all of us and then we went on exploring around, while Nima had started preparing dinner.
 When sun was about to set, we crammed around a little bonfire made by Nima discussing our next day plans.
 Nima was planning to camp in Khullar next day before reaching Kuari pass.

@@ -1,17 +1,19 @@
---- 
-layout: post 
+---
+layout: post
 title: Advance Mountaineering Course, NIM
 date: 2014-10-14
-author: Prashant C Chaturvedi 
+author: Prashant C Chaturvedi
 categories:
   - course
   - organised
   - trek
   - mountaineering
-tags: 
+tags:
   - AMC
   - NIM
-  - Uttarkashi
+  - uttarkashi
+  - uttarakhand
+  - mountaineering
 description: 'Advance Mountaineering Course, NIM (Nehru Institute Of Mountaineering)'
 image: https://c2.staticflickr.com/2/1921/44569947464_fd78768f32_o.jpg
 image-sm: https://c2.staticflickr.com/2/1919/31418060008_feb79a7902_o.jpg
@@ -93,7 +95,7 @@ practice many techniques of rock craft.
 These five days, we used to to start our trek early morning to Tekhla.
 When we reach there, we do some stretching exercises and then have our
 breakfast. After breakfast we start our rock climbing lessons with our
-instructors. We get lunch in Tekhla itself and continued our training till 5 PM. 
+instructors. We get lunch in Tekhla itself and continued our training till 5 PM.
 We used to get back to our institute by bus in evening.
 
 ##### Day 7
@@ -172,7 +174,7 @@ Wadia Institute, Dehradun for weather monitoring.
 
 This day we had this very long trek from Tel camp to Gujjar Hut
 (altitude 11200 ft.). It counts as toughest day so far. We started
-early after cleaning Tel campsite and reached Gujjar Hut in the 
+early after cleaning Tel campsite and reached Gujjar Hut in the
 afternoon. From Gujjar hut, we started getting nice view of nearby peaks
 like Jaonli (6630 meters). The place Gujjar hut was given this name
 because of few huts of Gujjars nearby who stay here in summers. We went
@@ -339,7 +341,7 @@ eatables.  It was an arduous task to ascent on continuous ice and
 moraine. I had OTG (over the glass) snow goggles which were too foggy to
 see and made the trek difficult. I had to walk without snow goggles most
 of the time. After reaching there, we set up tents for kitchen and store
-room and dumped our loads. The camp 1 area is a [cwm](http://en.wikipedia.org/wiki/Cirque) (pronounced *coom*). 
+room and dumped our loads. The camp 1 area is a [cwm](http://en.wikipedia.org/wiki/Cirque) (pronounced *coom*).
 This is a relatively flat area completely on glacier and many crevasses around.
 We could see all kinds of features of ice which we were told around. Ice
 tables, serac, bergschrund, crevasses, overhanging glaciers. If we're
@@ -396,7 +398,7 @@ one side.
 We woke up in very very early in the morning, like 2 AM and prepared ourselves for summit attempt.
 Chilling wind was blowing as we equipped ourselves with the harness set
 and other technical gear. I kept the breakfast in the bag and left for
-the summit attempt. It was dark and everybody was wearing head torches. 
+the summit attempt. It was dark and everybody was wearing head torches.
 We started the ascent in the lateral moraine spanning high up towards
 our way with the helps of cairns established last evening. Everybody was
 walking briskly as if there was a very narrow time window for the summit.
@@ -442,7 +444,7 @@ sir reached there around 7:45 am.We congratulated each other for our
 successfully summit. It was blissful moment. We could see the surrounding
 peaks protruding upside from the quilt of clouds. Senior instructor
 Jagmohan Singh Rawat introduced us to the surrounding peaks. We could
-see Shrikanth, Bandarpoonch Range, Kala Nag, Rudragaira, Gangotri Range, 
+see Shrikanth, Bandarpoonch Range, Kala Nag, Rudragaira, Gangotri Range,
 Jaonli, Nanda Devi, Kedar Dome, Kedarnath Valley DKD-I.
 After that everybody got busy posing and clicking pictures. After some
 15-20 mins, we started our descent. It was fairly difficult to

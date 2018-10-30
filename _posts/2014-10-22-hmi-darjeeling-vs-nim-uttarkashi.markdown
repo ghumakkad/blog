@@ -1,25 +1,28 @@
---- 
-layout: post 
-title: HMI, Darjeeling vs. NIM, Uttarkashi 
+---
+layout: post
+title: HMI, Darjeeling vs. NIM, Uttarkashi
 date: 2014-10-22
-author: Prashant C Chaturvedi 
+author: Prashant C Chaturvedi
 categories:
 - blog
 - mountaineering
-tags: 
-- Darjeeling 
-- Uttarkashi
-- BMC 
-- NIM 
+tags:
+- darjeeling
+- uttarkashi
+- BMC
+- NIM
 - HMI
 - AMC
-description: HMI, Darjeeling vs. NIM, Uttarkashi 
+- mountaineering
+- uttarakhand
+- bengal
+description: HMI, Darjeeling vs. NIM, Uttarkashi
 image: https://c2.staticflickr.com/2/1953/44381608445_fca2849817_o.jpg
 image-sm: https://c2.staticflickr.com/2/1923/45244542032_8cbe2f997a_o.jpg
 ---
 
-This is one of those questions which comes to mind when going for a mountaineering course in India. 
-Having done my [BMC from HMI]({{ site.baseurl }}{% post_url 2009-04-11-basic-mountaineering-course-hmi %}) and [AMC from NIM]({{ site.baseurl }}{% post_url 2014-10-14-advance-mountaineering-course-nim %}), I got some idea about the training in these two institutes. 
+This is one of those questions which comes to mind when going for a mountaineering course in India.
+Having done my [BMC from HMI]({{ site.baseurl }}{% post_url 2009-04-11-basic-mountaineering-course-hmi %}) and [AMC from NIM]({{ site.baseurl }}{% post_url 2014-10-14-advance-mountaineering-course-nim %}), I got some idea about the training in these two institutes.
 Here is what I thought of HMI and NIM in terms of :
 
 #### Organization

@@ -1,25 +1,31 @@
 ---
 layout: post
 title: Mountaineering Institutes in India
-date: 2016-10-15 
-author: Prashant C Chaturvedi 
-categories: 
-- organised 
-- course 
-- blog 
+date: 2016-10-15
+author: Prashant C Chaturvedi
+categories:
+- organised
+- course
+- blog
 - mountaineering
-tags: 
-- Manali 
-- Darjeeling 
-- Uttarkashi 
-- Gulmarg 
-- West Kameng 
-description: Mountaineering Institutes in India 
+tags:
+- manali
+- darjeeling
+- uttarkashi
+- gulmarg
+- mountaineering
+- gangtok
+- uttarakhand
+- sikkim
+- himachal
+- kashmir
+- bengal
+description: Mountaineering Institutes in India
 image: https://c2.staticflickr.com/2/1923/45244542032_8cbe2f997a_o.jpg
 image-sm: https://c2.staticflickr.com/2/1953/44381608445_fca2849817_o.jpg
 ---
 
-Although there are many other institutes in India, but these two are the most sought ones. 
+Although there are many other institutes in India, but these two are the most sought ones.
 [Indian Mountaineering Foundation](https://www.indmount.org), which is apex national body in this field lists 5 institutes on it's webpage.
 
 1.  [Himalayan Mountaineering Institute (HMI), Darjeeling, West Bengal](https://hmidarjeeling.com/)
