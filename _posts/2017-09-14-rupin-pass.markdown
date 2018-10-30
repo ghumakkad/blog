@@ -109,7 +109,7 @@ Had we came in the month of August, it would've been even more wonderful when th
 
 #### Day 5
 
-Today, we realized that we hadn't planned our food rations very well or some really got lost. All we were left with now was rice. It seems that we had bought pulses in little amount as compared to rice. So, we have now had to resort to rice with some _maggi masala_ or salt and onions. We started our day around 10:00 and started walking towards waterfall. Trails were nowhere to be found and and we were forcing our way into the tall and dense flowers on the left side slope of river valley. Our guide was quick to negotiate the area and we were watching our steps through the chest-height grass before taking them.
+Today, we realized that we hadn't planned our food rations very well or some really got lost. All we were left with now was rice. It seems that we had bought pulses in little amount as compared to rice. So, we have now had to resort to rice with some maggi masala or salt and onions. We started our day around 10:00 and started walking towards waterfall. Trails were nowhere to be found now and and we were forcing our way into the tall and dense flowers on the left side slope of river valley. Our guide was quick to negotiate the area and we were watching our steps through the chest-height grass before taking them.
 
 <figure>
   <img src="https://c2.staticflickr.com/2/1963/30692135997_e7f36cc2f4_k.jpg" alt="Wading in the grass to find a way, behind me is Akash"/>
@@ -123,7 +123,7 @@ Sometimes Akash was behind and playing catch up with us and the the process even
   <figcaption>Rupin valley from waterfall</figcaption>
 </figure>
 
-Only thing which was making us slow in this trek now was the continuous climb with good amount of weight. Our guide was walking fast and I had to wait in the middle sometimes to keep everyone together. After upper water fall, Akash used to get behind a lot and we waited for him more frequently. I made good use of my whistle which I was carrying to keep each other aware of general direction most of the times. It was getting cloudy, and visibility was very low. Trails were faded or sometimes not be found because very few people might be crossing the pass this season. Seeing the bad weather and unawareness of the distance of next campsite, I was trying to make Akash hurry up. I didn't do a very good job in motivating and Akash was really tired. He was taking frequent and long stops. When he was left behind, echoing whistle was confusing him in poor visibility and sometimes he even lost track of trail. Because of this we also had to take frequent stops. This way we might get caught in hail or rain, I thought. After some persuasion, at one stop, Akash allowed me to take his bag. I was little afraid of weather turning bad and we needed to make it to campsite before it happens, so I pushed forward with guide and asked Akash to try his best to follow us. It was a difficult walk now. I could imagine, this whole scenery around us could've been more beautiful and picturesque, given the weather didn't turn against us this way. Trudging up on the gradual slope besides with Rupin stream flowing slowly on our right, when we reached _Rata-Pheri_ around 14:00, wind had now become chilly. Without wasting any time, we pitched our tents. It had started raining. We all took refuge in one tent and cozied up in sleeping bags. Around sunset, the rain subsided.
+Only thing which was making us slow in this trek now was the continuous climb with good amount of weight. Our guide was walking fast and I had to wait in the middle sometimes to keep everyone together. After upper water fall, Akash used to get behind a lot and we waited for him more frequently. I made good use of my whistle which I was carrying to keep each other aware of general direction most of the times. It was getting cloudy, and visibility was very low. Trails were faded or sometimes not visible at all because very few people might be crossing the pass this season. Seeing the bad weather and unawareness of the distance of next campsite, I was trying to make Akash hurry up. I didn't do a very good job in motivating and Akash was really tired. He was taking frequent and long stops. When he was left behind, echoing whistle was confusing him in poor visibility and sometimes he even lost track of trail. Because of this we also had to take frequent stops. This way we might get caught in hail or rain, I thought. After some persuasion, at one stop, Akash allowed me to take his bag. I was little afraid of weather turning bad and we needed to make it to campsite before it happens, so I pushed forward with guide and asked Akash to try his best to follow us. It was a difficult walk now. I could imagine, this whole scenery around us could've been more beautiful and picturesque, given the weather didn't turn against us this way. Trudging up on the gradual slope besides with Rupin stream flowing slowly on our right, when we reached _Rata-Pheri_ around 14:00, wind had now become chilly. Without wasting any time, we pitched our tents. It had started raining. We all took refuge in one tent and cozied up in sleeping bags. Around sunset, the rain subsided.
 
 #### Day 6
 
@@ -134,7 +134,8 @@ It was D-Day. Last night we had planned to start early. Morning was chilly and h
   <figcaption>Trail towards Rupin pass and the gully leading to the pass</figcaption>
 </figure>
 
-Hopping big boulders along the path was little difficult without snow, and we trudged along with our guide towards the pass. The trail was not visible and everyone was taking the shortest possible way towards the place where pass starts. It was not far, and everyone was visible, so we all moved at our own pace. At the foot of the pass, we all assembled for little water and rest but started climbing soon afterwards. The last stretch towards pass is a steep narrow gully filled with scree and loose rocks on both sides of cliffs. During the time we were climbing, there was no snow. Sun had risen when we were at the foot of the pass. The rocks exposed to light start to slide or fall off with the rising sun.
+Hopping big boulders along the path was little difficult without snow, and we trudged along with our guide towards the pass. The trail was not visible and everyone was taking the shortest possible way towards the place where pass starts. It was not far, and everyone was visible, so we all moved at our own pace. At the foot of the pass, we all assembled for little water and rest but started climbing soon afterwards. The last stretch towards pass is a steep narrow gully filled with scree and loose rocks on both sides of cliffs. During the time we were climbing, there was no snow. Sun had risen when we were at the foot of the pass.The rocks exposed to light start to slide or fall off with the rising sun.
+
 Though it was not scary, but Akash was far behind. Without saying much about why, I suggested Akash to hurry as it is not that far and moved up after staying a while. On reaching top, our guide went back to catch and help Akash, though he had also reached on his own.
 
 <figure>
@@ -164,14 +165,18 @@ We had planned to reach all the way to Sangla today so it was a long way to go. 
   <figcaption>First village after Rupin Pass, Sangla Kanda</figcaption>
 </figure>
 
-Along the way, there were many apricot trees. We fed ourselves with the fallen ones and moved along. We had started feeling tired and more hungry walking through long village route. We even discussed if we can borrow some apples on the trees which was very tempting. With the thought that Sangla is not very far, and we can have a sumptuous meal over there; we continued walking. By 14:30, we reached the city.
+Along the way, there were many apricot trees. We fed ourselves with the fallen ones and moved along. We had started feeling tired and more hungry walking through long village route. We even discussed if we can borrow some apples on the trees which was very tempting.
+
+With the thought that Sangla is not very far, and we can have a sumptuous meal over there; we continued walking. By 14:30, we reached the city.
 
 <figure>
   <img src="https://c2.staticflickr.com/2/1928/31760801458_9d77255688_o.jpg" alt="A temple in Sangla"/>
   <figcaption>A temple in Sangla</figcaption>
 </figure>
 
-After keeping our bags in a hotel of our guide's acquaintance, we had a nice warm _thali_ of _dal, chawal, roti, sabzi_. Our guide wanted to leave on same say and we were undecided between staying one more day to visit Chitkul or to leave the same day. In end we left with our guide in evening bus for Delhi.
+After keeping our bags in a hotel of our guide's acquaintance, we had a nice warm _thali_ of _dal, chawal, roti, sabzi_ (such a delight it is after so many days of good food). 
+
+So now it was time for all of us to bid happy goodbyes, while we were still deciding between staying one more day so as to visit Chitkul or to leave the same day but our guide wanted to leave on same day. So upon deciding to leave, we took a bus to Delhi in the evening and reached the next morning having one of the most blissful sleep the entire journey.
 
 #### References:
 1. <a href="https://www.researchgate.net/profile/Richard_Hughes15/publication/228983379_Cator_and_Cribbage_Construction_of_Northern_Pakistan/links/557055d208aeccd77741a19d/Cator-and-Cribbage-Construction-of-Northern-Pakistan.pdf">Cator and Cribbage Construction of Northern Pakistan by _Richard Hughes_</a>
