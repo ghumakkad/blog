@@ -87,7 +87,7 @@ So, we enquired about the logistics needed and arranged food for the rest of our
 We left Dalima with the family with the promise to be back as soon. All of them were happy to have her.
 
 
-Next day morning (Tuesday it was), we started off early after wrapping up our tents.
+Next day morning (Tuesday it was), we started off early after wrapping up our tents. Passing by the famous temple of Osla village which is said to be originally dedicated to Kaurav King Duryodhana, we rushed for Har Ki Doon with a promise to ourselves that we'll try to reach as early as possible.
 Crossing Kalkatiyadhar campsite, we reached Har ki doon by afternoon.
 
 <figure>
@@ -136,3 +136,6 @@ We still had two spare days left and we could've attempted for Kedarkantha trek.
 But on the other hand, we thought New year parties with friends in Delhi are also cool and we left for Delhi the next morning.
 
 [Here is the link to our shared album.](https://goo.gl/photos/xyArwdXxLzjtvKWDA)
+
+#### References:
+<a href="https://www.thehindu.com/society/history-and-culture/a-temple-for-duryodhana-in-the-himalayas/article18425964.ece">Shrine for Duryodhana! by Vrinda and J. Ramanan</a>
