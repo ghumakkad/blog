@@ -138,4 +138,4 @@ But on the other hand, we thought New year parties with friends in Delhi are als
 [Here is the link to our shared album.](https://goo.gl/photos/xyArwdXxLzjtvKWDA)
 
 #### References:
-<a href="https://www.thehindu.com/society/history-and-culture/a-temple-for-duryodhana-in-the-himalayas/article18425964.ece">Shrine for Duryodhana! by Vrinda and J. Ramanan</a>
+<a href="https://www.thehindu.com/society/history-and-culture/a-temple-for-duryodhana-in-the-himalayas/article18425964.ece">Shrine for Duryodhana! by _Vrinda and J. Ramanan_</a>
