@@ -14,6 +14,6 @@ tags:
   - trekking
   - anantnag
 description: Tarsar Marsar Lakes Trek Log
-image: https://c2.staticflickr.com/2/1935/45274006722_5ddaa3ef9c_o.jpg
-image-sm: https://c2.staticflickr.com/2/1947/44600161474_721e51a158_o.jpg
+image: https://live.staticflickr.com/65535/53840348446_dd85ae2d05_k.jpg
+image-sm: https://live.staticflickr.com/65535/53840793435_a24b33dc38_k.jpg
 ---

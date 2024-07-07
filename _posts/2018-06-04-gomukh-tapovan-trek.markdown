@@ -14,6 +14,6 @@ tags:
   - trekking
   - tapovan
 description: Gomukh Tapovan Trek Log
-image: https://c2.staticflickr.com/2/1935/45274006722_5ddaa3ef9c_o.jpg
-image-sm: https://c2.staticflickr.com/2/1947/44600161474_721e51a158_o.jpg
+image: https://live.staticflickr.com/65535/53840356176_793d4441e8_k.jpg
+image-sm: https://live.staticflickr.com/65535/53839461982_3c777e5dbf_k.jpg
 ---
