@@ -20,6 +20,6 @@ tags:
   - kafni
   - trekking
 description: Pindari Trek Log
-image: https://c2.staticflickr.com/2/1935/45274006722_5ddaa3ef9c_o.jpg
-image-sm: https://c2.staticflickr.com/2/1947/44600161474_721e51a158_o.jpg
+image: https://live.staticflickr.com/65535/53839439292_e928a3d1c0_k.jpg
+image-sm: https://live.staticflickr.com/65535/53840597148_f04c4cfbeb_k.jpg
 ---

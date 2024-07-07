@@ -14,6 +14,6 @@ tags:
   - nim
   - gangotri
 description: Dayara Bugyal Trek Log
-image: https://c2.staticflickr.com/2/1935/45274006722_5ddaa3ef9c_o.jpg
-image-sm: https://c2.staticflickr.com/2/1947/44600161474_721e51a158_o.jpg
+image: https://live.staticflickr.com/65535/53840783630_3bd75d15b6_k.jpg
+image-sm: https://live.staticflickr.com/65535/53840783625_a42821b3e8_k.jpg
 ---
