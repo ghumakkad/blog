@@ -1,19 +1,14 @@
 ---
 layout: post
-title: Dayara Bugyal Trek
+title: Kedarkantha Trek
 author: Prashant C Chaturvedi
-date: 2022-12-24
+date: 2019-12-21
 categories:
   - trek
 tags:
   - uttarkashi
-  - raithal
-  - bhatwari
-  - skiing
-  - meadows
-  - nim
-  - gangotri
-description: Pindari Trek Log
-image: https://c2.staticflickr.com/2/1935/45274006722_5ddaa3ef9c_o.jpg
-image-sm: https://c2.staticflickr.com/2/1947/44600161474_721e51a158_o.jpg
+  - sankri
+description: Kedarkantha Trek Log
+image: https://live.staticflickr.com/65535/53840741450_cc5c02588f_k.jpg
+image-sm: https://live.staticflickr.com/65535/53839402717_0802513439_k.jpg
 ---

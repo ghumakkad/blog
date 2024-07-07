@@ -1,19 +1,26 @@
 ---
 layout: post
-title: Dayara Bugyal Trek
+title: Kalindikhal Trek
 author: Prashant C Chaturvedi
-date: 2022-12-24
+date: 2021-09-11
 categories:
   - trek
 tags:
   - uttarkashi
-  - raithal
-  - bhatwari
-  - skiing
-  - meadows
-  - nim
   - gangotri
-description: Pindari Trek Log
-image: https://c2.staticflickr.com/2/1935/45274006722_5ddaa3ef9c_o.jpg
-image-sm: https://c2.staticflickr.com/2/1947/44600161474_721e51a158_o.jpg
+  - badrinath
+  - mana
+  - niti
+  - vasuki tal
+  - gangotri
+  - bhagirathi
+  - tapovan
+  - nandanvan
+  - shwet glacier
+  - chaturangi glacier
+  - chandra peak
+  - satopanth
+description: Kalindikhal Trek Log
+image: https://live.staticflickr.com/65535/53840663894_6aee44d554_k.jpg
+image-sm: https://live.staticflickr.com/65535/53840313201_881400b94b_k.jpg
 ---

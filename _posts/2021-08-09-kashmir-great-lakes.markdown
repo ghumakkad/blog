@@ -1,19 +1,13 @@
 ---
 layout: post
-title: Dayara Bugyal Trek
+title: Kashmir Great Lakes Trek
 author: Prashant C Chaturvedi
-date: 2022-12-24
+date: 2021-08-09
 categories:
   - trek
 tags:
-  - uttarkashi
-  - raithal
-  - bhatwari
-  - skiing
-  - meadows
-  - nim
-  - gangotri
-description: Pindari Trek Log
-image: https://c2.staticflickr.com/2/1935/45274006722_5ddaa3ef9c_o.jpg
-image-sm: https://c2.staticflickr.com/2/1947/44600161474_721e51a158_o.jpg
+  - kashmir
+description: Kashmir Great Lakes Trek Log
+image: https://live.staticflickr.com/65535/53840565483_126dfb1afa_k.jpg
+image-sm: https://live.staticflickr.com/65535/53840746910_2e8c3386c5_k.jpg
 ---
