@@ -1,19 +1,19 @@
 ---
 layout: post
-title: Dayara Bugyal Trek
+title: Audens Col Trek
 author: Prashant C Chaturvedi
-date: 2022-12-24
+date: 2023-06-11
 categories:
   - trek
 tags:
   - uttarkashi
-  - raithal
-  - bhatwari
-  - skiing
-  - meadows
-  - nim
+  - kedarnath
   - gangotri
-description: Pindari Trek Log
-image: https://c2.staticflickr.com/2/1935/45274006722_5ddaa3ef9c_o.jpg
-image-sm: https://c2.staticflickr.com/2/1947/44600161474_721e51a158_o.jpg
+  - mayali
+  - expedition
+  - ghuttu
+  - kedartal
+description: Audens Col Trek Log
+image: https://live.staticflickr.com/65535/53839382792_afb9750e39_k.jpg
+image-sm: https://live.staticflickr.com/65535/53840628159_0fb756e76f_h.jpg
 ---
