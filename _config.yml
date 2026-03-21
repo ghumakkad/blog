@@ -28,7 +28,6 @@ markdown: kramdown
 plugins:
   - jekyll-paginate
   - jekyll-sitemap
-  - octopress-autoprefixer
   - jekyll-asciidoc
   - jekyll-mentions
   - jemoji

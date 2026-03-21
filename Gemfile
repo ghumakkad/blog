@@ -1,13 +1,16 @@
 source "https://rubygems.org"
 
-gem 'jekyll', '~> 3.8.4'
-gem 'coderay', '~> 1.1.2'
-gem 'rake-jekyll', '~> 1.1.0'
+ruby '~> 4.0'
+
+gem 'jekyll', '~> 4.4'
+gem 'coderay', '~> 1.1'
+gem 'webrick', '~> 1.9'
+gem 'csv', '~> 3.3'
+gem 'base64', '~> 0.2'
 
 group :jekyll_plugins do
   gem "jekyll-paginate"
   gem "jekyll-sitemap"
-  gem "octopress-autoprefixer"
   gem 'jekyll-asciidoc'
   gem 'jemoji'
   gem 'jekyll-mentions'
